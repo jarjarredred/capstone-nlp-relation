@@ -1,4 +1,0 @@
-order_id,datetime,region_id,currency_code,product_id,unit_price,quantity,is_online,customer_id,is_new_customer,device_type,payment_method,referral_source,discount_code,customer_note
-e7324981-a9f0-419f-b708-d0a333451fff,2026-05-04T08:11:00Z,US-TX,USD,PY-STREAM-005,59.99,3,true,CUST-4150,false,tablet,paypal,paid_search,,Gift for my team
-d61943e0-f543-4b5f-9c9a-18605ea4cfe5,2026-05-04T08:23:00Z,US-TX,USD,PY-DATA-002,49.99,1,true,CUST-1106,false,mobile,paypal,paid_search,,Gift for my team
-14da1915-8e74-47be-9e10-f7275d31af46,2026-05-04T08:28:00Z,CA-QC,CAD,PY-NLP-006,54.99,1,true,CUST-2133,false,desktop,paypal,organic,,Learning at my own pace
