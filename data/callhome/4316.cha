@@ -1,0 +1,442 @@
+@UTF8
+@PID:	11312/a-00004939-1
+@Begin
+@Languages:	eng
+@Participants:	A Subject, B Subject
+@ID:	eng|eng|A|||||Subject|||
+@ID:	eng|eng|B|||||Subject|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-04T04:02:34-04:00]
+@Media:	4316, audio
+*B:	and the same . 399970_400760
+%mor:	cconj|and det|the-Def-Art adj|same-S1 .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|3|PUNCT
+*B:	he's he's not &+s . 401200_402360
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not .
+%gra:	1|2|NSUBJ 2|5|COP 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+*A:	0 &=channel_noise . 402080_402560
+*B:	eating at the table . 402430_403780
+%mor:	verb|eat-Part-Pres-S adp|at det|the-Def-Art noun|table .
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|PUNCT
+*B:	because when he sits at the table he has to kind of lean forward +/. 404350_407590
+%mor:	sconj|because adv|when pron|he-Prs-Nom-S3 verb|sit-Fin-Ind-Pres-S3 adp|at det|the-Def-Art noun|table pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 part|to noun|kind adp|of verb|lean-Inf-S adv|forward +/.
+%gra:	1|9|MARK 2|4|ADVMOD 3|4|NSUBJ 4|9|ADVCL 5|7|CASE 6|7|DET 7|4|OBL 8|9|NSUBJ 9|0|ROOT 10|13|MARK 11|13|ADVMOD 12|11|FIXED 13|9|XCOMP 14|13|ADVMOD 15|9|PUNCT
+*A:	yeah &=channel_noise . 407400_408130
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	+, to the plates &=channel_noise . 408030_409020
+%mor:	adp|to det|the-Def-Art noun|plate-Plur .
+%gra:	1|3|CASE 2|3|DET 3|0|ROOT 4|3|PUNCT
+*A:	yeah &-mm . 408140_409340
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	and I said that's a no no . 409400_411010
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art intj|no intj|no .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|7|NSUBJ 5|7|COP 6|7|DET 7|3|CCOMP 8|3|CCOMP 9|3|PUNCT
+*A:	mhm &=channel_noise . 411140_412440
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	and so and yet he said he can go out for dinner . 412370_415340
+%mor:	cconj|and adv|so cconj|and adv|yet pron|he-Prs-Nom-S3 verb|say-Fin-Ind-Past-S3-irr pron|he-Prs-Nom-S3 aux|can-Fin-S verb|go-Inf-S adp|out adp|for noun|dinner .
+%gra:	1|6|CC 2|6|ADVMOD 3|6|CC 4|6|ADVMOD 5|6|NSUBJ 6|0|ROOT 7|9|NSUBJ 8|9|AUX 9|6|CCOMP 10|9|COMPOUND-PRT 11|12|CASE 12|9|OBL 13|6|PUNCT
+*A:	&=channel_noise you're not xxx . 412710_413820
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 part|not .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*A:	yeah because &=channel_noise you're not you're not supposed to &=channel_noise have that at a ninety degree angle . 416490_420340
+%mor:	intj|yeah sconj|because pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 part|not pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 part|not verb|suppose-Part-Past-S part|to verb|have-Inf-S pron|that-Dem adp|at det|a-Ind-Art num|ninety noun|degree noun|angle .
+%gra:	1|9|DISCOURSE 2|5|MARK 3|5|NSUBJ 4|9|ADVCL 5|9|ADVCL 6|9|NSUBJ-PASS 7|9|AUX-PASS 8|9|ADVMOD 9|0|ROOT 10|11|MARK 11|9|XCOMP 12|11|OBJ 13|17|CASE 14|17|DET 15|17|NUMMOD 16|17|COMPOUND 17|11|OBL 18|9|PUNCT
+*B:	what . 417140_417300
+%mor:	pron|what-Int-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	you're not supposed to have it more than a ninety degree angle . 420730_424300
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 part|not verb|suppose-Part-Past-S part|to verb|have-Inf-S pron|it-Prs-Acc-S3 adj|more-Cmp-S1 adp|than det|a-Ind-Art num|ninety noun|degree noun|angle .
+%gra:	1|4|NSUBJ-PASS 2|4|AUX-PASS 3|4|ADVMOD 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|6|OBJ 8|6|ADVMOD 9|13|CASE 10|13|DET 11|12|NUMMOD 12|13|COMPOUND 13|8|OBL 14|4|PUNCT
+*A:	&=breathes &=channel_noise oh . 421820_424470
+%mor:	intj|oh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	more than ninety degree . 424860_426750
+%mor:	adj|more-Cmp-S1 adp|than num|ninety noun|degree .
+%gra:	1|4|ADVMOD 2|1|FIXED 3|4|NUMMOD 4|0|ROOT 5|4|PUNCT
+*A:	so I always had something you know a pillow under there or something &=channel_noise . 426370_430120
+%mor:	adv|so pron|I-Prs-Nom-S1 adv|always verb|have-Fin-Ind-Past-S1-irr pron|something-Ind-S1 pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 det|a-Ind-Art noun|pillow-Acc adp|under adv|there cconj|or pron|something-Ind-S1 .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|9|DET 9|7|OBJ 10|11|CASE 11|7|OBL 12|13|CC 13|11|CONJ 14|4|PUNCT
+*B:	right right &=breathes and you know people think we're nuts &=channel_noise . 429300_433600
+%mor:	adv|right adj|right-S1 cconj|and pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 noun|person-Plur verb|think-Fin-Ind-Pres-P3 pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 noun|nut-Plur .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|5|CC 4|5|NSUBJ 5|2|CONJ 6|7|NSUBJ 7|5|CCOMP 8|10|NSUBJ 9|10|COP 10|7|CCOMP 11|2|PUNCT
+*A:	&=channel_noise . 432100_432520
+*B:	you know people come to visit and I say &=breathes you can sit here there and there but you can't sit in those two chairs because those are the chairs that Allie sit in &=breathes . 433710_441500
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 noun|person-Plur verb|come-Fin-Ind-Pres-P3 part|to verb|visit-Inf-S cconj|and pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Pres-S1 pron|you-Prs-Nom-S2 aux|can-Fin-S verb|sit-Inf-S adv|here adv|there cconj|and adv|there cconj|but pron|you-Prs-Nom-S2 aux|can-Fin-S~part|not verb|sit-Inf-S adp|in det|that-Def-Dem-Plur num|two noun|chair-Plur sconj|because pron|that-Dem-P1 aux|be-Fin-Ind-Pres-P3 det|the-Def-Art noun|chair-Plur pron|that-Rel propn|Allie verb|sit-Fin-Ind-Pres-P3 adp|in .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NSUBJ 4|2|CCOMP 5|6|MARK 6|4|XCOMP 7|9|CC 8|9|NSUBJ 9|2|CONJ 10|12|NSUBJ 11|12|AUX 12|9|CCOMP 13|12|ADVMOD 14|12|ADVMOD 15|16|CC 16|14|CONJ 17|21|CC 18|21|NSUBJ 19|21|AUX 20|21|ADVMOD 21|2|CONJ 22|25|CASE 23|25|DET 24|25|NUMMOD 25|21|OBL 26|30|MARK 27|30|NSUBJ 28|30|COP 29|30|DET 30|21|ADVCL 31|33|OBJ 32|33|NSUBJ 33|30|ACL-RELCL 34|33|COMPOUND-PRT 35|2|PUNCT
+*A:	&=channel_noise . 437610_438260
+*A:	yeah . 441070_441530
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	and they look at me like well what difference does it make . 441550_444440
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|look-Fin-Ind-Pres-P3 adp|at pron|I-Prs-Acc-S1 adp|like intj|well det|what-Def-Int noun|difference-Acc aux|do-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 verb|make-Inf-S .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|CASE 5|3|OBL 6|3|COMPOUND-PRT 7|12|DISCOURSE 8|9|DET 9|12|OBJ 10|12|AUX 11|12|NSUBJ 12|3|PARATAXIS 13|3|PUNCT
+*A:	&=channel_noise . 441930_443290
+*B:	you know &=breathes it makes a lot of difference +/. 444710_446820
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|it-Prs-Nom-S3 verb|make-Fin-Ind-Pres-S3 det|a-Ind-Art noun|lot-Acc adp|of noun|difference +/.
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NSUBJ 4|2|CCOMP 5|6|DET 6|4|OBJ 7|8|CASE 8|6|NMOD 9|2|PUNCT
+*A:	oh . 444820_444990
+%mor:	intj|oh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	&-mm &=channel_noise . 446630_447250
+*B:	+, the chair he's in &=channel_noise . 447080_448390
+%mor:	det|the-Def-Art noun|chair pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|in .
+%gra:	1|2|DET 2|0|ROOT 3|5|NSUBJ 4|5|COP 5|2|ACL-RELCL 6|2|PUNCT
+*A:	sure &=channel_noise yeah . 447410_448520
+%mor:	adj|sure-S1 intj|yeah .
+%gra:	1|0|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*B:	and then I'll say to him put your leg down +/. 448800_451860
+%mor:	cconj|and adv|then pron|I-Prs-Nom-S1~aux|will-Fin-S verb|say-Inf-S adp|to pron|he-Prs-Acc-S3 verb|put-Fin-S pron|your-Prs-Gen-S2 noun|leg-Acc adp|down +/.
+%gra:	1|5|CC 2|5|ADVMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|CASE 7|5|OBL 8|5|XCOMP 9|10|NMOD-POSS 10|8|OBJ 11|8|COMPOUND-PRT 12|5|PUNCT
+*A:	&=channel_noise . 451820_452540
+*B:	+, you know &=breathes +/. 452450_453310
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 +/.
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*A:	&=channel_noise . 453090_453340
+*B:	+, and they think what is she badgering him for . 453400_456100
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|think-Fin-Ind-Pres-P3 pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|she-Prs-Nom-S3 verb|badger-Part-Pres-S pron|he-Prs-Acc-S3 adp|for .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|7|OBJ 5|7|AUX 6|7|NSUBJ 7|3|CCOMP 8|7|OBJ 9|3|PUNCT 10|3|PUNCT
+*A:	&=channel_noise . 456060_456440
+*B:	but he forgets and he pulls that leg up &=channel_noise . 456260_459000
+%mor:	cconj|but pron|he-Prs-Nom-S3 verb|forget-Fin-Ind-Pres-S3 cconj|and pron|he-Prs-Nom-S3 verb|pull-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing noun|leg-Acc adp|up .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|CC 5|6|NSUBJ 6|3|CONJ 7|8|DET 8|6|OBJ 9|6|COMPOUND-PRT 10|3|PUNCT
+*A:	&-mm . 458860_459310
+*B:	and it is supposed to be extended +/. 459320_461310
+%mor:	cconj|and pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|suppose-Part-Past-S part|to aux|be-Inf-S verb|extend-Part-Past-S +/.
+%gra:	1|4|CC 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|0|ROOT 5|7|MARK 6|7|AUX-PASS 7|4|XCOMP 8|4|PUNCT
+*A:	yeah . 461420_461740
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	+, a little bit you know . 461850_462940
+%mor:	det|a-Ind-Art adj|little-S1 noun|bit pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 .
+%gra:	1|3|DET 2|3|AMOD 3|0|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|3|PUNCT
+*A:	&-mm yeah . 462230_463600
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	&=channel_noise he's a wonderful patient though . 463060_465250
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|wonderful-S1 noun|patient adv|though .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|0|ROOT 6|5|ADVMOD 7|5|PUNCT
+*A:	yeah sure . 465080_466100
+%mor:	intj|yeah adj|sure-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*B:	you know &=breathes and . 465580_467350
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 cconj|and .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|CC 4|2|PUNCT
+*A:	&=channel_noise . 467250_467570
+*B:	he he &+j . 467470_468050
+%mor:	pron|he-Prs-Nom-S3 pron|he-Prs-Nom-S3 .
+%gra:	1|2|COMPOUND 2|0|ROOT 3|2|PUNCT
+*A:	&=channel_noise and it's very early yet Toni my god . 467710_470670
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|very adj|early-S1 cconj|yet propn|Toni pron|my-Prs-Gen-S1 noun|god .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|0|ROOT 6|7|CC 7|5|CONJ 8|9|NMOD-POSS 9|7|NMOD-UNMARKED 10|5|PUNCT
+*B:	well that's what I'm saying you know &=breathes I . 470070_472770
+%mor:	intj|well pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|what-Rel-S1 pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|say-Part-Pres-S pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|I-Prs-Nom-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|7|NSUBJ 6|7|AUX 7|4|ACL-RELCL 8|9|NSUBJ 9|7|CCOMP 10|4|DISCOURSE 11|4|PUNCT
+*A:	&=channel_noise this is only a week . 471970_473740
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 adv|only det|a-Ind-Art noun|week .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|ADVMOD 4|5|DET 5|0|ROOT 6|5|PUNCT
+*B:	I said to Brent you know he was operated on friday and home monday and . 473660_478810
+%mor:	pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr adp|to propn|Brent pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|operate-Part-Past-S adp|on propn|Friday cconj|and noun|home propn|Monday cconj|and .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|CASE 4|2|OBL 5|6|NSUBJ 6|2|CCOMP 7|9|NSUBJ-PASS 8|9|AUX-PASS 9|6|CCOMP 10|11|CASE 11|9|OBL 12|13|CC 13|11|CONJ 14|11|CONJ 15|2|CONJ 16|2|PUNCT
+*A:	&=channel_noise yeah . 477660_479170
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	he said I didn't realize that &=breathes . 478850_480970
+%mor:	pron|he-Prs-Nom-S3 verb|say-Fin-Ind-Past-S3-irr pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr~part|not verb|realize-Inf-S pron|that-Dem .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|2|CCOMP 7|6|OBJ 8|2|PUNCT
+*B:	he said that's a little soon I said you bet your bippie &=laughs . 481160_484530
+%mor:	pron|he-Prs-Nom-S3 verb|say-Fin-Ind-Past-S3-irr pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|little-S1 adv|soon pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr pron|you-Prs-Nom-S2 verb|bet-Fin-Ind-Pres-S2 pron|your-Prs-Gen-S2 noun|bippie-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|7|NSUBJ 4|7|COP 5|6|DET 6|7|OBL-UNMARKED 7|2|CCOMP 8|9|NSUBJ 9|2|CCOMP 10|11|NSUBJ 11|9|CCOMP 12|13|NMOD-POSS 13|11|OBJ 14|2|PUNCT
+*A:	and and it's not nice for you either +/. 484710_486440
+%mor:	cconj|and cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not adj|nice-S1 adp|for pron|you-Prs-Acc-S2 adv|either +/.
+%gra:	1|6|CC 2|6|CC 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|0|ROOT 7|8|CASE 8|6|OBL 9|6|ADVMOD 10|6|PUNCT
+*B:	&=channel_noise . 484760_485080
+*B:	no no &=breathes I've never been so frightened . 486620_489780
+%mor:	intj|no intj|no pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 adv|never aux|be-Part-Past-S-irr adv|so adj|frighten-S1 .
+%gra:	1|8|DISCOURSE 2|8|DISCOURSE 3|8|NSUBJ 4|8|AUX 5|8|ADVMOD 6|8|COP 7|8|ADVMOD 8|0|ROOT 9|8|PUNCT
+*A:	+, &=channel_noise because &=channel_noise . 487060_488520
+%mor:	adv|because .
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	&=channel_noise . 490320_490620
+*B:	you know &=breathes when he fell . 490670_492970
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 adv|when pron|he-Prs-Nom-S3 verb|fall-Fin-Ind-Past-S3-irr .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|ADVMOD 4|5|NSUBJ 5|2|ADVCL 6|2|PUNCT
+*A:	yeah . 491160_491720
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	&=channel_noise oh . 492930_494200
+%mor:	intj|oh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	that did something to my confidence . 493300_495630
+%mor:	pron|that-Dem verb|do-Fin-Ind-Past-S3-irr pron|something-Ind-S1 adp|to pron|my-Prs-Gen-S1 noun|confidence .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|6|CASE 5|6|NMOD-POSS 6|2|OBL 7|2|PUNCT
+*A:	I'm sure . 495810_496530
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|sure-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*B:	you know I mean I'm pretty confident and I've been around sick +/. 496660_499610
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|pretty adj|confident-S1 cconj|and pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 aux|be-Part-Past-S-irr adv|around adj|sick-S1 +/.
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NSUBJ 4|2|PARATAXIS 5|8|NSUBJ 6|8|COP 7|8|ADVMOD 8|2|CCOMP 9|14|CC 10|14|NSUBJ 11|14|AUX 12|14|COP 13|14|ADVMOD 14|8|CONJ 15|2|PUNCT
+*A:	&=channel_noise &-mm . 497510_499000
+*B:	+, people and you know my mother had her hip +/. 499680_501970
+%mor:	noun|person-Plur cconj|and pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|my-Prs-Gen-S1 noun|mother verb|have-Fin-Ind-Past-S3-irr pron|her-Prs-Gen-S3 noun|hip-Acc +/.
+%gra:	1|4|NSUBJ 2|3|CC 3|1|CONJ 4|0|ROOT 5|6|NMOD-POSS 6|7|NSUBJ 7|4|CCOMP 8|9|NMOD-POSS 9|7|OBJ 10|4|PUNCT
+*A:	&-mm . 500810_500980
+*B:	+, and &=breathes &-uh you know I'm I . 502080_504530
+%mor:	cconj|and pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|NSUBJ 5|6|COP 6|3|CCOMP 7|3|PUNCT
+*A:	&=channel_noise . 502190_503630
+*B:	&+c and certainly I work with the fragile +/. 505080_507410
+%mor:	cconj|and adv|certainly pron|I-Prs-Nom-S1 verb|work-Fin-Ind-Pres-S1 adp|with det|the-Def-Art adj|fragile-S1 +/.
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*A:	&=channel_noise mhm . 507490_508160
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	+, in special Ed you know . 507700_509170
+%mor:	adp|in adj|special-S1 propn|Ed pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 .
+%gra:	1|3|CASE 2|3|AMOD 3|5|OBL 4|5|NSUBJ 5|0|ROOT 6|5|PUNCT
+*A:	&-mm . 509220_509770
+*B:	&=channel_noise and I've never &=channel_noise . 509930_511610
+%mor:	cconj|and pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 adv|never .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|ADVMOD 5|3|PUNCT
+*B:	&-eh been so nervous as I was that night . 511920_514460
+%mor:	aux|be-Part-Past-S-irr adv|so adj|nervous-S1 sconj|as pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr det|that-Def-Dem-Sing noun|night .
+%gra:	1|3|COP 2|3|ADVMOD 3|0|ROOT 4|8|MARK 5|8|NSUBJ 6|8|COP 7|8|DET 8|3|ADVCL 9|3|PUNCT
+*A:	well that's enough &=channel_noise to scare the &=channel_noise life out of you to +/. 514930_516890
+%mor:	intj|well pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|enough-S1 part|to verb|scare-Inf-S det|the-Def-Art noun|life-Acc adp|out adp|of pron|you-Prs-Acc-S2 adp|to +/.
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|8|DET 8|6|OBJ 9|11|CASE 10|11|CASE 11|6|OBL 12|4|PUNCT 13|4|PUNCT
+*B:	uhhuh . 516630_517110
+%mor:	intj|uhhuh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	+, bring him home and have him fall &=channel_noise . 516940_518650
+%mor:	verb|bring-Fin-Imp-S pron|he-Prs-Acc-S3 adv|home cconj|and verb|have-Fin-Imp-S pron|he-Prs-Acc-S3 verb|fall-Inf-S .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|ADVMOD 4|5|CC 5|1|CONJ 6|5|OBJ 7|5|XCOMP 8|1|PUNCT
+*B:	right you know &=breathes and then all I could think of is if he +/. 518490_522010
+%mor:	adj|right-S1 pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 cconj|and adv|then det|all-Def-Tot pron|I-Prs-Nom-S1 aux|could-Fin-S verb|think-Inf-S adp|of aux|be-Fin-Ind-Pres-S3 sconj|if pron|he-Prs-Nom-S3 +/.
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|11|CC 5|9|ADVMOD 6|11|NSUBJ 7|9|NSUBJ 8|9|AUX 9|6|ACL-RELCL 10|9|OBL 11|13|COP 12|13|MARK 13|3|PARATAXIS 14|3|PUNCT
+*A:	&=channel_noise . 522180_523500
+*B:	+, pops something it was my fault . 522280_524510
+%mor:	verb|pop-Fin-Ind-Pres-S3 pron|something-Ind-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr pron|my-Prs-Gen-S1 noun|fault .
+%gra:	1|0|ROOT 2|1|OBJ 3|6|NSUBJ 4|6|COP 5|6|NMOD-POSS 6|2|ACL-RELCL 7|1|PUNCT
+*A:	yeah . 524530_525390
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	you know &=breathes . 525300_526020
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*A:	&=channel_noise . 525750_525880
+*B:	really wasn't my fault but that's how I felt . 526110_528650
+%mor:	adv|really aux|be-Fin-Ind-Past-S3-irr~part|not pron|my-Prs-Gen-S1 noun|fault cconj|but pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|how pron|I-Prs-Nom-S1 verb|feel-Fin-Ind-Past-S1-irr .
+%gra:	1|5|ADVMOD 2|5|COP 3|5|ADVMOD 4|5|NMOD-POSS 5|0|ROOT 6|9|CC 7|9|NSUBJ 8|9|COP 9|5|CONJ 10|11|NSUBJ 11|9|ADVCL-RELCL 12|5|PUNCT
+*A:	&=channel_noise &-hm . 527960_529100
+*B:	you know &=breathes and then somebody else was saying well you need to laugh more &=laughs and I thought , laugh more I'll smack you &=laughs . 528960_537360
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 cconj|and adv|then pron|somebody-Ind-S1 adj|else-S1 aux|be-Fin-Ind-Past-S3-irr verb|say-Part-Pres-S adv|well pron|you-Prs-Nom-S2 verb|need-Fin-Ind-Pres-S2 part|to verb|laugh-Inf-S adj|more-Cmp-S1 cconj|and pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Past-S1-irr cm|cm verb|laugh-Fin-Imp-S adv|more pron|I-Prs-Nom-S1~aux|will-Fin-S verb|smack-Inf-S pron|you-Prs-Acc-S2 .
+%gra:	1|2|NSUBJ 2|8|PARATAXIS 3|8|CC 4|8|ADVMOD 5|8|NSUBJ 6|5|AMOD 7|8|AUX 8|0|ROOT 9|8|ADVMOD 10|11|NSUBJ 11|8|CCOMP 12|13|MARK 13|11|XCOMP 14|13|ADVMOD 15|17|CC 16|17|NSUBJ 17|8|CONJ 18|19|PUNCT 19|17|PARATAXIS 20|19|ADVMOD 21|23|NSUBJ 22|23|AUX 23|19|CCOMP 24|23|OBJ 25|8|PUNCT
+*B:	&=laughs yeah you know so &=breathes &=laughs &+whe when I'm not laughing or Allie's not laughing there's something wrong you know . 539290_546210
+%mor:	intj|yeah pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 adv|so adv|when pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|not verb|laugh-Part-Pres-S cconj|or propn|Allie~aux|be-Fin-Ind-Pres-S3 part|not verb|laugh-Part-Pres-S pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 pron|something-Ind-S1 adj|wrong-S1 pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|16|ADVMOD 5|9|ADVMOD 6|9|NSUBJ 7|9|AUX 8|9|ADVMOD 9|16|ADVCL 10|14|CC 11|14|NSUBJ 12|14|AUX 13|14|ADVMOD 14|9|CONJ 15|16|EXPL 16|3|CONJ 17|16|NSUBJ 18|17|AMOD 19|20|NSUBJ 20|17|ACL-RELCL 21|3|PUNCT
+*A:	yes because you do very well in that area too xxx yeah &=channel_noise .
+%mor:	intj|yes sconj|because pron|you-Prs-Nom-S2 verb|do-Fin-Ind-Pres-S2 adv|very adv|well adp|in det|that-Def-Dem-Sing noun|area adv|too intj|yeah .
+%gra:	1|4|DISCOURSE 2|4|MARK 3|4|NSUBJ 4|0|ROOT 5|6|ADVMOD 6|4|ADVMOD 7|9|CASE 8|9|DET 9|4|OBL 10|4|ADVMOD 11|4|DISCOURSE 12|4|PUNCT
+*A:	yeah yeah &=channel_noise . 546360_549000
+%mor:	intj|yeah intj|yeah .
+%gra:	1|0|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*B:	and &-uh then somebody else said well you need to get out more Toni . 547750_551580
+%mor:	cconj|and adv|then pron|somebody-Ind-S1 adj|else-S1 verb|say-Fin-Ind-Past-S3-irr adv|well pron|you-Prs-Nom-S2 verb|need-Fin-Ind-Pres-S2 part|to verb|get-Inf-S adp|out adv|more propn|Toni-Acc .
+%gra:	1|5|CC 2|5|ADVMOD 3|5|NSUBJ 4|3|AMOD 5|0|ROOT 6|5|ADVMOD 7|8|NSUBJ 8|5|CCOMP 9|10|MARK 10|8|XCOMP 11|10|COMPOUND-PRT 12|13|ADVMOD 13|10|OBJ 14|5|PUNCT
+*B:	and I thought why . 552310_553440
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Past-S1-irr adv|why .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|ADVMOD 5|3|PUNCT
+*A:	&=channel_noise . 552690_553940
+*B:	I want to be with Allie . 553870_555210
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 part|to aux|be-Inf-S adp|with propn|Allie .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|6|MARK 4|6|COP 5|6|CASE 6|2|XCOMP 7|2|PUNCT
+*A:	yeah sure . 555080_555990
+%mor:	intj|yeah adj|sure-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*B:	you know I have no desire I wouldn't care if I ever went out again you know . 555790_559450
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 det|no-Def-Neg noun|desire-Acc pron|I-Prs-Nom-S1 aux|would-Fin-S~part|not verb|care-Inf-S sconj|if pron|I-Prs-Nom-S1 adv|ever verb|go-Fin-Ind-Past-S1-irr adv|out adv|again pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NSUBJ 4|2|CCOMP 5|6|DET 6|4|OBJ 7|10|NSUBJ 8|10|AUX 9|10|ADVMOD 10|6|ACL-RELCL 11|14|MARK 12|14|NSUBJ 13|14|ADVMOD 14|10|ADVCL 15|14|ADVMOD 16|14|ADVMOD 17|18|NSUBJ 18|2|PARATAXIS 19|2|PUNCT
+*A:	&=channel_noise &-mm &-mm . 557730_560300
+*B:	and she said oh you need to get out and you know be among people and everything and . 560050_564620
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|say-Fin-Ind-Past-S3-irr intj|oh pron|you-Prs-Nom-S2 verb|need-Fin-Ind-Pres-S2 part|to verb|get-Inf-S adp|out cconj|and pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 aux|be-Inf-S adp|among noun|person-Plur cconj|and pron|everything-Tot-S1 cconj|and .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|DISCOURSE 5|6|NSUBJ 6|3|CCOMP 7|8|MARK 8|6|XCOMP 9|8|COMPOUND-PRT 10|12|CC 11|12|NSUBJ 12|6|CONJ 13|15|COP 14|15|CASE 15|12|CCOMP 16|17|CC 17|15|CONJ 18|3|CONJ 19|3|PUNCT
+*A:	&=channel_noise . 562680_564990
+*B:	that's because she needs that she could this person can never stay home five minutes . 565120_569790
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 sconj|because pron|she-Prs-Nom-S3 verb|need-Fin-Ind-Pres-S3 sconj|that pron|she-Prs-Nom-S3 aux|could-Fin-S det|this-Def-Dem-Sing noun|person aux|can-Fin-S adv|never verb|stay-Inf-S adv|home num|five noun|minute-Plur .
+%gra:	1|5|NSUBJ-OUTER 2|5|COP 3|5|MARK 4|5|NSUBJ 5|0|ROOT 6|13|MARK 7|13|NSUBJ 8|13|AUX 9|10|DET 10|13|NSUBJ 11|13|AUX 12|13|ADVMOD 13|5|CCOMP 14|13|ADVMOD 15|16|NUMMOD 16|13|OBL-UNMARKED 17|5|PUNCT
+*A:	&-uh . 569810_570100
+*B:	but I don't need that I can't tell you the last time I've been in a department store . 570940_575330
+%mor:	cconj|but pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|need-Inf-S sconj|that pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|tell-Inf-S pron|you-Prs-Acc-S2 det|the-Def-Art adj|last-S1 noun|time pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 aux|be-Part-Past-S-irr adp|in det|a-Ind-Art noun|department noun|store .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|10|MARK 7|10|NSUBJ 8|10|AUX 9|10|ADVMOD 10|5|CCOMP 11|10|IOBJ 12|14|DET 13|14|AMOD 14|10|OBL-UNMARKED 15|21|NSUBJ 16|21|AUX 17|21|COP 18|21|CASE 19|21|DET 20|21|COMPOUND 21|14|ACL-RELCL 22|5|PUNCT
+*A:	and I'm sure he doesn't want to go out &=channel_noise . 574780_576660
+%mor:	cconj|and pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|sure-S1 pron|he-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|want-Inf-S part|to verb|go-Inf-S adp|out .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|4|CCOMP 9|10|MARK 10|8|XCOMP 11|10|COMPOUND-PRT 12|4|PUNCT
+*B:	oh no &=laughs he was terrified at the doctor's today because &=breathes . 576550_581320
+%mor:	intj|oh intj|no pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|terrify-Part-Past-S adp|at det|the-Def-Art noun|doctor~part|s noun|today adv|because .
+%gra:	1|5|DISCOURSE 2|5|DISCOURSE 3|5|NSUBJ-PASS 4|5|AUX-PASS 5|0|ROOT 6|10|CASE 7|8|DET 8|10|NMOD-POSS 9|8|CASE 10|5|OBL-UNMARKED 11|5|ADVMOD 12|5|PUNCT
+*A:	&=channel_noise oh yeah . 577830_581030
+%mor:	intj|oh intj|yeah .
+%gra:	1|0|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*B:	little kids were running around and the mothers weren't watching . 581400_584590
+%mor:	adj|little-S1 noun|kid-Plur aux|be-Fin-Ind-Past-P3-irr verb|run-Part-Pres-S adv|around cconj|and det|the-Def-Art noun|mother-Plur aux|be-Fin-Ind-Past-P3-irr~part|not verb|watch-Part-Pres-S .
+%gra:	1|2|AMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|ADVMOD 6|11|CC 7|8|DET 8|11|NSUBJ 9|11|AUX 10|11|ADVMOD 11|4|CONJ 12|4|PUNCT
+*A:	&=channel_noise is he using the walker or the crutches . 582990_585410
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|he-Prs-Nom-S3 verb|use-Part-Pres-S det|the-Def-Art noun|walker-Acc cconj|or det|the-Def-Art noun|crutch-Plur .
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|8|CC 7|8|DET 8|5|CONJ 9|3|PUNCT
+*B:	&=smacks:lips &=breathes &-uh he was using the walker and . 585110_588880
+%mor:	pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|use-Part-Pres-S det|the-Def-Art noun|walker-Acc cconj|and .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|CONJ 7|3|PUNCT
+*A:	&=channel_noise . 588230_589220
+*B:	&-uh then &-uh monday the nurse &+encou the therapist encouraged him to try the +/. 589050_594500
+%mor:	adv|then propn|Monday det|the-Def-Art noun|nurse det|the-Def-Art noun|therapist verb|encourage-Fin-Ind-Past-S3 pron|he-Prs-Acc-S3 part|to verb|try-Inf-S det|the-Def-Art +/.
+%gra:	1|7|ADVMOD 2|7|OBL-UNMARKED 3|4|DET 4|7|NSUBJ 5|6|DET 6|7|NSUBJ 7|0|ROOT 8|7|OBJ 9|10|MARK 10|7|XCOMP 11|10|OBJ 12|7|PUNCT
+*A:	&=channel_noise . 593120_593940
+*B:	+, crutches . 594640_595210
+%mor:	noun|crutch-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	uhhuh . 595250_595610
+%mor:	intj|uhhuh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	and so today he used the crutches going to the doctor's office +/. 596010_600140
+%mor:	cconj|and adv|so noun|today pron|he-Prs-Nom-S3 verb|use-Fin-Ind-Past-S3 det|the-Def-Art noun|crutch-Plur-Acc verb|go-Ger-S adp|to det|the-Def-Art noun|doctor~part|s noun|office +/.
+%gra:	1|5|CC 2|5|ADVMOD 3|5|OBL-UNMARKED 4|5|NSUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|7|ACL 9|13|CASE 10|11|DET 11|13|NMOD-POSS 12|11|CASE 13|8|OBL 14|5|PUNCT
+*A:	&=channel_noise . 598510_599490
+*B:	+, because it was easier &=channel_noise . 600290_601770
+%mor:	sconj|because pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adj|easy-Cmp-S1 .
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*A:	&-mm . 601600_602040
+*B:	the doctor's office no matter where you park +/. 602160_604880
+%mor:	det|the-Def-Art noun|doctor~part|s noun|office det|no-Def-Neg noun|matter adv|where pron|you-Prs-Nom-S2 verb|park-Fin-Ind-Pres-S2 +/.
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|0|ROOT 5|6|DET 6|4|NMOD-UNMARKED 7|9|ADVMOD 8|9|NSUBJ 9|6|ACL-RELCL 10|4|PUNCT
+*A:	&=channel_noise . 603190_605420
+*B:	+, you have a long walk . 605520_608000
+%mor:	pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 det|a-Ind-Art adj|long-S1 noun|walk-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|2|PUNCT
+*A:	&=breathes &=channel_noise . 607870_608720
+*B:	to the door &=breathes +/. 608290_609500
+%mor:	adp|to det|the-Def-Art noun|door +/.
+%gra:	1|3|CASE 2|3|DET 3|0|ROOT 4|3|PUNCT
+*A:	&=channel_noise &-mm . 609100_610050
+*B:	+, because they have like a courtyard +/. 609770_611960
+%mor:	sconj|because pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Pres-P3 adp|like det|a-Ind-Art noun|courtyard +/.
+%gra:	1|3|MARK 2|3|NSUBJ 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*A:	yeah . 612300_612660
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	+, instead of having handicap +/. 612690_614060
+%mor:	adv|instead sconj|of verb|have-Part-Pres-S noun|handicap-Acc +/.
+%gra:	1|3|MARK 2|1|FIXED 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*A:	&=channel_noise . 613220_614260
+*B:	+, parking &=channel_noise . 614160_615100
+%mor:	noun|parking-Ger .
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	&=channel_noise &-mm . 614870_615530
+*B:	and the area that you have to walk on +/. 615690_618110
+%mor:	cconj|and det|the-Def-Art noun|area pron|that-Rel pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 part|to verb|walk-Inf-S adp|on +/.
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|8|OBJ 5|6|NSUBJ 6|3|ACL-RELCL 7|8|MARK 8|6|XCOMP 9|4|CASE 10|3|PUNCT
+*A:	&=channel_noise . 618240_619410
+*B:	+, half of it is &-uh like fake stonework . 618580_623500
+%mor:	noun|half adp|of pron|it-Prs-Acc-S3 aux|be-Fin-Ind-Pres-S3 adp|like adj|fake-S1 noun|stonework .
+%gra:	1|7|NSUBJ 2|3|CASE 3|1|NMOD 4|7|COP 5|7|CASE 6|7|AMOD 7|0|ROOT 8|7|PUNCT
+*A:	&=channel_noise oh boy yeah . 623240_624710
+%mor:	intj|oh intj|boy intj|yeah .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|DISCOURSE 4|2|PUNCT
+*B:	they're crazy . 624880_625820
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 adj|crazy-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*B:	this is for an orthopedic group &=breathes &=laughs . 626540_628650
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 adp|for det|a-Ind-Art adj|orthopedic-S1 noun|group .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|CASE 4|6|DET 5|6|AMOD 6|0|ROOT 7|6|PUNCT
+*A:	&-mm . 626700_627060
+*A:	&-mm &=breathes . 628430_629210
+*B:	you know . 628850_629590
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*A:	&=channel_noise . 629900_629990
+*B:	they're nuts &=breathes . 629970_631010
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 noun|nut-Plur .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*A:	yeah . 630780_631200
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	and &-um and then when we went to +/. 631340_634110
+%mor:	cconj|and cconj|and adv|then adv|when pron|we-Prs-Nom-P1 verb|go-Fin-Ind-Past-P1-irr adp|to +/.
+%gra:	1|6|CC 2|6|CC 3|6|ADVMOD 4|6|ADVMOD 5|6|NSUBJ 6|0|ROOT 7|6|OBL 8|6|PUNCT
+*A:	&=channel_noise . 633490_634860
+*B:	+, pull into the parking place some dude . 634360_636870
+%mor:	verb|pull-Fin-Imp-S adp|into det|the-Def-Art noun|parking-Ger noun|place det|some-Def-Ind noun|dude .
+%gra:	1|0|ROOT 2|5|CASE 3|5|DET 4|5|COMPOUND 5|1|OBL 6|7|DET 7|1|OBL-UNMARKED 8|1|PUNCT
+*B:	&+a in you know in the handicap parking place he had taken up two . 637670_640870
+%mor:	sconj|in pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 adp|in det|the-Def-Art noun|handicap noun|parking-Ger noun|place pron|he-Prs-Nom-S3 aux|have-Fin-Ind-Past-S3-irr verb|take-Part-Past-S-irr adp|up num|two .
+%gra:	1|3|MARK 2|3|NSUBJ 3|11|ADVCL 4|8|CASE 5|8|DET 6|8|COMPOUND 7|8|COMPOUND 8|3|OBL 9|11|NSUBJ 10|11|AUX 11|0|ROOT 12|11|COMPOUND-PRT 13|11|OBJ 14|11|PUNCT
+*A:	&=channel_noise . 638860_639680
+*B:	+, places where the ramp was . 641320_643010
+%mor:	noun|place-Plur adv|where det|the-Def-Art noun|ramp aux|be-Fin-Ind-Past-S3-irr .
+%gra:	1|0|ROOT 2|5|ADVMOD 3|4|DET 4|5|NSUBJ 5|1|ACL-RELCL 6|1|PUNCT
+*A:	&=channel_noise &-mm . 643300_644100
+*B:	a young kid . 643910_644780
+%mor:	det|a-Ind-Art adj|young-S1 noun|kid .
+%gra:	1|3|DET 2|3|AMOD 3|0|ROOT 4|3|PUNCT
+*B:	and I said to Allie boy I hope he gets in that car when I'm out here because I'm going to give him a piece of my mind &=breathes . 646020_651910
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr adp|to propn|Allie propn|boy pron|I-Prs-Nom-S1 verb|hope-Fin-Ind-Pres-S1 pron|he-Prs-Nom-S3 verb|get-Fin-Ind-Pres-S3 adp|in det|that-Def-Dem-Sing noun|car adv|when pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|out adv|here sconj|because pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|give-Inf-S pron|he-Prs-Acc-S3 det|a-Ind-Art noun|piece-Acc adp|of pron|my-Prs-Gen-S1 noun|mind .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|CASE 5|3|OBL 6|3|OBL 7|8|NSUBJ 8|3|PARATAXIS 9|10|NSUBJ 10|8|CCOMP 11|13|CASE 12|13|DET 13|10|OBL 14|17|ADVMOD 15|17|NSUBJ 16|17|COP 17|10|ADVCL 18|10|ADVMOD 19|22|MARK 20|22|NSUBJ 21|22|AUX 22|10|ADVCL 23|24|MARK 24|22|XCOMP 25|24|IOBJ 26|27|DET 27|24|OBJ 28|30|CASE 29|30|NMOD-POSS 30|27|NMOD 31|3|PUNCT
+*A:	&=channel_noise . 648630_649710
+*A:	&-mm . 651750_652240
+*B:	but I was parking the car when he got in and took off you know so I didn't get my opportunity . 652130_657210
+%mor:	cconj|but pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr verb|park-Part-Pres-S det|the-Def-Art noun|car-Acc adv|when pron|he-Prs-Nom-S3 verb|get-Fin-Ind-Past-S3-irr adv|in cconj|and verb|take-Fin-Ind-Past-S3-irr adp|off pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 adv|so pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr~part|not verb|get-Inf-S pron|my-Prs-Gen-S1 noun|opportunity-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|9|ADVMOD 8|9|NSUBJ 9|4|ADVCL 10|9|ADVMOD 11|12|CC 12|9|CONJ 13|12|COMPOUND-PRT 14|15|NSUBJ 15|12|PARATAXIS 16|20|ADVMOD 17|20|NSUBJ 18|20|AUX 19|20|ADVMOD 20|4|PARATAXIS 21|22|NMOD-POSS 22|20|OBJ 23|4|PUNCT
+*A:	&=channel_noise . 654250_654820
+*A:	&-mm . 657320_658030
+*B:	but anyway he used the crutches going and coming I had the walker with me but &=breathes he . 658590_663660
+%mor:	cconj|but adv|anyway pron|he-Prs-Nom-S3 verb|use-Fin-Ind-Past-S3 det|the-Def-Art noun|crutch-Plur-Acc verb|go-Ger-S cconj|and verb|come-Ger-S pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Past-S1-irr det|the-Def-Art noun|walker-Acc adp|with pron|I-Prs-Acc-S1 cconj|but pron|he-Prs-Nom-S3 .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|ACL 8|9|CC 9|7|CONJ 10|11|NSUBJ 11|4|CONJ 12|13|DET 13|11|OBJ 14|15|CASE 15|11|OBL 16|17|CC 17|11|CONJ 18|4|PUNCT
+*A:	&=channel_noise &=clears:throat . 658990_659820
+*A:	see I never use the &+cru I'd I never &+u I would be afraid to use &+cru . 663240_666520
+%mor:	verb|see-Fin-Imp-S pron|I-Prs-Nom-S1 adv|never verb|use-Fin-Ind-Pres-S1 det|the-Def-Art pron|I-Prs-Nom-S1~aux|would-Fin-S pron|I-Prs-Nom-S1 adv|never pron|I-Prs-Nom-S1 aux|would-Fin-S aux|be-Inf-S adj|afraid-S1 part|to verb|use-Inf-S .
+%gra:	1|0|ROOT 2|4|NSUBJ 3|4|ADVMOD 4|1|CCOMP 5|4|OBJ 6|7|NSUBJ 7|13|REPARANDUM 8|13|REPARANDUM 9|13|ADVMOD 10|13|NSUBJ 11|13|AUX 12|13|COP 13|1|PARATAXIS 14|15|MARK 15|13|XCOMP 16|1|PUNCT
+*B:	yeah he &+wa he was quite comfortable with the crutches . 666040_669020
+%mor:	intj|yeah pron|he-Prs-Nom-S3 pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adv|quite adj|comfortable-S1 adp|with det|the-Def-Art noun|crutch-Plur .
+%gra:	1|6|DISCOURSE 2|6|NSUBJ 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|0|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|6|PUNCT
+*A:	&-mm &=channel_noise I think they're newer . 668830_670560
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 adj|new-Cmp-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|NSUBJ 4|5|COP 5|2|CCOMP 6|2|PUNCT
+*B:	and but he can't use them for any length of time because he gets tired . 669560_674110
+%mor:	cconj|and cconj|but pron|he-Prs-Nom-S3 aux|can-Fin-S~part|not verb|use-Inf-S pron|they-Prs-Acc-P3 adp|for det|any-Def-Ind noun|length adp|of noun|time sconj|because pron|he-Prs-Nom-S3 verb|get-Fin-Ind-Pres-S3 adj|tired-S1 .
+%gra:	1|6|CC 2|6|CC 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|6|OBJ 8|10|CASE 9|10|DET 10|6|OBL 11|12|CASE 12|10|NMOD 13|15|MARK 14|15|NSUBJ 15|6|ADVCL 16|15|XCOMP 17|6|PUNCT
+*A:	&=channel_noise yeah . 673650_675260
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	and so let's see what else so &=breathes . 675130_678020
+%mor:	cconj|and adv|so verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S pron|what-Int-S1 adj|else-S1 adv|so .
+%gra:	1|3|CC 2|3|ADVMOD 3|0|ROOT 4|3|OBJ 5|3|XCOMP 6|5|OBJ 7|6|AMOD 8|3|ADVMOD 9|3|PUNCT
+*B:	the swelling has now pretty well gone down but he said to wear the sock for another week +/. 678140_683240
+%mor:	det|the-Def-Art noun|swell-Ger aux|have-Fin-Ind-Pres-S3 adv|now adv|pretty adv|well verb|go-Part-Past-S-irr adp|down cconj|but pron|he-Prs-Nom-S3 verb|say-Fin-Ind-Past-S3-irr part|to verb|wear-Inf-S det|the-Def-Art noun|sock-Acc adp|for det|another-Def-Ind noun|week +/.
+%gra:	1|2|DET 2|7|NSUBJ 3|7|AUX 4|7|ADVMOD 5|6|ADVMOD 6|7|ADVMOD 7|0|ROOT 8|7|COMPOUND-PRT 9|11|CC 10|11|NSUBJ 11|7|CONJ 12|13|MARK 13|11|XCOMP 14|15|DET 15|13|OBJ 16|18|CASE 17|18|DET 18|13|OBL 19|7|PUNCT
+*A:	&=channel_noise . 679110_680330
+*A:	&=channel_noise . 683640_685080
+*B:	+, during the day . 683880_684880
+%mor:	adp|during det|the-Def-Art noun|day .
+%gra:	1|3|CASE 2|3|DET 3|0|ROOT 4|3|PUNCT
+*B:	he told me to get vitamin e@l and break it open and put it on the incision . 685400_690090
+%mor:	pron|he-Prs-Nom-S3 verb|tell-Fin-Ind-Past-S3-irr pron|I-Prs-Acc-S1 part|to verb|get-Inf-S noun|vitamin n:let|e cconj|and verb|break-Inf-S pron|it-Prs-Acc-S3 adj|open-S1 cconj|and verb|put-Inf-S pron|it-Prs-Acc-S3 adp|on det|the-Def-Art noun|incision .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|IOBJ 4|5|MARK 5|2|XCOMP 6|7|COMPOUND 7|5|DEP 8|9|CC 9|5|CONJ 10|9|OBJ 11|9|XCOMP 12|13|CC 13|9|CONJ 14|13|OBJ 15|17|CASE 16|17|DET 17|13|OBL 18|2|PUNCT
+*A:	&=channel_noise &-hm &=channel_noise . 689130_691300
+*B:	that helps in the healing of the incision . 691200_693400
+%mor:	pron|that-Dem verb|help-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|healing-Ger adp|of det|the-Def-Art noun|incision .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|8|CASE 7|8|DET 8|5|NMOD 9|2|PUNCT
+*A:	mhm &=channel_noise . 693460_694600
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	&=smacks:lips and &-um &=breathes . 693930_696220
+%mor:	cconj|and .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	you know and to put peroxide on the incision and that . 697580_700390
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 cconj|and part|to verb|put-Inf-S noun|peroxide-Acc adp|on det|the-Def-Art noun|incision cconj|and pron|that-Dem .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|CC 4|5|MARK 5|2|CONJ 6|5|OBJ 7|9|CASE 8|9|DET 9|5|OBL 10|11|CC 11|9|CONJ 12|2|PUNCT
+*A:	&=channel_noise . 699910_700590
+*B:	and then , one question we didn't ask . 701060_703360
+%mor:	cconj|and adv|then cm|cm num|one noun|question pron|we-Prs-Nom-P1 aux|do-Fin-Ind-Past-P1-irr~part|not verb|ask-Inf-S .
+%gra:	1|9|CC 2|9|ADVMOD 3|2|PUNCT 4|5|NUMMOD 5|9|OBL-UNMARKED 6|9|NSUBJ 7|9|AUX 8|9|ADVMOD 9|0|ROOT 10|9|PUNCT
+@End

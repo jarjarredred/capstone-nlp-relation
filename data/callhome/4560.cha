@@ -1,0 +1,403 @@
+@UTF8
+@PID:	11312/a-00077145-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant, PAR1 Participant
+@ID:	eng|eng|PAR0|||||Participant|||
+@ID:	eng|eng|PAR1|||||Participant|||
+@Media:	4560, audio
+@Comment:	ASR from Rev-AI
+*PAR0:	what was the last the &-uh remodeling or &-uh home project that you've worked on . 35_5165
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Past-S3-irr det|the-Def-Art adj|last-S1 det|the-Def-Art noun|remodeling-Ger cconj|or noun|home noun|project pron|that-Rel pron|youve-Prs-Nom-S2 verb|work-Fin-Ind-Past-S3 adp|on .
+%gra:	1|0|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|9|DET 6|9|COMPOUND 7|8|CC 8|6|CONJ 9|4|NSUBJ 10|12|OBJ 11|12|NSUBJ 12|9|ACL-RELCL 13|10|CASE 14|1|PUNCT
+*PAR1:	well let's see . 5955_6645
+%mor:	intj|well verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|2|PUNCT
+*PAR1:	&-um the last thing I worked on . 7225_10605
+%mor:	det|the-Def-Art adj|last-S1 noun|thing-Ger pron|I-Prs-Nom-S1 verb|work-Fin-Ind-Past-S1 adp|on .
+%gra:	1|3|DET 2|3|AMOD 3|0|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|5|OBL 7|3|PUNCT
+*PAR1:	well let's see . 11115_11805
+%mor:	intj|well verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|2|PUNCT
+*PAR1:	&-uh I haven't done an awful lot because I just bought my house here . 12265_15845
+%mor:	pron|I-Prs-Nom-S1 aux|havent-Fin-Ind-Pres-S1 verb|do-Part-Past-S-irr det|a-Ind-Art adj|awful-S1 noun|lot-Acc sconj|because pron|I-Prs-Nom-S1 adv|just verb|buy-Fin-Ind-Past-S1-irr pron|my-Prs-Gen-S1 noun|house-Acc adv|here .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|10|MARK 8|10|NSUBJ 9|10|ADVMOD 10|3|ADVCL 11|12|NMOD-POSS 12|10|OBJ 13|10|ADVMOD 14|3|PUNCT
+*PAR1:	oh &-um I've been planning on doing some work &-uh to &-uh fix up some of the stuff around here . 16065_23805
+%mor:	intj|oh aux|be-Fin-Ind-Pres-S1 aux|be-Part-Past-S-irr verb|plan-Part-Pres-S sconj|on verb|do-Part-Pres-S det|some-Def-Ind noun|work-Acc part|to verb|fix-Inf-S adp|up det|some-Def-Ind adp|of det|the-Def-Art noun|stuff adp|around adv|here .
+%gra:	1|4|DISCOURSE 2|4|AUX 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|ADVCL 7|8|DET 8|6|OBJ 9|10|MARK 10|6|ADVCL 11|10|COMPOUND-PRT 12|10|OBJ 13|15|CASE 14|15|DET 15|12|NMOD 16|17|CASE 17|10|OBL 18|4|PUNCT
+*PAR1:	and &-uh I've been repairing some lights &-uh stuff like that . 24465_28525
+%mor:	cconj|and aux|be-Fin-Ind-Pres-S1 aux|be-Part-Past-S-irr verb|repair-Part-Pres-S det|some-Def-Ind noun|light-Plur noun|stuff-Acc adp|like pron|that-Dem .
+%gra:	1|4|CC 2|4|AUX 3|4|AUX 4|0|ROOT 5|7|DET 6|7|COMPOUND 7|4|OBJ 8|9|CASE 9|7|NMOD 10|4|PUNCT
+*PAR1:	&-uh need to I need to seal the &-uh back deck since it's &-uh they allowed it to get weather beaten . 29105_35925
+%mor:	verb|need-Fin-Ind-Pres-S1 part|to pron|I-Prs-Nom-S1 verb|need-Fin-Ind-Pres-S1 part|to verb|seal-Inf-S det|the-Def-Art noun|back noun|deck-Acc sconj|since pron|its-Prs-Gen-S3 pron|they-Prs-Nom-P3 verb|allow-Fin-Ind-Past-P3 pron|it-Prs-Acc-S3 part|to verb|get-Inf-S noun|weather-Acc verb|beat-Part-Past-S-irr .
+%gra:	1|0|ROOT 2|4|MARK 3|4|NSUBJ 4|1|CCOMP 5|6|MARK 6|4|XCOMP 7|9|DET 8|9|COMPOUND 9|6|OBJ 10|13|MARK 11|12|NMOD-POSS 12|13|NSUBJ 13|6|ADVCL 14|13|OBJ 15|16|MARK 16|13|XCOMP 17|16|OBJ 18|16|XCOMP 19|1|PUNCT
+*PAR1:	yeah . 36235_36525
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	that sounds like a good job . 36525_37925
+%mor:	pron|that-Dem verb|sound-Fin-Ind-Pres-S3 adp|like det|a-Ind-Art adj|good-S1 noun|job .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|6|CASE 4|6|DET 5|6|AMOD 6|2|OBL 7|2|PUNCT
+*PAR1:	yeah . 38435_38725
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	well it it's &-uh it'll take a little while . 38795_42925
+%mor:	intj|well pron|it-Prs-Nom-S3 pron|its-Prs-Nom-S3 adv|itll verb|take-Fin-S det|a-Ind-Art adj|little-S1 noun|while-Acc .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|NSUBJ 4|5|ADVMOD 5|0|ROOT 6|7|DET 7|8|AMOD 8|5|OBJ 9|5|PUNCT
+*PAR1:	but once it gets a little bit warmer I'll probably be going into it . 43025_46165
+%mor:	cconj|but sconj|once pron|it-Prs-Nom-S3 verb|get-Fin-Ind-Pres-S3 det|a-Ind-Art adj|little-S1 noun|bit adj|warm-Cmp-S1 pron|ill-Prs-Nom-S3 adv|probably aux|be-Inf-S verb|go-Part-Pres-S adp|into pron|it-Prs-Acc-S3 .
+%gra:	1|12|CC 2|4|MARK 3|4|NSUBJ 4|12|ADVCL 5|7|DET 6|7|AMOD 7|8|OBL-UNMARKED 8|4|XCOMP 9|12|NSUBJ 10|12|ADVMOD 11|12|AUX 12|0|ROOT 13|14|CASE 14|12|OBL 15|12|PUNCT
+*PAR0:	yeah . 46395_46685
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	it might even be enjoyable when the weather gets nice . 46685_48645
+%mor:	pron|it-Prs-Nom-S3 aux|might-Fin-S adv|even aux|be-Inf-S adj|enjoyable-S1 adv|when det|the-Def-Art noun|weather verb|get-Fin-Ind-Pres-S3 adj|nice-S1 .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|ADVMOD 4|5|COP 5|0|ROOT 6|9|ADVMOD 7|8|DET 8|9|NSUBJ 9|5|ADVCL 10|9|XCOMP 11|5|PUNCT
+*PAR0:	mhm . 48745_49165
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	yeah . 49715_50005
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	the &-uh &-uh the house was kept in reasonably good repair by the people who [/] who I bought it from . 50305_56325
+%mor:	det|the-Def-Art det|the-Def-Art noun|house aux|be-Fin-Ind-Past-S3-irr verb|keep-Part-Past-S-irr adp|in adv|reasonably adj|good-S1 noun|repair adp|by det|the-Def-Art noun|person-Plur pron|who-Rel pron|I-Prs-Nom-S1 verb|buy-Fin-Ind-Past-S1-irr pron|it-Prs-Acc-S3 adp|from .
+%gra:	1|3|DET 2|3|DET 3|5|NSUBJ-PASS 4|5|AUX-PASS 5|0|ROOT 6|9|CASE 7|8|ADVMOD 8|9|AMOD 9|5|OBL 10|12|CASE 11|12|DET 12|5|OBL-AGENT 13|15|OBJ 14|15|NSUBJ 15|12|ACL-RELCL 16|15|OBJ 17|13|CASE 18|5|PUNCT
+*PAR0:	that's good . 56465_57045
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|good-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*PAR1:	and &-uh but <there's a> [/] there's a [/] a number of things to do . 57545_60525
+%mor:	cconj|and cconj|but verb|there-Fin-Ind-Pres-S3 det|a-Ind-Art noun|number adp|of noun|thing-Plur part|to verb|do-Inf-S .
+%gra:	1|3|CC 2|3|CC 3|0|ROOT 4|5|DET 5|3|NSUBJ 6|7|CASE 7|5|NMOD 8|9|MARK 9|7|ACL 10|3|PUNCT
+*PAR1:	I also need to do some &-uh work with the &-uh &-uh heating and cooling system . 60645_66365
+%mor:	pron|I-Prs-Nom-S1 adv|also verb|need-Fin-Ind-Pres-S1 part|to verb|do-Inf-S det|some-Def-Ind noun|work-Acc adp|with det|the-Def-Art noun|heating-Ger cconj|and noun|cooling-Ger noun|system .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|7|DET 7|5|OBJ 8|13|CASE 9|13|DET 10|13|COMPOUND 11|12|CC 12|10|CONJ 13|5|OBL 14|3|PUNCT
+*PAR1:	mm . 66545_66765
+%mor:	intj|mm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	it doesn't &-uh get very good airflow to the upstairs . 67185_69645
+%mor:	pron|it-Prs-Nom-S3 adv|doesnt verb|get-Inf-S adv|very adj|good-S1 noun|airflow-Acc adp|to det|the-Def-Art noun|upstairs-Plur .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|5|ADVMOD 5|6|AMOD 6|3|OBJ 7|9|CASE 8|9|DET 9|3|OBL 10|3|PUNCT
+*PAR1:	&-uh they didn't design it very well . 70305_72205
+%mor:	pron|they-Prs-Nom-P3 adv|didnt verb|design-Inf-S pron|it-Prs-Acc-S3 adv|very adv|well .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|3|OBJ 5|6|ADVMOD 6|3|ADVMOD 7|3|PUNCT
+*PAR1:	so I have to put in some fans . 72225_73805
+%mor:	adv|so pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 part|to verb|put-Inf-S adp|in det|some-Def-Ind noun|fan-Plur-Acc .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|5|COMPOUND-PRT 7|8|DET 8|5|OBJ 9|3|PUNCT
+*PAR0:	is it an old house . 74265_75245
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 det|a-Ind-Art adj|old-S1 noun|house .
+%gra:	1|5|COP 2|5|NSUBJ 3|5|DET 4|5|AMOD 5|0|ROOT 6|5|PUNCT
+*PAR1:	no . 75865_76085
+%mor:	intj|no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	actually it's [/] it's fairly new . 76365_77605
+%mor:	adv|actually pron|its-Prs-Nom-S3 adv|fairly adj|new-S1 .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*PAR1:	oh &-uh it's just that they didn't there . 77745_79925
+%mor:	intj|oh pron|its-Prs-Nom-S3 adv|just sconj|that pron|they-Prs-Nom-P3 adv|didnt adv|there .
+%gra:	1|2|DISCOURSE 2|7|REPARANDUM 3|7|ADVMOD 4|7|MARK 5|7|NSUBJ 6|7|ADVMOD 7|0|ROOT 8|7|PUNCT
+*PAR1:	there just isn't any airflow to the upstairs . 80055_82645
+%mor:	pron|there-Int-S1 adv|just verb|isnt-Fin-Ind-Pres-S3 det|any-Def-Ind noun|airflow adp|to det|the-Def-Art noun|upstairs-Plur .
+%gra:	1|3|EXPL 2|3|ADVMOD 3|0|ROOT 4|5|DET 5|3|NSUBJ 6|8|CASE 7|8|DET 8|3|OBL 9|3|PUNCT
+*PAR1:	mhm . 82645_82965
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	because it's bad duct work design . 83045_84365
+%mor:	adp|because pron|its-Prs-Gen-S3 adj|bad-S1 noun|duct noun|work noun|design .
+%gra:	1|6|CASE 2|6|NMOD-POSS 3|6|AMOD 4|6|COMPOUND 5|6|COMPOUND 6|0|ROOT 7|6|PUNCT
+*PAR0:	I see . 84725_85005
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*PAR1:	also and because of that they upped the &-uh fan rate to something to very [/] very high . 85315_91115
+%mor:	adv|also cconj|and adp|because adp|of sconj|that pron|they-Prs-Nom-P3 verb|uppe-Fin-Ind-Past-P3 det|the-Def-Art noun|fan noun|rate-Acc adp|to pron|something-Ind-S1 adp|to adv|very adj|high-S1 .
+%gra:	1|7|ADVMOD 2|7|CC 3|7|ADVMOD 4|3|FIXED 5|7|MARK 6|7|NSUBJ 7|0|ROOT 8|10|DET 9|10|COMPOUND 10|7|OBJ 11|12|CASE 12|7|OBL 13|15|CASE 14|15|ADVMOD 15|12|NMOD 16|7|PUNCT
+*PAR1:	which makes it noisy downstairs . 91115_92675
+%mor:	pron|which-Rel-S1 verb|make-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 adj|noisy-S1 noun|downstairs .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|AMOD 5|2|XCOMP 6|2|PUNCT
+*PAR1:	mm . 92975_93195
+%mor:	intj|mm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	and wears out the bearings . 93415_94715
+%mor:	cconj|and verb|wear-Fin-Ind-Pres-S3 adp|out det|the-Def-Art noun|bearing-Plur-Acc .
+%gra:	1|2|CC 2|0|ROOT 3|2|COMPOUND-PRT 4|5|DET 5|2|OBJ 6|2|PUNCT
+*PAR1:	I just had to replace the bearings last weekend . 94755_97355
+%mor:	pron|I-Prs-Nom-S1 adv|just verb|have-Fin-Ind-Past-S1-irr part|to verb|replace-Inf-S det|the-Def-Art noun|bearing-Plur-Acc adj|last-S1 noun|weekend .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|7|DET 7|5|OBJ 8|9|AMOD 9|5|OBL-UNMARKED 10|3|PUNCT
+*PAR1:	oh . 97615_97835
+%mor:	intj|oh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	boy . 97855_98075
+%mor:	intj|boy .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	because I had no heat . 98265_99515
+%mor:	sconj|because pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Past-S1-irr det|no-Def-Neg noun|heat-Acc .
+%gra:	1|3|MARK 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR0:	well I have an old house . 100385_101395
+%mor:	intj|well pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 det|a-Ind-Art adj|old-S1 noun|house-Acc .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|3|PUNCT
+*PAR0:	and I just put a I didn't do it myself . 101695_103795
+%mor:	cconj|and pron|I-Prs-Nom-S1 adv|just verb|put-Fin-Ind-Past-S1-irr det|a-Ind-Art pron|I-Prs-Nom-S1 aux|didnt-Fin-S verb|do-Inf-S pron|it-Prs-Acc-S3 pron|myself-Prs-Acc-reflx-S1 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|8|NSUBJ 7|8|AUX 8|4|CCOMP 9|8|OBJ 10|8|OBL-UNMARKED 11|4|PUNCT
+*PAR0:	I had a new furnace put in just a couple months ago . 103915_106475
+%mor:	pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Past-S1-irr det|a-Ind-Art adj|new-S1 noun|furnace-Acc verb|put-Part-Past-S-irr adp|in adv|just det|a-Ind-Art noun|couple noun|month-Plur adv|ago .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|5|ACL 7|6|COMPOUND-PRT 8|10|ADVMOD 9|10|DET 10|11|NMOD-UNMARKED 11|12|OBL-UNMARKED 12|6|ADVMOD 13|2|PUNCT
+*PAR0:	mhm . 106535_106955
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	and what [/] what they had here was an old gravity furnace that was converted into a forced stair gas furnace . 107255_113315
+%mor:	cconj|and pron|what-Rel-S1 pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Past-P3-irr adv|here aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art adj|old-S1 noun|gravity noun|furnace pron|that-Rel aux|be-Fin-Ind-Past-S3-irr verb|convert-Part-Past-S adp|into det|a-Ind-Art verb|force-Part-Past-S noun|stair noun|gas noun|furnace .
+%gra:	1|10|CC 2|10|NSUBJ 3|4|NSUBJ 4|2|ACL-RELCL 5|4|ADVMOD 6|10|COP 7|10|DET 8|10|AMOD 9|10|COMPOUND 10|0|ROOT 11|13|NSUBJ-PASS 12|13|AUX-PASS 13|10|ACL-RELCL 14|19|CASE 15|19|DET 16|19|AMOD 17|18|COMPOUND 18|19|COMPOUND 19|13|OBL 20|10|PUNCT
+*PAR0:	yeah . 113345_113635
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	I had one of those at my previous house . 113755_115595
+%mor:	pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Past-S1-irr num|one adp|of pron|that-Dem-P1 adp|at pron|my-Prs-Gen-S1 adj|previous-S1 noun|house .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|CASE 5|3|NMOD 6|9|CASE 7|9|NMOD-POSS 8|9|AMOD 9|5|NMOD 10|2|PUNCT
+*PAR0:	it [/] it just didn't keep the house warm at all . 115935_118115
+%mor:	pron|it-Prs-Nom-S3 adv|just adv|didnt verb|keep-Inf-S det|the-Def-Art noun|house-Acc adj|warm-S1 adp|at det|all-Def-Tot .
+%gra:	1|4|NSUBJ 2|4|ADVMOD 3|4|ADVMOD 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|XCOMP 8|9|CASE 9|7|OBL 10|4|PUNCT
+*PAR0:	and the fan hardly blew any air through the house . 118115_120515
+%mor:	cconj|and det|the-Def-Art noun|fan adv|hardly verb|blow-Fin-Ind-Past-S3-irr det|any-Def-Ind noun|air-Acc adp|through det|the-Def-Art noun|house .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|ADVMOD 5|0|ROOT 6|7|DET 7|5|OBJ 8|10|CASE 9|10|DET 10|5|OBL 11|5|PUNCT
+*PAR0:	so like you I have a [/] a [/] a stepped up fan motor now . 121135_124795
+%mor:	adv|so adp|like pron|you-Prs-Acc-S2 pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 det|a-Ind-Art verb|step-Part-Past-S adp|up noun|fan noun|motor-Acc adv|now .
+%gra:	1|5|ADVMOD 2|3|CASE 3|5|OBL 4|5|NSUBJ 5|0|ROOT 6|10|DET 7|10|AMOD 8|7|COMPOUND-PRT 9|10|COMPOUND 10|5|OBJ 11|5|ADVMOD 12|5|PUNCT
+*PAR0:	and it's just incredible . 124795_125915
+%mor:	cconj|and pron|its-Prs-Nom-S3 adv|just adj|incredible-S1 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*PAR0:	the difference it makes with the new furnace . 125975_127755
+%mor:	det|the-Def-Art noun|difference pron|it-Prs-Nom-S3 verb|make-Fin-Ind-Pres-S3 adp|with det|the-Def-Art adj|new-S1 noun|furnace .
+%gra:	1|2|DET 2|0|ROOT 3|4|NSUBJ 4|2|ACL-RELCL 5|8|CASE 6|8|DET 7|8|AMOD 8|4|OBL 9|2|PUNCT
+*PAR0:	yeah . 127945_128235
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	how fast is it running . 128455_129395
+%mor:	adv|how adv|fast aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 verb|run-Part-Pres-S .
+%gra:	1|2|ADVMOD 2|5|ADVMOD 3|5|AUX 4|5|NSUBJ 5|0|ROOT 6|5|PUNCT
+*PAR0:	&-uh you mean an RPM mhm . 130375_132115
+%mor:	pron|you-Prs-Nom-S2 verb|mean-Fin-Ind-Pres-S2 det|a-Ind-Art noun|RPM-Acc intj|mhm .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|DISCOURSE 6|2|PUNCT
+*PAR0:	I have no idea to tell you the truth . 132635_134395
+%mor:	pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 det|no-Def-Neg noun|idea-Acc part|to verb|tell-Inf-S pron|you-Prs-Acc-S2 det|the-Def-Art noun|truth-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|MARK 6|4|ACL 7|6|IOBJ 8|9|DET 9|6|OBJ 10|2|PUNCT
+*PAR0:	there's four or five settings . 134395_136035
+%mor:	verb|there-Fin-Ind-Pres-S3 num|four cconj|or num|five noun|setting-Plur-Acc .
+%gra:	1|0|ROOT 2|5|NUMMOD 3|4|CC 4|2|CONJ 5|1|OBJ 6|1|PUNCT
+*PAR0:	and it's actually we had to turn it down to one of the lower settings because the [/] the higher setting didn't keep &-uh didn't let the furnace get hot enough to work efficiently . 136035_144955
+%mor:	cconj|and pron|its-Prs-Gen-S3 adv|actually pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Past-P1-irr part|to verb|turn-Inf-S pron|it-Prs-Acc-S3 adp|down adp|to num|one adp|of det|the-Def-Art adj|low-Cmp-S1 noun|setting-Plur sconj|because det|the-Def-Art adj|high-Cmp-S1 noun|setting-Ger noun|didnt verb|keep-Inf-S part|didnt verb|let-Inf-S det|the-Def-Art noun|furnace-Acc verb|get-Inf-S adj|hot-S1 adv|enough part|to verb|work-Inf-S adv|efficiently .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|ADVMOD 4|5|NSUBJ 5|0|ROOT 6|7|MARK 7|5|XCOMP 8|7|OBJ 9|7|COMPOUND-PRT 10|11|CASE 11|7|OBL 12|15|CASE 13|15|DET 14|15|AMOD 15|11|NMOD 16|21|MARK 17|20|DET 18|20|AMOD 19|20|COMPOUND 20|21|NSUBJ 21|7|ADVCL 22|21|OBJ 23|21|XCOMP 24|25|DET 25|23|OBJ 26|23|XCOMP 27|26|XCOMP 28|26|ADVMOD 29|30|MARK 30|26|ADVCL 31|30|ADVMOD 32|5|PUNCT
+*PAR0:	right . 144955_145235
+%mor:	adj|right-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	so the air wasn't all that hot . 145655_146795
+%mor:	adv|so det|the-Def-Art noun|air verb|wasnt-Fin-Ind-Pres-S3 det|all-Def-Tot pron|that-Dem adj|hot-S1 .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|0|ROOT 5|6|DET-PREDET 6|4|OBJ 7|4|XCOMP 8|4|PUNCT
+*PAR0:	right . 147085_147435
+%mor:	adj|right-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	but it's on one of the lower settings which is still quite a bit more than what we had before . 147695_151835
+%mor:	cconj|but pron|its-Prs-Gen-S3 adp|on num|one adp|of det|the-Def-Art adj|low-Cmp-S1 noun|setting-Plur pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 adv|still det|quite-Def-Ind det|a-Ind-Art noun|bit adj|more-Cmp-S1 adp|than pron|what-Rel-S1 pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Past-P1-irr adv|before .
+%gra:	1|4|CC 2|4|NMOD-POSS 3|4|CASE 4|0|ROOT 5|8|CASE 6|8|DET 7|8|AMOD 8|4|NMOD 9|15|NSUBJ 10|15|COP 11|15|ADVMOD 12|14|DET-PREDET 13|14|DET 14|15|OBL-UNMARKED 15|8|ACL-RELCL 16|17|CASE 17|15|OBL 18|19|NSUBJ 19|17|ACL-RELCL 20|19|ADVMOD 21|4|PUNCT
+*PAR1:	yeah . 151905_152195
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	yeah . 152385_152675
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	mine was turned up to &-uh fifteen hundred RPM .
+%mor:	pron|my-Prs-S1 aux|be-Fin-Ind-Past-S1-irr verb|turn-Part-Past-S adp|up adp|to num|fifteen num|hundred noun|RPM .
+%gra:	1|3|NSUBJ-PASS 2|3|AUX-PASS 3|0|ROOT 4|3|COMPOUND-PRT 5|8|CASE 6|7|COMPOUND 7|8|NUMMOD 8|3|OBL 9|3|PUNCT
+*PAR1:	normal is more like you know seven or eight hundred . 152945_159155
+%mor:	adj|normal-S1 aux|be-Fin-Ind-Pres-S3 adv|more sconj|like pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 num|seven cconj|or num|eight num|hundred .
+%gra:	1|6|NSUBJ-OUTER 2|6|COP 3|6|ADVMOD 4|6|MARK 5|6|NSUBJ 6|0|ROOT 7|10|NUMMOD 8|9|CC 9|7|CONJ 10|6|OBJ 11|6|PUNCT
+*PAR0:	right &-uh . 159725_160395
+%mor:	adj|right-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	so it gets a lot of airflow downstairs . 160855_163075
+%mor:	adv|so pron|it-Prs-Nom-S3 verb|get-Fin-Ind-Pres-S3 det|a-Ind-Art noun|lot-Acc adp|of noun|airflow noun|downstairs .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|COMPOUND 8|5|NMOD 9|3|PUNCT
+*PAR1:	yeah . 163185_163475
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	but &-uh still almost nothing upstairs . 163735_165595
+%mor:	cconj|but adv|still adv|almost pron|nothing-Neg-S1 adj|upstairs-S1 .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|ADVMOD 4|0|ROOT 5|4|AMOD 6|4|PUNCT
+*PAR1:	it's not that bad in the winter because the heat rises . 165825_168835
+%mor:	pron|its-Prs-Nom-S3 part|not adv|that adj|bad-S1 adp|in det|the-Def-Art noun|winter sconj|because det|the-Def-Art noun|heat verb|rise-Fin-Ind-Pres-S3 .
+%gra:	1|4|NSUBJ 2|4|ADVMOD 3|4|ADVMOD 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|11|MARK 9|10|DET 10|11|NSUBJ 11|4|ADVCL 12|4|PUNCT
+*PAR1:	sure . 169145_169435
+%mor:	adj|sure-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	&-um but in the summer &-uh when it's time for air conditioning . 169615_173315
+%mor:	cconj|but adp|in det|the-Def-Art noun|summer adv|when pron|its-Prs-Gen-S3 noun|time adp|for noun|air noun|conditioning-Ger .
+%gra:	1|4|CC 2|4|CASE 3|4|DET 4|0|ROOT 5|7|ADVMOD 6|7|NMOD-POSS 7|4|NMOD 8|10|CASE 9|10|COMPOUND 10|7|NMOD 11|4|PUNCT
+*PAR1:	yeah it won't be very [/] very effective . 173315_175995
+%mor:	intj|yeah pron|it-Prs-Nom-S3 aux|won-Fin-S aux|be-Inf-S adv|very adj|effective-S1 .
+%gra:	1|6|DISCOURSE 2|6|NSUBJ 3|6|AUX 4|6|COP 5|6|ADVMOD 6|0|ROOT 7|6|PUNCT
+*PAR0:	right . 176125_176475
+%mor:	adj|right-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	right . 176525_176875
+%mor:	adj|right-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	you have to have it then . 176875_177875
+%mor:	pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 part|to verb|have-Inf-S pron|it-Prs-Acc-S3 adv|then .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|MARK 4|2|XCOMP 5|4|OBJ 6|4|ADVMOD 7|2|PUNCT
+*PAR1:	yeah . 178345_178635
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	have to figure out either some way to improve the ducting or to put a booster fan . 178745_183765
+%mor:	verb|have-Fin-Imp-S part|to verb|figure-Inf-S adp|out cconj|either det|some-Def-Ind noun|way-Acc part|to verb|improve-Inf-S det|the-Def-Art noun|ducting-Acc-Ger cconj|or part|to verb|put-Inf-S det|a-Ind-Art noun|booster noun|fan-Acc .
+%gra:	1|0|ROOT 2|3|MARK 3|1|XCOMP 4|3|COMPOUND-PRT 5|7|CC-PRECONJ 6|7|DET 7|3|OBJ 8|9|MARK 9|7|ACL 10|11|DET 11|9|OBJ 12|14|CC 13|14|MARK 14|9|CONJ 15|17|DET 16|17|COMPOUND 17|14|OBJ 18|1|PUNCT
+*PAR1:	going to the upstairs . 183765_184605
+%mor:	verb|go-Part-Pres-S adp|to det|the-Def-Art noun|upstairs-Plur .
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|PUNCT
+*PAR1:	mhm . 184705_185125
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	&-um the bearings had on [/] on it had worn out to the point where it was rattling around rather badly . 185545_194245
+%mor:	det|the-Def-Art noun|bearing-Plur verb|have-Fin-Ind-Past-P3-irr adp|on pron|it-Prs-Acc-S3 aux|have-Fin-Ind-Past-S3-irr verb|wear-Part-Past-S-irr adp|out adp|to det|the-Def-Art noun|point adv|where pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|rattling-Part-Pres-S adv|around adv|rather adv|badly .
+%gra:	1|2|DET 2|3|NSUBJ 3|7|CSUBJ 4|5|CASE 5|3|OBL 6|7|AUX 7|0|ROOT 8|7|COMPOUND-PRT 9|11|CASE 10|11|DET 11|7|OBL 12|15|ADVMOD 13|15|NSUBJ 14|15|AUX 15|11|ACL-RELCL 16|15|ADVMOD 17|18|ADVMOD 18|15|CONJ 19|7|PUNCT
+*PAR1:	and finally just threw its belt off . 194905_196725
+%mor:	cconj|and adv|finally adv|just verb|throw-Fin-Ind-Past-S1-irr pron|its-Prs-Gen-S3 noun|belt-Acc adp|off .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|ADVMOD 4|0|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|COMPOUND-PRT 8|4|PUNCT
+*PAR0:	oh boy . 197025_197565
+%mor:	intj|oh intj|boy .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*PAR1:	so &-uh . 197905_198605
+%mor:	adv|so .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	wakes you up in the middle of the night . 199375_200525
+%mor:	verb|wake-Fin-Ind-Pres-S3 pron|you-Prs-Acc-S2 adp|up adp|in det|the-Def-Art noun|middle adp|of det|the-Def-Art noun|night .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMPOUND-PRT 4|6|CASE 5|6|DET 6|1|OBL 7|9|CASE 8|9|DET 9|6|NMOD 10|1|PUNCT
+*PAR0:	that sort of thing . 200525_201085
+%mor:	det|that-Def-Dem-Sing noun|sort adp|of noun|thing-Ger .
+%gra:	1|2|DET 2|0|ROOT 3|4|CASE 4|2|NMOD 5|2|PUNCT
+*PAR0:	huh . 201105_201325
+%mor:	intj|huh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	yeah . 201355_201645
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	well it's not that bad because I can't hear it upstairs . 201675_203885
+%mor:	intj|well pron|its-Prs-Nom-S3 part|not adv|that adj|bad-S1 sconj|because pron|I-Prs-Nom-S1 aux|cant-Fin-S verb|hear-Inf-S pron|it-Prs-Acc-S3 adv|upstairs .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|ADVMOD 4|5|ADVMOD 5|0|ROOT 6|9|MARK 7|9|NSUBJ 8|9|AUX 9|5|ADVCL 10|9|OBJ 11|9|ADVMOD 12|5|PUNCT
+*PAR1:	but &-uh that's good . 204185_205165
+%mor:	cconj|but pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|good-S1 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR1:	the &-uh it it's it gets to the point where you can't hear the [/] the television or talk . 205305_210285
+%mor:	det|the-Def-Art pron|it-Prs-Nom-S3 pron|its-Prs-Acc-S3 pron|it-Prs-Nom-S3 verb|get-Fin-Ind-Pres-S3 adp|to det|the-Def-Art noun|point adv|where pron|you-Prs-Nom-S2 aux|cant-Fin-S verb|hear-Inf-S det|the-Def-Art noun|television-Acc cconj|or noun|talk .
+%gra:	1|2|DET 2|5|NSUBJ-OUTER 3|4|NMOD-POSS 4|5|NSUBJ 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|12|ADVMOD 10|12|NSUBJ 11|12|AUX 12|8|ACL-RELCL 13|14|DET 14|12|OBJ 15|16|CC 16|14|CONJ 17|5|PUNCT
+*PAR1:	yeah . 210795_211085
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	or was getting to that point . 212185_213285
+%mor:	cconj|or aux|be-Fin-Ind-Past-S3-irr verb|get-Part-Pres-S adp|to det|that-Def-Dem-Sing noun|point .
+%gra:	1|3|CC 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*PAR0:	not very peaceful . 213585_214405
+%mor:	part|not adv|very adj|peaceful-S1 .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|0|ROOT 4|3|PUNCT
+*PAR1:	no it [/] it does the [/] the &-uh furnace does have enough &-uh &-uh heating and cooling power to [/] to so that the airflow isn't a problem . 214665_223965
+%mor:	intj|no pron|it-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3 det|the-Def-Art noun|furnace aux|do-Fin-Ind-Pres-S3 verb|have-Inf-S adj|enough-S1 noun|heating-Ger cconj|and noun|cooling-Ger noun|power-Acc part|to sconj|so sconj|that det|the-Def-Art noun|airflow aux|isnt-Fin-Ind-Pres-S3 det|a-Ind-Art noun|problem .
+%gra:	1|7|DISCOURSE 2|7|NSUBJ-OUTER 3|7|AUX 4|5|DET 5|7|NSUBJ 6|7|AUX 7|0|ROOT 8|12|AMOD 9|12|COMPOUND 10|11|CC 11|9|CONJ 12|7|OBJ 13|7|XCOMP 14|20|MARK 15|14|FIXED 16|17|DET 17|20|NSUBJ 18|20|COP 19|20|DET 20|7|ADVCL 21|7|PUNCT
+*PAR1:	then I had the inspector check that out . 224435_227245
+%mor:	adv|then pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Past-S1-irr det|the-Def-Art noun|inspector-Acc verb|check-Inf-S pron|that-Dem adp|out .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|XCOMP 7|6|OBJ 8|6|COMPOUND-PRT 9|3|PUNCT
+*PAR1:	and it was <cooling the> [/] cooling the air adequately . 227305_229965
+%mor:	cconj|and pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|cool-Part-Pres-S det|the-Def-Art noun|air-Acc adv|adequately .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|ADVMOD 8|4|PUNCT
+*PAR1:	mhm . 229965_230325
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	it was just it all the cooling was going downstairs . 230625_233285
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adv|just pron|it-Prs-Nom-S3 det|all-Def-Tot det|the-Def-Art noun|cooling-Ger aux|be-Fin-Ind-Past-S3-irr verb|go-Part-Pres-S adv|downstairs .
+%gra:	1|4|NSUBJ 2|9|COP 3|4|ADVMOD 4|9|REPARANDUM 5|7|DET-PREDET 6|7|DET 7|9|NSUBJ 8|9|AUX 9|0|ROOT 10|9|ADVMOD 11|9|PUNCT
+*PAR1:	oh . 233705_233925
+%mor:	intj|oh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	well you don't need it . 234315_235285
+%mor:	intj|well pron|you-Prs-Nom-S2 aux|dont-Fin-S verb|need-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR1:	yeah . 236675_236965
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	oh well the &-um I just repaired a light last weekend also . 237185_241765
+%mor:	intj|oh intj|well det|the-Def-Art pron|I-Prs-Nom-S1 adv|just verb|repair-Fin-Ind-Past-S1 det|a-Ind-Art noun|light-Acc adj|last-S1 noun|weekend adv|also .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|4|DET 4|6|NSUBJ 5|6|ADVMOD 6|0|ROOT 7|8|DET 8|6|OBJ 9|10|AMOD 10|6|OBL-UNMARKED 11|6|ADVMOD 12|6|PUNCT
+*PAR1:	mhm . 241765_242125
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	&-uh you know it [/] it has some hanging glass thing . 242465_245245
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|some-Def-Ind noun|hanging-Ger noun|glass noun|thing-Acc-Ger .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NSUBJ 4|2|CCOMP 5|8|DET 6|8|COMPOUND 7|8|COMPOUND 8|4|OBJ 9|2|PUNCT
+*PAR1:	panes around it with &-uh metal fringing in the metal fringing . 245775_249765
+%mor:	noun|pane-Plur adp|around pron|it-Prs-Acc-S3 adp|with noun|metal noun|fringing-Ger adp|in det|the-Def-Art noun|metal noun|fringing-Ger .
+%gra:	1|0|ROOT 2|3|CASE 3|1|NMOD 4|6|CASE 5|6|COMPOUND 6|1|NMOD 7|10|CASE 8|10|DET 9|10|COMPOUND 10|6|NMOD 11|1|PUNCT
+*PAR1:	it was like had &-uh bent away <from the> [/] from the glass . 249765_253845
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr intj|like aux|have-Fin-Ind-Past-S3-irr verb|bend-Part-Past-S-irr adv|away adp|from det|the-Def-Art noun|glass .
+%gra:	1|5|NSUBJ-OUTER 2|5|AUX 3|5|DISCOURSE 4|5|AUX 5|0|ROOT 6|5|ADVMOD 7|9|CASE 8|9|DET 9|5|OBL 10|5|PUNCT
+*PAR1:	so glued it back together . 254505_255885
+%mor:	adv|so verb|glue-Fin-Ind-Past-S pron|it-Prs-Acc-S3 adv|back adv|together .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|OBJ 4|2|ADVMOD 5|2|ADVMOD 6|2|PUNCT
+*PAR0:	oh okay . 256025_256805
+%mor:	intj|oh intj|okay .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*PAR1:	so it looks a lot better now . 257185_258765
+%mor:	adv|so pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 det|a-Ind-Art noun|lot adj|good-Cmp-S1 adv|now .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|6|OBL-UNMARKED 6|3|XCOMP 7|3|ADVMOD 8|3|PUNCT
+*PAR0:	oh that's good . 259225_259925
+%mor:	intj|oh pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|good-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR0:	well the last major thing we did ourselves was we decided to refinish our bedroom . 260195_264285
+%mor:	intj|well det|the-Def-Art adj|last-S1 adj|major-S1 noun|thing-Ger pron|we-Prs-Nom-P1 verb|do-Fin-Ind-Past-P1-irr pron|ourselves-Prs-Acc-reflx-P1 aux|be-Fin-Ind-Past-S3-irr pron|we-Prs-Nom-P1 verb|decide-Fin-Ind-Past-P1 part|to verb|refinish-Inf-S pron|our-Prs-Gen-P1 noun|bedroom-Acc .
+%gra:	1|11|DISCOURSE 2|5|DET 3|5|AMOD 4|5|AMOD 5|11|NSUBJ-OUTER 6|7|NSUBJ 7|5|ACL-RELCL 8|7|OBJ 9|11|COP 10|11|NSUBJ 11|0|ROOT 12|13|MARK 13|11|XCOMP 14|15|NMOD-POSS 15|13|OBJ 16|11|PUNCT
+*PAR0:	mhm . 264465_264885
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	or to redo the bedroom . 264985_265845
+%mor:	cconj|or part|to verb|redo-Inf-S det|the-Def-Art noun|bedroom-Acc .
+%gra:	1|3|CC 2|3|MARK 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR0:	the downstairs has all natural wood trim . 265985_268285
+%mor:	det|the-Def-Art noun|downstairs verb|have-Fin-Ind-Pres-S3 det|all-Def-Tot adj|natural-S1 noun|wood noun|trim-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|7|DET 5|7|AMOD 6|7|COMPOUND 7|3|OBJ 8|3|PUNCT
+*PAR0:	mhm . 268285_268685
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	but the upstairs all the woodwork was painted . 268785_270405
+%mor:	cconj|but det|the-Def-Art noun|upstairs-Plur det|all-Def-Tot det|the-Def-Art noun|woodwork aux|be-Fin-Ind-Past-S3-irr verb|paint-Part-Past-S .
+%gra:	1|8|CC 2|3|DET 3|8|NSUBJ-PASS 4|6|DET-PREDET 5|6|DET 6|3|NMOD 7|8|AUX-PASS 8|0|ROOT 9|8|PUNCT
+*PAR0:	we decided we didn't like that . 270585_272325
+%mor:	pron|we-Prs-Nom-P1 verb|decide-Fin-Ind-Past-P1 pron|we-Prs-Nom-P1 aux|didnt-Fin-S verb|like-Inf-S pron|that-Dem .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|NSUBJ 4|5|AUX 5|2|CCOMP 6|5|OBJ 7|2|PUNCT
+*PAR0:	so we thought we'd get ambitious and strip all the paint off of the woodwork . 272905_275965
+%mor:	adv|so pron|we-Prs-Nom-P1 verb|think-Fin-Ind-Past-P1-irr noun|wed verb|get-Inf-S adj|ambitious-S1 cconj|and verb|strip-Fin-Ind-Pres-P1 det|all-Def-Tot det|the-Def-Art noun|paint-Acc adp|off adp|of det|the-Def-Art noun|woodwork .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|5|NSUBJ 5|3|CCOMP 6|5|XCOMP 7|8|CC 8|5|CONJ 9|11|DET-PREDET 10|11|DET 11|8|OBJ 12|15|CASE 13|15|CASE 14|15|DET 15|8|OBL 16|3|PUNCT
+*PAR0:	and had I known what I was getting myself into . 275985_278085
+%mor:	cconj|and aux|have-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|know-Part-Past-S-irr pron|what-Rel-S1 pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr verb|get-Part-Pres-S pron|myself-Prs-Acc-reflx-S1 adp|into .
+%gra:	1|4|CC 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|OBJ 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|8|OBL-UNMARKED 10|4|PUNCT 11|4|PUNCT
+*PAR0:	I don't think I would've chosen to do that . 278325_279805
+%mor:	pron|I-Prs-Nom-S1 adv|dont verb|think-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 aux|wouldve-Fin-Ind-Pres-S1 verb|choose-Part-Past-S-irr part|to verb|do-Inf-S pron|that-Dem .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|6|NSUBJ 5|6|AUX 6|3|CCOMP 7|8|MARK 8|6|XCOMP 9|8|OBJ 10|3|PUNCT
+*PAR1:	yeah . 280595_280885
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	but we started it . 281305_282245
+%mor:	cconj|but pron|we-Prs-Nom-P1 verb|start-Fin-Ind-Past-P1 pron|it-Prs-Acc-S3 .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR0:	so we finished it . 282245_283045
+%mor:	adv|so pron|we-Prs-Nom-P1 verb|finish-Fin-Ind-Past-P1 pron|it-Prs-Acc-S3 .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR0:	and we also had to tear all this old wallpaper off the walls . 283045_286365
+%mor:	cconj|and pron|we-Prs-Nom-P1 adv|also verb|have-Fin-Ind-Past-P1-irr part|to verb|tear-Inf-S det|all-Def-Tot det|this-Def-Dem-Sing adj|old-S1 noun|wallpaper-Acc adp|off det|the-Def-Art noun|wall-Plur .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|10|DET-PREDET 8|10|DET 9|10|AMOD 10|6|OBJ 11|13|CASE 12|13|DET 13|6|OBL 14|4|PUNCT
+*PAR0:	mhm . 286705_287125
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	&-uh and that was quite a mess . 287265_289005
+%mor:	cconj|and pron|that-Dem aux|be-Fin-Ind-Past-S3-irr det|quite-Def-Ind det|a-Ind-Art noun|mess .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|COP 4|6|DET-PREDET 5|6|DET 6|0|ROOT 7|6|PUNCT
+*PAR0:	but yeah it it's nice . 289025_291085
+%mor:	cconj|but intj|yeah pron|it-Prs-Nom-S3 pron|its-Prs-Gen-S3 adj|nice-S1 .
+%gra:	1|5|CC 2|5|DISCOURSE 3|5|NSUBJ 4|5|NMOD-POSS 5|0|ROOT 6|5|PUNCT
+*PAR0:	but we're a little disappointed because after getting all the wood off the paint off the wood upstairs we realized that it wasn't the same quality wood . 291105_297685
+%mor:	cconj|but verb|were-Fin-Ind-Pres-S1 det|a-Ind-Art adj|little-S1 adj|disappointed-S1 sconj|because sconj|after verb|get-Part-Pres-S det|all-Def-Tot det|the-Def-Art noun|wood-Acc adp|off det|the-Def-Art noun|paint adp|off det|the-Def-Art noun|wood adv|upstairs pron|we-Prs-Nom-P1 verb|realize-Fin-Ind-Past-P1 sconj|that pron|it-Prs-Nom-S3 aux|wasnt-Fin-Ind-Past-S3 det|the-Def-Art adj|same-S1 noun|quality noun|wood .
+%gra:	1|2|CC 2|0|ROOT 3|4|DET 4|5|OBL-UNMARKED 5|2|XCOMP 6|20|MARK 7|8|MARK 8|20|ADVCL 9|11|DET-PREDET 10|11|DET 11|8|OBJ 12|14|CASE 13|14|DET 14|8|OBL 15|17|CASE 16|17|DET 17|14|NMOD 18|17|ADVMOD 19|20|NSUBJ 20|2|ADVCL 21|27|MARK 22|27|NSUBJ 23|27|COP 24|27|DET 25|27|AMOD 26|27|COMPOUND 27|20|CCOMP 28|2|PUNCT
+@End

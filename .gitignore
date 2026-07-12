@@ -11,6 +11,12 @@
 
 # === Universal (all projects, all languages) ===
 
+# Data directories
+data/
+*.cha
+*.csv
+*.parquet
+
 # WHY: Logs are useful during debugging and verification.
 # ALT: Comment if logs must be inspected or validated.
 # *.log

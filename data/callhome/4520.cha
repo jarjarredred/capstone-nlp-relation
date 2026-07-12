@@ -1,0 +1,214 @@
+@UTF8
+@PID:	11312/a-00077141-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant, PAR1 Participant
+@ID:	eng|eng|PAR0|||||Participant|||
+@ID:	eng|eng|PAR1|||||Participant|||
+@Media:	4520, audio
+@Comment:	ASR from Rev-AI
+*PAR0:	well I used to be a teacher . 235_1925
+%mor:	intj|well pron|I-Prs-Nom-S1 verb|use-Fin-Ind-Past-S1 part|to aux|be-Inf-S det|a-Ind-Art noun|teacher .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|7|MARK 5|7|COP 6|7|DET 7|3|XCOMP 8|3|PUNCT
+*PAR0:	mhm . 2705_3125
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	and I think there are many things wrong with the public school system . 3665_6845
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 adj|many-S1 noun|thing-Plur adj|wrong-S1 adp|with det|the-Def-Art adj|public-S1 noun|school noun|system .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|EXPL 5|3|CCOMP 6|7|AMOD 7|5|NSUBJ 8|7|AMOD 9|13|CASE 10|13|DET 11|12|AMOD 12|13|COMPOUND 13|8|OBL 14|3|PUNCT
+*PAR0:	and that's why I got out of teaching . 6905_8565
+%mor:	cconj|and verb|that-Fin-Ind-Pres-S3 adv|why pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Past-S1-irr adp|out adp|of noun|teaching-Ger .
+%gra:	1|2|CC 2|0|ROOT 3|2|OBJ 4|5|NSUBJ 5|3|ADVCL-RELCL 6|8|CASE 7|8|CASE 8|5|OBL 9|2|PUNCT
+*PAR1:	well &-uh what were the problems that you found in &-uh public school systems . 9995_13125
+%mor:	intj|well pron|what-Int-S1 aux|be-Fin-Ind-Past-P3-irr det|the-Def-Art noun|problem-Plur pron|that-Rel pron|you-Prs-Nom-S2 verb|find-Fin-Ind-Past-S2-irr adp|in adj|public-S1 noun|school noun|system-Plur .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|COP 4|5|DET 5|2|NSUBJ 6|8|OBJ 7|8|NSUBJ 8|5|ACL-RELCL 9|12|CASE 10|11|AMOD 11|12|COMPOUND 12|8|OBL 13|2|PUNCT
+*PAR0:	well &-um I think the main problem is there's just not enough discipline . 14075_19525
+%mor:	intj|well pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 det|the-Def-Art adj|main-S1 noun|problem aux|be-Fin-Ind-Pres-S3 verb|there-Fin-Ind-Pres-S3 adv|just part|not adj|enough-S1 noun|discipline-Acc .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|6|DET 5|6|AMOD 6|8|NSUBJ-OUTER 7|8|AUX 8|3|CCOMP 9|12|ADVMOD 10|11|ADVMOD 11|12|AMOD 12|8|OBJ 13|3|PUNCT
+*PAR0:	and the classes are too big because &-um kids just get away with too much . 20425_30375
+%mor:	cconj|and det|the-Def-Art noun|class-Plur aux|be-Fin-Ind-Pres-P3 adv|too adj|big-S1 sconj|because noun|kid-Plur adv|just verb|get-Fin-Ind-Pres-P3 adv|away adp|with adv|too adj|much-S1 .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|0|ROOT 7|10|MARK 8|10|NSUBJ 9|10|ADVMOD 10|6|ADVCL 11|10|ADVMOD 12|14|CASE 13|14|ADVMOD 14|10|OBL 15|6|PUNCT
+*PAR0:	and there's not really that much that a teacher can do . 30475_34055
+%mor:	cconj|and verb|there-Fin-Ind-Pres-S3 part|not adv|really adv|that adj|much-S1 pron|that-Rel det|a-Ind-Art noun|teacher aux|can-Fin-S verb|do-Inf-S .
+%gra:	1|2|CC 2|0|ROOT 3|6|ADVMOD 4|6|ADVMOD 5|6|ADVMOD 6|2|OBJ 7|11|OBJ 8|9|DET 9|11|NSUBJ 10|11|AUX 11|6|ADVCL-RELCL 12|2|PUNCT
+*PAR0:	because &-um the administration is worried about the big problems about &-um you know kids bringing guns to school . 34205_45175
+%mor:	sconj|because det|the-Def-Art noun|administration aux|be-Fin-Ind-Pres-S3 adj|worried-S1 adp|about det|the-Def-Art adj|big-S1 noun|problem-Plur sconj|about pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 noun|kid-Plur-Acc verb|bring-Ger-S noun|gun-Plur-Acc adp|to noun|school .
+%gra:	1|5|MARK 2|3|DET 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|9|CASE 7|9|DET 8|9|AMOD 9|5|OBL 10|12|MARK 11|12|NSUBJ 12|9|ACL 13|12|OBJ 14|12|XCOMP 15|14|OBJ 16|17|CASE 17|14|OBL 18|5|PUNCT
+*PAR0:	yeah . 45765_46055
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	and they don't have time to worry about the [/] the problems of [/] of management that they used to be able to worry about . 46595_53815
+%mor:	cconj|and pron|they-Prs-Nom-P3 aux|dont-Fin-S verb|have-Inf-S noun|time-Acc part|to verb|worry-Inf-S adp|about det|the-Def-Art noun|problem-Plur adp|of noun|management pron|that-Rel pron|they-Prs-Nom-P3 verb|use-Fin-Ind-Past-P3 part|to aux|be-Inf-S adj|able-S1 part|to verb|worry-Inf-S adp|about .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|MARK 7|5|ACL 8|10|CASE 9|10|DET 10|7|OBL 11|12|CASE 12|10|NMOD 13|20|OBJ 14|15|NSUBJ 15|10|ACL-RELCL 16|18|MARK 17|18|COP 18|15|XCOMP 19|20|MARK 20|18|XCOMP 21|13|CASE 22|4|PUNCT
+*PAR1:	well I think the problem is that if you start considering yourself more with discipline I think &-um I think teacher's main goal should be more instead of worried about discipline is getting students or you know kids interested in learning . 55045_68295
+%mor:	intj|well pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 det|the-Def-Art noun|problem aux|be-Fin-Ind-Pres-S3 sconj|that sconj|if pron|you-Prs-Nom-S2 verb|start-Fin-Ind-Pres-S2 verb|consider-Ger-S pron|yourself-Prs-Acc-reflx-S2 adj|more-Cmp-S1 adp|with noun|discipline pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 noun|teacher adj|main-S1 noun|goal aux|should-Fin-S aux|be-Inf-S adv|more adv|instead adp|of adj|worried-S1 adp|about noun|discipline aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S noun|student-Plur-Acc cconj|or pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 noun|kid-Plur-Acc adj|interested-S1 adp|in verb|learn-Part-Pres-S .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|17|NSUBJ-OUTER 6|17|COP 7|17|MARK 8|10|MARK 9|10|NSUBJ 10|17|ADVCL 11|10|XCOMP 12|11|OBJ 13|11|OBJ 14|15|CASE 15|11|OBL 16|17|NSUBJ 17|3|CCOMP 18|19|NSUBJ 19|17|CCOMP 20|22|NMOD-POSS 21|22|AMOD 22|28|NSUBJ 23|28|AUX 24|28|COP 25|28|ADVMOD 26|28|CASE 27|26|FIXED 28|19|CCOMP 29|30|CASE 30|28|OBL 31|32|AUX 32|19|CCOMP 33|32|OBJ 34|36|CC 35|36|NSUBJ 36|32|CONJ 37|36|OBJ 38|36|XCOMP 39|40|CASE 40|38|OBL 41|3|PUNCT
+*PAR1:	because as I can recall when I went to go to school &-um most of the teachers were just basically bent on either trying to discipline you and then force you to go through this material and show no really interest I mean into making it interesting or fun [/] fun . 68295_85255
+%mor:	sconj|because sconj|as pron|I-Prs-Nom-S1 aux|can-Fin-S verb|recall-Inf-S adv|when pron|I-Prs-Nom-S1 verb|go-Fin-Ind-Past-S1-irr part|to verb|go-Inf-S adp|to noun|school adj|most-Sup-S1 adp|of det|the-Def-Art noun|teacher-Plur aux|be-Fin-Ind-Past-P3-irr adv|just adv|basically verb|bend-Part-Past-S-irr sconj|on cconj|either verb|try-Part-Pres-S part|to verb|discipline-Inf-S pron|you-Prs-Acc-S2 cconj|and adv|then verb|force-Inf-S pron|you-Prs-Acc-S2 part|to verb|go-Inf-S adp|through det|this-Def-Dem-Sing noun|material cconj|and verb|show-Inf-S det|no-Def-Neg adv|really noun|interest-Acc pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 sconj|into verb|make-Part-Pres-S pron|it-Prs-Acc-S3 adj|interesting-S1 cconj|or adj|fun-S1 .
+%gra:	1|20|MARK 2|5|MARK 3|5|NSUBJ 4|5|AUX 5|20|ADVCL 6|8|ADVMOD 7|8|NSUBJ 8|5|ADVCL 9|10|MARK 10|8|XCOMP 11|12|CASE 12|10|OBL 13|20|NSUBJ-PASS 14|16|CASE 15|16|DET 16|13|OBL 17|20|AUX-PASS 18|20|ADVMOD 19|20|ADVMOD 20|0|ROOT 21|23|MARK 22|23|CC-PRECONJ 23|20|ADVCL 24|25|MARK 25|23|XCOMP 26|25|OBJ 27|29|CC 28|29|ADVMOD 29|20|CONJ 30|29|OBJ 31|32|MARK 32|29|XCOMP 33|35|CASE 34|35|DET 35|32|OBL 36|37|CC 37|29|CONJ 38|40|DET 39|40|ADVMOD 40|37|OBJ 41|42|NSUBJ 42|40|ACL-RELCL 43|44|MARK 44|37|ADVCL 45|44|OBJ 46|44|XCOMP 47|48|CC 48|46|CONJ 49|20|PUNCT
+*PAR1:	and [/] and school were too oxymoron type of words . 85275_88095
+%mor:	cconj|and noun|school aux|be-Fin-Ind-Past-P3-irr adv|too adj|oxymoron-S1 noun|type adp|of noun|word-Plur .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|COP 4|5|ADVMOD 5|6|AMOD 6|0|ROOT 7|8|CASE 8|6|NMOD 9|6|PUNCT
+*PAR1:	and I think that was basically the problem because they were more interested . 88715_92135
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|that-Dem aux|be-Fin-Ind-Past-S3-irr adv|basically det|the-Def-Art noun|problem sconj|because pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Past-P3-irr adv|more adj|interested-S1 .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|8|NSUBJ 5|8|COP 6|8|ADVMOD 7|8|DET 8|3|CCOMP 9|13|MARK 10|13|NSUBJ 11|13|COP 12|13|ADVMOD 13|8|ADVCL 14|3|PUNCT
+*PAR1:	they built up this type of &-um . 92135_93895
+%mor:	pron|they-Prs-Nom-P3 verb|build-Fin-Ind-Past-P3-irr adp|up det|this-Def-Dem-Sing noun|type-Acc adp|of .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|COMPOUND-PRT 4|5|DET 5|2|OBJ 6|2|OBL 7|2|PUNCT
+*PAR1:	I don't know this might not be in your case but at least where I went to school &-um a superiority complex where they had to be always more intelligent than their students . 94335_102575
+%mor:	pron|I-Prs-Nom-S1 adv|dont verb|know-Fin-Ind-Pres-S1 pron|this-Dem-S1 aux|might-Fin-S part|not aux|be-Inf-S adp|in pron|your-Prs-Gen-S2 noun|case cconj|but adp|at adj|least-Sup-S1 adv|where pron|I-Prs-Nom-S1 verb|go-Fin-Ind-Past-S1-irr part|to verb|school-Inf-S det|a-Ind-Art noun|superiority noun|complex-Acc adv|where pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Past-P3-irr part|to aux|be-Inf-S adv|always adv|more adj|intelligent-S1 adp|than pron|their-Prs-Gen-P3 noun|student-Plur .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|10|NSUBJ 5|10|AUX 6|10|ADVMOD 7|10|COP 8|10|CASE 9|10|NMOD-POSS 10|3|CCOMP 11|16|CC 12|16|ADVMOD 13|12|FIXED 14|16|ADVMOD 15|16|NSUBJ 16|10|CONJ 17|18|MARK 18|16|XCOMP 19|21|DET 20|21|COMPOUND 21|18|OBJ 22|24|ADVMOD 23|24|NSUBJ 24|21|ACL-RELCL 25|29|MARK 26|29|COP 27|29|ADVMOD 28|29|ADVMOD 29|24|XCOMP 30|32|CASE 31|32|NMOD-POSS 32|29|OBL 33|3|PUNCT
+*PAR1:	and it's impossible for students . 102635_103895
+%mor:	cconj|and pron|its-Prs-Gen-S3 adj|impossible-S1 adp|for noun|student-Plur .
+%gra:	1|3|CC 2|3|NMOD-POSS 3|0|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*PAR1:	they felt more intimidated . 104085_106175
+%mor:	pron|they-Prs-Nom-P3 verb|feel-Fin-Ind-Past-P3-irr adv|more verb|intimidate-Part-Past-S .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|ADVMOD 4|2|XCOMP 5|2|PUNCT
+*PAR1:	when &-um people would ask you know questions that they didn't understand themselves . 106565_110535
+%mor:	adv|when noun|person-Plur aux|would-Fin-S verb|ask-Inf-S pron|you-Prs-Acc-S2 verb|know-Fin-Ind-Pres-P3 noun|question-Plur-Acc pron|that-Rel pron|they-Prs-Nom-P3 adv|didnt verb|understand-Inf-Ind-Pres-P3 pron|themselves-Prs-Acc-reflx-P3 .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|NSUBJ 6|4|XCOMP 7|6|OBJ 8|11|OBJ 9|11|NSUBJ 10|11|ADVMOD 11|7|ACL-RELCL 12|11|OBJ 13|4|PUNCT
+*PAR1:	so rather than doing this they would either you know ridicule the student or tell them to shut up or you know this is not what we're covering . 110675_117055
+%mor:	adv|so adv|rather adp|than verb|do-Part-Pres-S pron|this-Dem-S1 pron|they-Prs-Nom-P3 aux|would-Fin-S cconj|either pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 verb|ridicule-Inf-S det|the-Def-Art noun|student-Acc cconj|or verb|tell-Inf-S pron|they-Prs-Acc-P3 part|to verb|shut-Inf-S adp|up cconj|or pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 part|not pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 verb|cover-Part-Pres-S .
+%gra:	1|10|ADVMOD 2|4|CC 3|2|FIXED 4|10|ADVCL 5|4|OBJ 6|10|NSUBJ 7|10|AUX 8|10|CC-PRECONJ 9|10|NSUBJ 10|0|ROOT 11|10|XCOMP 12|13|DET 13|11|OBJ 14|15|CC 15|11|CONJ 16|15|IOBJ 17|18|MARK 18|15|XCOMP 19|18|COMPOUND-PRT 20|22|CC 21|22|NSUBJ 22|11|CONJ 23|26|NSUBJ 24|26|COP 25|26|ADVMOD 26|22|CCOMP 27|28|AUX 28|26|ACL-RELCL 29|10|PUNCT
+*PAR1:	we're doing this . 117055_117695
+%mor:	sconj|were verb|do-Part-Pres-S pron|this-Dem-S1 .
+%gra:	1|2|MARK 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR1:	and so certain kids who would be interested in exploring different avenues were just basically shunted because you know they were all more concerned that everybody falls along a certain path . 118115_127735
+%mor:	cconj|and adv|so adj|certain-S1 noun|kid-Plur pron|who-Rel aux|would-Fin-S aux|be-Inf-S adj|interested-S1 sconj|in verb|explore-Part-Pres-S adj|different-S1 noun|avenue-Plur-Acc aux|be-Fin-Ind-Past-P3-irr adv|just adv|basically verb|shunt-Part-Past-S sconj|because pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Past-P3-irr adv|all adv|more adj|concerned-S1 sconj|that pron|everybody-Tot-S1 verb|fall-Fin-Ind-Pres-S3 adp|along det|a-Ind-Art adj|certain-S1 noun|path .
+%gra:	1|16|CC 2|16|ADVMOD 3|4|AMOD 4|16|NSUBJ-PASS 5|8|NSUBJ 6|8|AUX 7|8|COP 8|4|ACL-RELCL 9|10|MARK 10|8|ADVCL 11|12|AMOD 12|10|OBJ 13|16|AUX-PASS 14|16|ADVMOD 15|16|ADVMOD 16|0|ROOT 17|19|MARK 18|19|NSUBJ 19|16|ADVCL 20|24|NSUBJ 21|24|COP 22|24|ADVMOD 23|24|ADVMOD 24|19|CCOMP 25|27|MARK 26|27|NSUBJ 27|24|CCOMP 28|31|CASE 29|31|DET 30|31|AMOD 31|27|OBL 32|16|PUNCT
+*PAR1:	although I agree that discipline is &-uh important . 128335_131895
+%mor:	sconj|although pron|I-Prs-Nom-S1 verb|agree-Fin-Ind-Pres-S1 sconj|that noun|discipline aux|be-Fin-Ind-Pres-S3 adj|important-S1 .
+%gra:	1|3|MARK 2|3|NSUBJ 3|0|ROOT 4|7|MARK 5|7|NSUBJ 6|7|COP 7|3|CCOMP 8|3|PUNCT
+*PAR1:	&-um especially since there are in different areas where kids have already grown to a point of rebellion or guns as you mentioned . 132595_142575
+%mor:	adv|especially sconj|since pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 adp|in adj|different-S1 noun|area-Plur adv|where noun|kid-Plur aux|have-Fin-Ind-Pres-P3 adv|already verb|grow-Part-Past-S-irr adp|to det|a-Ind-Art noun|point adp|of noun|rebellion cconj|or noun|gun-Plur sconj|as pron|you-Prs-Nom-S2 verb|mention-Fin-Ind-Past-S2 .
+%gra:	1|4|ADVMOD 2|4|MARK 3|4|EXPL 4|0|ROOT 5|7|CASE 6|7|AMOD 7|4|OBL 8|12|ADVMOD 9|12|NSUBJ 10|12|AUX 11|12|ADVMOD 12|7|ACL-RELCL 13|15|CASE 14|15|DET 15|12|OBL 16|17|CASE 17|15|NMOD 18|19|CC 19|17|CONJ 20|22|MARK 21|22|NSUBJ 22|12|ADVCL 23|4|PUNCT
+*PAR1:	but &-uh in general &-uh in certain areas I think if [/] if [/] if they started earlier maybe not in just the high school level but I mean elementary school maybe you have . 143155_151895
+%mor:	cconj|but adp|in adj|general-S1 adp|in adj|certain-S1 noun|area-Plur pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 sconj|if pron|they-Prs-Nom-P3 verb|start-Fin-Ind-Past-P3 adv|early adv|maybe part|not adp|in adv|just det|the-Def-Art adj|high-S1 noun|school noun|level cconj|but pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 adj|elementary-S1 noun|school-Acc adv|maybe pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 .
+%gra:	1|8|CC 2|3|CASE 3|8|OBL 4|6|CASE 5|6|AMOD 6|3|NMOD 7|8|NSUBJ 8|0|ROOT 9|11|MARK 10|11|NSUBJ 11|8|CCOMP 12|11|ADVMOD 13|20|ADVMOD 14|20|ADVMOD 15|20|CASE 16|20|ADVMOD 17|20|DET 18|19|AMOD 19|20|COMPOUND 20|11|OBL 21|23|CC 22|23|NSUBJ 23|8|CONJ 24|25|AMOD 25|23|OBJ 26|28|ADVMOD 27|28|NSUBJ 28|8|PARATAXIS 29|8|PUNCT
+*PAR1:	to worry about switchblades instead of guns . 151895_154335
+%mor:	part|to verb|worry-Inf-S adp|about noun|switchblade-Plur adv|instead adp|of noun|gun-Plur .
+%gra:	1|2|MARK 2|0|ROOT 3|4|CASE 4|2|OBL 5|7|CASE 6|5|FIXED 7|2|OBL 8|2|PUNCT
+*PAR1:	&-um that the students would you know if the teachers got kids interested more into learning rather than bickering it'd eliminate these pseudo rebel rules that are created because you know if this teacher says . 154875_167575
+%mor:	sconj|that det|the-Def-Art noun|student-Plur-Acc aux|would-Fin-S pron|you-Prs-Nom-S2 verb|know-Inf-S sconj|if det|the-Def-Art noun|teacher-Plur verb|get-Fin-Ind-Past-P3-irr noun|kid-Plur-Acc adj|interested-S1 adv|more adp|into noun|learning-Ger adv|rather adp|than verb|bicker-Part-Pres-S noun|itd verb|eliminate-Inf-S det|this-Def-Dem-Plur adj|pseudo-S1 noun|rebel noun|rule-Plur-Acc pron|that-Rel aux|be-Fin-Ind-Pres-P3 verb|create-Part-Past-S sconj|because pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 sconj|if det|this-Def-Dem-Sing noun|teacher verb|say-Fin-Ind-Pres-S3 .
+%gra:	1|6|MARK 2|3|DET 3|6|OBJ 4|6|AUX 5|6|NSUBJ 6|0|ROOT 7|10|MARK 8|9|DET 9|10|NSUBJ 10|6|CCOMP 11|10|OBJ 12|10|XCOMP 13|12|ADVMOD 14|15|CASE 15|12|OBL 16|18|CC 17|16|FIXED 18|10|CONJ 19|20|NSUBJ 20|6|CONJ 21|24|DET 22|24|AMOD 23|24|COMPOUND 24|20|OBJ 25|27|NSUBJ-PASS 26|27|AUX-PASS 27|24|ACL-RELCL 28|30|MARK 29|30|NSUBJ 30|20|ADVCL 31|34|MARK 32|33|DET 33|34|NSUBJ 34|30|CCOMP 35|6|PUNCT
+*PAR1:	don't do this . 167575_168295
+%mor:	aux|do-Fin-Imp-S~part|not verb|do-Fin-Imp-S pron|this-Dem-S1 .
+%gra:	1|3|AUX 2|3|ADVMOD 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR1:	and then kids do it . 168355_169295
+%mor:	cconj|and adv|then noun|kid-Plur verb|do-Fin-Ind-Pres-P3 pron|it-Prs-Acc-S3 .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR1:	especially that age . 169295_170295
+%mor:	adv|especially det|that-Def-Dem-Sing noun|age .
+%gra:	1|3|ADVMOD 2|3|DET 3|0|ROOT 4|3|PUNCT
+*PAR1:	they wanna be a rebel . 170565_172055
+%mor:	pron|they-Prs-Nom-P3 aux|wanna-Fin-S aux|be-Inf-S det|a-Ind-Art noun|rebel .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|COP 4|5|DET 5|0|ROOT 6|5|PUNCT
+*PAR1:	so they're different . 172075_172935
+%mor:	adv|so adv|their adj|different-S1 .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|0|ROOT 4|3|PUNCT
+*PAR1:	they prove themselves by you know &-um going against the establishment type of thing . 172965_178655
+%mor:	pron|they-Prs-Nom-P3 verb|prove-Fin-Ind-Pres-P3 pron|themselves-Prs-Acc-reflx-P3 sconj|by pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 verb|go-Ger-S adp|against det|the-Def-Art noun|establishment noun|type adp|of noun|thing-Ger .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|6|MARK 5|6|NSUBJ 6|2|ADVCL 7|6|XCOMP 8|11|CASE 9|11|DET 10|11|COMPOUND 11|7|OBL 12|13|CASE 13|11|NMOD 14|2|PUNCT
+*PAR1:	what do you think . 179275_179885
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|think-Inf-S .
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+*PAR0:	well I think the problem with that the problem I had . 181635_184765
+%mor:	intj|well pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 det|the-Def-Art noun|problem-Acc adp|with pron|that-Dem det|the-Def-Art noun|problem-Acc pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Past-S1-irr .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|CASE 7|5|NMOD 8|9|DET 9|3|OBJ 10|11|NSUBJ 11|9|ACL-RELCL 12|3|PUNCT
+*PAR0:	because when I went into teaching I decided I was just gonna be you know the perfect creative teacher . 184765_190925
+%mor:	sconj|because adv|when pron|I-Prs-Nom-S1 verb|go-Fin-Ind-Past-S1-irr adp|into noun|teaching-Ger pron|I-Prs-Nom-S1 verb|decide-Fin-Ind-Past-S1 pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr adv|just part|go aux|be-Inf-S pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 det|the-Def-Art adj|perfect-S1 adj|creative-S1 noun|teacher-Acc .
+%gra:	1|8|MARK 2|4|ADVMOD 3|4|NSUBJ 4|8|ADVCL 5|6|CASE 6|4|OBL 7|8|NSUBJ 8|0|ROOT 9|15|NSUBJ-OUTER 10|15|AUX 11|15|ADVMOD 12|15|ADVMOD 13|15|COP 14|15|NSUBJ 15|8|CCOMP 16|19|DET 17|19|AMOD 18|19|AMOD 19|15|OBJ 20|8|PUNCT
+*PAR0:	and &-um my kids were gonna just think that learning was fun . 191985_196005
+%mor:	cconj|and pron|my-Prs-Gen-S1 noun|kid-Plur aux|be-Fin-Ind-Past-P3-irr part|go adv|just verb|think-Inf-S sconj|that noun|learning-Ger aux|be-Fin-Ind-Past-S3-irr adj|fun-S1 .
+%gra:	1|7|CC 2|3|NMOD-POSS 3|7|NSUBJ 4|7|AUX 5|7|ADVMOD 6|7|ADVMOD 7|0|ROOT 8|11|MARK 9|11|NSUBJ 10|11|COP 11|7|CCOMP 12|7|PUNCT
+*PAR1:	what grade . 197275_197725
+%mor:	det|what-Def-Int noun|grade .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*PAR1:	were you teaching . 197765_198325
+%mor:	aux|be-Fin-Ind-Past-P3-irr pron|you-Prs-Nom-S2 verb|teach-Part-Pres-S .
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*PAR0:	I was teaching eighth grade . 198725_199805
+%mor:	pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr verb|teach-Part-Pres-S adj|eighth-S1 noun|grade-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|AMOD 5|3|OBJ 6|3|PUNCT
+*PAR0:	oh . 200065_200285
+%mor:	intj|oh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	really the guns at that level too . 200285_202405
+%mor:	adv|really det|the-Def-Art noun|gun-Plur adp|at det|that-Def-Dem-Sing noun|level adv|too .
+%gra:	1|3|ADVMOD 2|3|DET 3|0|ROOT 4|6|CASE 5|6|DET 6|3|NMOD 7|3|ADVMOD 8|3|PUNCT
+*PAR0:	yes . 202785_203005
+%mor:	intj|yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	okay . 204635_204925
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	this is in North Carolina . 205475_206605
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 adp|in propn|North propn|Carolina .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|CASE 4|5|COMPOUND 5|0|ROOT 6|5|PUNCT
+*PAR0:	well this is in South Carolina okay . 207195_209205
+%mor:	intj|well pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 adp|in propn|South propn|Carolina intj|okay .
+%gra:	1|6|DISCOURSE 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|COMPOUND 6|0|ROOT 7|6|DISCOURSE 8|6|PUNCT
+*PAR0:	but anyway the problem that I had was &-um my students didn't really know how to respond to that . 210665_219525
+%mor:	cconj|but adv|anyway det|the-Def-Art noun|problem pron|that-Rel pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Past-S1-irr aux|be-Fin-Ind-Past-S3-irr pron|my-Prs-Gen-S1 noun|student-Plur part|didnt adv|really verb|know-Inf-S adv|how part|to verb|respond-Inf-S adp|to pron|that-Dem .
+%gra:	1|13|CC 2|13|ADVMOD 3|4|DET 4|13|NSUBJ-OUTER 5|7|OBJ 6|7|NSUBJ 7|4|ACL-RELCL 8|13|COP 9|10|NMOD-POSS 10|13|NSUBJ 11|13|ADVMOD 12|13|ADVMOD 13|0|ROOT 14|13|OBJ 15|16|MARK 16|14|ACL 17|18|CASE 18|16|OBL 19|13|PUNCT
+*PAR0:	mhm . 219585_220005
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	and they basically didn't they didn't appreciate everything I was trying to do for them because I would have learning games all the time . 221385_231965
+%mor:	cconj|and pron|they-Prs-Nom-P3 adv|basically aux|didnt-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 part|didnt verb|appreciate-Inf-S pron|everything-Tot-S1 pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr verb|try-Part-Pres-S part|to verb|do-Inf-S adp|for pron|they-Prs-Acc-P3 sconj|because pron|I-Prs-Nom-S1 aux|would-Fin-S verb|have-Inf-S noun|learning-Ger noun|game-Plur-Acc det|all-Def-Tot det|the-Def-Art noun|time .
+%gra:	1|7|CC 2|7|NSUBJ 3|7|ADVMOD 4|7|AUX 5|7|NSUBJ 6|7|ADVMOD 7|0|ROOT 8|7|OBJ 9|11|NSUBJ 10|11|AUX 11|8|ACL-RELCL 12|13|MARK 13|11|XCOMP 14|15|CASE 15|13|OBL 16|19|MARK 17|19|NSUBJ 18|19|AUX 19|7|ADVCL 20|21|COMPOUND 21|19|OBJ 22|24|DET-PREDET 23|24|DET 24|19|OBL-UNMARKED 25|7|PUNCT
+*PAR0:	and I tried to do just fun things . 232425_234205
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|try-Fin-Ind-Past-S1 part|to verb|do-Inf-S adv|just adj|fun-S1 noun|thing-Plur-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|7|ADVMOD 7|8|AMOD 8|5|OBJ 9|3|PUNCT
+*PAR0:	uhhuh . 234535_234885
+%mor:	intj|uhhuh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	and make it interesting . 235785_237205
+%mor:	cconj|and verb|make-Fin-Imp-S pron|it-Prs-Acc-S3 adj|interesting-S1 .
+%gra:	1|2|CC 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|2|PUNCT
+*PAR0:	and do creative thinking and just all kinds of things . 237465_242485
+%mor:	cconj|and verb|do-Fin-Imp-S adj|creative-S1 noun|thinking-Acc-Ger cconj|and adv|just det|all-Def-Tot noun|kind-Plur adp|of noun|thing-Plur .
+%gra:	1|2|CC 2|0|ROOT 3|4|AMOD 4|2|OBJ 5|8|CC 6|8|ADVMOD 7|8|DET 8|4|CONJ 9|10|CASE 10|8|NMOD 11|2|PUNCT
+*PAR0:	and they just took advantage of me . 243065_244885
+%mor:	cconj|and pron|they-Prs-Nom-P3 adv|just verb|take-Fin-Ind-Past-P3-irr noun|advantage-Acc adp|of pron|I-Prs-Acc-S1 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|7|CASE 7|4|OBL 8|4|PUNCT
+*PAR0:	and they walked all over me . 244885_246125
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|walk-Fin-Ind-Past-P3 det|all-Def-Tot adp|over pron|I-Prs-Acc-S1 .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|6|CASE 6|3|OBL 7|3|PUNCT
+*PAR0:	and I was never able to establish any kind of discipline because I started out being too nice . 246265_254405
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr adv|never adj|able-S1 part|to verb|establish-Inf-S det|any-Def-Ind noun|kind-Acc adp|of noun|discipline sconj|because pron|I-Prs-Nom-S1 verb|start-Fin-Ind-Past-S1 adp|out aux|be-Part-Pres-S adv|too adj|nice-S1 .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|0|ROOT 6|7|MARK 7|5|XCOMP 8|9|DET 9|7|OBJ 10|11|CASE 11|9|NMOD 12|14|MARK 13|14|NSUBJ 14|7|ADVCL 15|14|COMPOUND-PRT 16|18|COP 17|18|ADVMOD 18|14|XCOMP 19|5|PUNCT
+*PAR1:	really . 254705_255125
+%mor:	adv|really .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	do you think the problem might have originated at an earlier stage . 255185_258245
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|think-Inf-S det|the-Def-Art noun|problem aux|might-Fin-S aux|have-Inf-S verb|originate-Part-Past-S adp|at det|a-Ind-Art adj|early-Cmp-S1 noun|stage .
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|8|NSUBJ 6|8|AUX 7|8|AUX 8|3|CCOMP 9|12|CASE 10|12|DET 11|12|AMOD 12|8|OBL 13|3|PUNCT
+*PAR1:	that maybe kids weren't really taught much to respect you know teachers and also try to do . 258715_263405
+%mor:	sconj|that adv|maybe noun|kid-Plur aux|werent-Fin-Ind-Pres-P3 adv|really verb|teach-Part-Past-S-irr adj|much-S1 part|to verb|respect-Inf-S pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 noun|teacher-Plur-Acc cconj|and adv|also verb|try-Inf-S part|to verb|do-Inf-S .
+%gra:	1|6|MARK 2|6|ADVMOD 3|6|NSUBJ-PASS 4|6|AUX-PASS 5|6|ADVMOD 6|0|ROOT 7|6|OBJ 8|9|MARK 9|7|ACL 10|11|NSUBJ 11|6|PARATAXIS 12|11|OBJ 13|15|CC 14|15|ADVMOD 15|11|CONJ 16|17|MARK 17|15|XCOMP 18|6|PUNCT
+*PAR0:	well see that's the thing is I don't think that they do respect teachers . 263405_266285
+%mor:	intj|well verb|see-Fin-Imp-S pron|that-Prs-S1 det|the-Def-Art noun|thing-Ger aux|be-Fin-Ind-Pres-S3 pron|I-Prs-Nom-S1 adv|dont verb|think-Inf-S sconj|that pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Pres-P3 verb|respect-Inf-S noun|teacher-Plur-Acc .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|OBJ 4|5|DET 5|9|NSUBJ-OUTER 6|9|COP 7|9|NSUBJ 8|9|ADVMOD 9|2|PARATAXIS 10|13|MARK 11|13|NSUBJ 12|13|AUX 13|9|CCOMP 14|13|OBJ 15|2|PUNCT
+*PAR0:	and I'm saying that [/] that [/] that . 266985_268885
+%mor:	cconj|and intj|im verb|say-Part-Pres-S pron|that-Dem .
+%gra:	1|3|CC 2|3|DISCOURSE 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR0:	well just the administration and my school didn't give me any support . 268955_272325
+%mor:	intj|well adv|just det|the-Def-Art noun|administration cconj|and pron|my-Prs-Gen-S1 noun|school aux|didnt-Fin-S verb|give-Inf-S pron|I-Prs-Acc-S1 det|any-Def-Ind noun|support-Acc .
+%gra:	1|4|DISCOURSE 2|4|ADVMOD 3|4|DET 4|0|ROOT 5|9|CC 6|7|NMOD-POSS 7|9|NSUBJ 8|9|AUX 9|4|CONJ 10|9|IOBJ 11|12|DET 12|9|OBJ 13|4|PUNCT
+*PAR0:	and it's like after you know the students were already taking advantage of me . 273545_278845
+%mor:	cconj|and pron|its-Prs-Gen-S3 intj|like sconj|after pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 det|the-Def-Art noun|student-Plur aux|be-Fin-Ind-Past-P3-irr adv|already verb|take-Part-Pres-S noun|advantage-Acc adp|of pron|I-Prs-Acc-S1 .
+%gra:	1|11|CC 2|3|NMOD-POSS 3|6|DISCOURSE 4|6|MARK 5|6|NSUBJ 6|11|ADVCL 7|8|DET 8|11|NSUBJ 9|11|AUX 10|11|ADVMOD 11|0|ROOT 12|11|OBJ 13|14|CASE 14|11|OBL 15|11|PUNCT
+*PAR0:	&-um they just told me to just crack down . 280305_283045
+%mor:	pron|they-Prs-Nom-P3 adv|just verb|tell-Fin-Ind-Past-P3-irr pron|I-Prs-Acc-S1 part|to adv|just verb|crack-Inf-S adp|down .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|3|IOBJ 5|7|MARK 6|7|ADVMOD 7|3|XCOMP 8|7|COMPOUND-PRT 9|3|PUNCT
+*PAR0:	and then they wouldn't support me in that . 283505_285165
+%mor:	cconj|and adv|then pron|they-Prs-Nom-P3 aux|wouldnt-Fin-S verb|support-Inf-S pron|I-Prs-Acc-S1 adp|in pron|that-Dem .
+%gra:	1|5|CC 2|5|ADVMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|8|CASE 8|5|OBL 9|5|PUNCT
+*PAR0:	and they just told me that the only way that these students would respond would be if I had a completely structured environment . 285865_293445
+%mor:	cconj|and pron|they-Prs-Nom-P3 adv|just verb|tell-Fin-Ind-Past-P3-irr pron|I-Prs-Acc-S1 sconj|that det|the-Def-Art adj|only-S1 noun|way sconj|that det|this-Def-Dem-Plur noun|student-Plur aux|would-Fin-S verb|respond-Inf-S aux|would-Fin-S aux|be-Inf-S sconj|if pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Past-S1-irr det|a-Ind-Art adv|completely verb|structure-Part-Past-S noun|environment-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|4|IOBJ 6|19|MARK 7|9|DET 8|9|AMOD 9|19|NSUBJ-OUTER 10|14|OBJ 11|12|DET 12|14|NSUBJ 13|14|AUX 14|9|ACL 15|19|AUX 16|19|COP 17|19|MARK 18|19|NSUBJ 19|4|CCOMP 20|23|DET 21|22|ADVMOD 22|23|AMOD 23|19|OBJ 24|4|PUNCT
+*PAR0:	and I was miserable doing that . 293545_296325
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr adj|miserable-S1 verb|do-Part-Pres-S pron|that-Dem .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|ADVCL 6|5|OBJ 7|4|PUNCT
+@End

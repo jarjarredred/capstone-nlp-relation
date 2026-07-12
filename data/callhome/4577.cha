@@ -1,0 +1,535 @@
+@UTF8
+@PID:	11312/a-00077147-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant, PAR1 Participant
+@ID:	eng|eng|PAR0|||||Participant|||
+@ID:	eng|eng|PAR1|||||Participant|||
+@Media:	4577, audio
+@Comment:	ASR from Rev-AI
+*PAR0:	topic for me . 55_765
+%mor:	noun|topic adp|for pron|I-Prs-Acc-S1 .
+%gra:	1|0|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+*PAR0:	I'm a music major in college . 825_2085
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 det|a-Ind-Art noun|music noun|major adp|in noun|college .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|COMPOUND 5|0|ROOT 6|7|CASE 7|5|NMOD 8|5|PUNCT
+*PAR0:	oh . 2505_2725
+%mor:	intj|oh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	really . 2725_2965
+%mor:	adv|really .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	yeah . 3155_3445
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	I sing . 3685_4125
+%mor:	pron|I-Prs-Nom-S1 verb|sing-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*PAR0:	but I also play a couple instruments . 4225_5925
+%mor:	cconj|but pron|I-Prs-Nom-S1 adv|also verb|play-Fin-Ind-Pres-S1 det|a-Ind-Art noun|couple noun|instrument-Plur-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|7|DET 6|7|COMPOUND 7|4|OBJ 8|4|PUNCT
+*PAR0:	I started on the piano . 6085_7205
+%mor:	pron|I-Prs-Nom-S1 verb|start-Fin-Ind-Past-S1 adp|on det|the-Def-Art noun|piano .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+*PAR0:	and I've taken that for about eleven years . 7905_9565
+%mor:	cconj|and pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 verb|take-Part-Past-S-irr pron|that-Dem adp|for adv|about num|eleven noun|year-Plur .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|9|CASE 7|8|ADVMOD 8|9|NUMMOD 9|4|OBL 10|4|PUNCT
+*PAR0:	and then I took flute . 9665_11085
+%mor:	cconj|and adv|then pron|I-Prs-Nom-S1 verb|take-Fin-Ind-Past-S1-irr noun|flute-Acc .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR0:	and then I picked up the fiddle . 11465_12805
+%mor:	cconj|and adv|then pron|I-Prs-Nom-S1 verb|pick-Fin-Ind-Past-S1 adp|up det|the-Def-Art noun|fiddle-Acc .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|0|ROOT 5|4|COMPOUND-PRT 6|7|DET 7|4|OBJ 8|4|PUNCT
+*PAR0:	and &-uh my latest venture was the guitar . 13345_15925
+%mor:	cconj|and pron|my-Prs-Gen-S1 adj|late-Sup-S1 noun|venture aux|be-Fin-Ind-Past-S3-irr det|the-Def-Art noun|guitar .
+%gra:	1|7|CC 2|4|NMOD-POSS 3|4|AMOD 4|7|NSUBJ 5|7|COP 6|7|DET 7|0|ROOT 8|7|PUNCT
+*PAR0:	but it didn't get very far . 16025_17085
+%mor:	cconj|but pron|it-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3-irr~part|not verb|get-Inf-S adv|very adv|far .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|7|ADVMOD 7|5|ADVMOD 8|5|PUNCT
+*PAR0:	because I'm getting burned out on learning instruments . 17285_19405
+%mor:	sconj|because pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 aux|get-Part-Pres-S verb|burn-Part-Past-S adp|out adp|on noun|learning-Ger noun|instrument-Plur .
+%gra:	1|5|MARK 2|5|NSUBJ-PASS 3|5|AUX 4|5|AUX-PASS 5|0|ROOT 6|5|COMPOUND-PRT 7|9|CASE 8|9|COMPOUND 9|5|OBL 10|5|PUNCT
+*PAR1:	okay . 19515_19805
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	do you wanna do anything . 20025_20965
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-Pres-S~part|to verb|do-Inf-S pron|anything-Ind-S1 .
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|3|PUNCT
+*PAR1:	obviously . 20965_21565
+%mor:	adv|obviously .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	you're a music major . 21565_22205
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 det|a-Ind-Art noun|music noun|major .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|COMPOUND 5|0|ROOT 6|5|PUNCT
+*PAR1:	what do you want to do with that . 22205_23365
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S part|to verb|do-Inf-S adp|with pron|that-Dem .
+%gra:	1|6|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|8|CASE 8|6|OBL 9|4|PUNCT
+*PAR1:	major . 23365_23605
+%mor:	adj|major-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	I want to go on to graduate school and teach in a university . 24045_27565
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 part|to verb|go-Inf-S adp|on adp|to noun|graduate noun|school cconj|and verb|teach-Inf-S adp|in det|a-Ind-Art noun|university .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|MARK 4|2|XCOMP 5|4|COMPOUND-PRT 6|8|CASE 7|8|COMPOUND 8|4|OBL 9|10|CC 10|4|CONJ 11|13|CASE 12|13|DET 13|10|OBL 14|2|PUNCT
+*PAR1:	okay . 28235_28525
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	<do you> [/] do you are you more interested in classical or rock music . 28865_31725
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 adv|more adj|interested-S1 adp|in adj|classical-S1 cconj|or noun|rock noun|music .
+%gra:	1|6|AUX 2|6|NSUBJ 3|6|COP 4|6|NSUBJ 5|6|ADVMOD 6|0|ROOT 7|11|CASE 8|11|AMOD 9|10|CC 10|8|CONJ 11|6|OBL 12|6|PUNCT
+*PAR1:	or I mean would you ever consider like recording an album or something like that . 31865_35805
+%mor:	cconj|or pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 aux|would-Fin-S pron|you-Prs-Nom-S2 adv|ever verb|consider-Inf-S sconj|like verb|record-Part-Pres-S det|a-Ind-Art noun|album-Acc cconj|or pron|something-Ind-S1 adp|like pron|that-Dem .
+%gra:	1|7|CC 2|3|NSUBJ 3|7|PARATAXIS 4|7|AUX 5|7|NSUBJ 6|7|ADVMOD 7|0|ROOT 8|9|MARK 9|7|ADVCL 10|11|DET 11|9|OBJ 12|13|CC 13|11|CONJ 14|15|CASE 15|13|NMOD 16|7|PUNCT
+*PAR1:	well . 36035_36325
+%mor:	intj|well .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	I'm not really interested in that because that requires all of your time . 36545_40965
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|not adv|really adj|interested-S1 adp|in pron|that-Dem sconj|because pron|that-Dem verb|require-Fin-Ind-Pres-S3 det|all-Def-Tot adp|of pron|your-Prs-Gen-S2 noun|time .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|ADVMOD 4|5|ADVMOD 5|0|ROOT 6|7|CASE 7|5|OBL 8|10|MARK 9|10|NSUBJ 10|5|ADVCL 11|10|OBJ 12|14|CASE 13|14|NMOD-POSS 14|11|NMOD 15|5|PUNCT
+*PAR0:	mhm . 41025_41445
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	and eventually I just want be settled down . 41665_44045
+%mor:	cconj|and adv|eventually pron|I-Prs-Nom-S1 adv|just verb|want-Fin-Ind-Pres-S1 aux|be-Inf-S verb|settle-Part-Past-S adp|down .
+%gra:	1|5|CC 2|5|ADVMOD 3|5|NSUBJ 4|5|ADVMOD 5|0|ROOT 6|7|AUX-PASS 7|5|XCOMP 8|7|COMPOUND-PRT 9|5|PUNCT
+*PAR0:	you know I'm not interested in going on the road or anything like that . 44545_47645
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|not adj|interested-S1 sconj|in verb|go-Part-Pres-S adp|on det|the-Def-Art noun|road cconj|or pron|anything-Ind-S1 adp|like pron|that-Dem .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|2|CCOMP 7|8|MARK 8|6|ADVCL 9|11|CASE 10|11|DET 11|8|OBL 12|13|CC 13|11|CONJ 14|15|CASE 15|13|NMOD 16|2|PUNCT
+*PAR0:	oh I see &-um I have some relatives that are in a Gospel singing group . 47905_51085
+%mor:	intj|oh pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 det|some-Def-Ind noun|relative-Plur-Acc pron|that-Rel aux|be-Fin-Ind-Pres-P3 adp|in det|a-Ind-Art propn|Gospel noun|singing-Ger noun|group .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|5|NSUBJ 5|3|CCOMP 6|7|DET 7|5|OBJ 8|14|NSUBJ 9|14|COP 10|14|CASE 11|14|DET 12|14|COMPOUND 13|14|COMPOUND 14|7|ACL-RELCL 15|3|PUNCT
+*PAR0:	and they do that . 51105_51765
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|do-Fin-Ind-Pres-P3 pron|that-Dem .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR0:	and it's just very time consuming . 51825_53685
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|just adv|very noun|time verb|consume-Part-S .
+%gra:	1|7|CC 2|7|NSUBJ 3|7|COP 4|7|ADVMOD 5|6|ADVMOD 6|7|COMPOUND 7|0|ROOT 8|7|PUNCT
+*PAR0:	and I just dunno that I'd want to get into that . 54665_56645
+%mor:	cconj|and pron|I-Prs-Nom-S1 adv|just verb|dunno-Fin-Ind-Pres-S1 sconj|that pron|I-Prs-Nom-S1~aux|would-Fin-S verb|want-Inf-S part|to verb|get-Inf-S adp|into pron|that-Dem .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|8|MARK 6|8|NSUBJ 7|8|AUX 8|4|CCOMP 9|10|MARK 10|8|XCOMP 11|12|CASE 12|10|OBL 13|4|PUNCT
+*PAR0:	but &-um . 56825_57205
+%mor:	cconj|but .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	I see that's good though you know give something back . 57405_59365
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|good-S1 sconj|though pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 verb|give-Inf-S pron|something-Ind-S1 adv|back .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|NSUBJ 4|5|COP 5|2|CCOMP 6|9|MARK 7|8|NSUBJ 8|5|ADVCL 9|5|ADVCL 10|9|OBJ 11|9|ADVMOD 12|2|PUNCT
+*PAR1:	you know we need as many good teachers as . 59385_61045
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|we-Prs-Nom-P1 verb|need-Fin-Ind-Pres-P1 adv|as adj|many-S1 adj|good-S1 noun|teacher-Plur-Acc adv|as .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NSUBJ 4|2|CCOMP 5|6|ADVMOD 6|8|AMOD 7|8|AMOD 8|4|OBJ 9|4|ADVMOD 10|2|PUNCT
+*PAR0:	possible . 61245_61405
+%mor:	adj|possible-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	right . 61815_62165
+%mor:	adj|right-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	and my goal is to just really learn how to be a good teacher . 62185_65765
+%mor:	cconj|and pron|my-Prs-Gen-S1 noun|goal aux|be-Fin-Ind-Pres-S3 part|to adv|just adv|really verb|learn-Inf-S adv|how part|to aux|be-Inf-S det|a-Ind-Art adj|good-S1 noun|teacher .
+%gra:	1|8|CC 2|3|NMOD-POSS 3|8|NSUBJ-OUTER 4|8|COP 5|8|MARK 6|8|ADVMOD 7|8|ADVMOD 8|0|ROOT 9|8|OBJ 10|14|MARK 11|14|COP 12|14|DET 13|14|AMOD 14|9|ACL 15|8|PUNCT
+*PAR0:	because &-uh there's not it's not that easy . 66245_68005
+%mor:	sconj|because pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 part|not pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not adv|that adj|easy-S1 .
+%gra:	1|3|MARK 2|3|EXPL 3|9|ADVCL 4|3|ADVMOD 5|9|NSUBJ 6|9|COP 7|9|ADVMOD 8|9|ADVMOD 9|0|ROOT 10|9|PUNCT
+*PAR1:	where do you wanna go to graduate school . 68255_69645
+%mor:	adv|where aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S~part|to verb|go-Inf-S adp|to noun|graduate noun|school .
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|9|CASE 8|9|COMPOUND 9|6|OBL 10|4|PUNCT
+*PAR0:	I'm not really sure . 70105_70765
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|not adv|really adj|sure-S1 .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|ADVMOD 4|5|ADVMOD 5|0|ROOT 6|5|PUNCT
+*PAR0:	I've thought about &-uh Southern Methodist University here in Texas yep . 70995_74885
+%mor:	pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 verb|think-Part-Past-S-irr adp|about adj|Southern-S1 propn|Methodist propn|University adv|here adp|in propn|Texas intj|yep .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|7|CASE 5|7|AMOD 6|7|COMPOUND 7|3|OBL 8|3|ADVMOD 9|10|CASE 10|3|OBL 11|3|DISCOURSE 12|3|PUNCT
+*PAR0:	s m U . 75085_75445
+%mor:	x|s x|million noun|U .
+%gra:	1|0|ROOT 2|1|FLAT 3|1|GOESWITH 4|1|PUNCT
+*PAR1:	of course heard of it definitely . 75665_76805
+%mor:	adp|of noun|course verb|hear-Fin-Ind-Past-S3-irr adp|of pron|it-Prs-Acc-S3 adv|definitely .
+%gra:	1|3|ADVMOD 2|1|FIXED 3|0|ROOT 4|5|CASE 5|3|OBL 6|3|ADVMOD 7|3|PUNCT
+*PAR0:	you have . 76985_77325
+%mor:	pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*PAR1:	oh yeah . 77545_77885
+%mor:	intj|oh intj|yeah .
+%gra:	1|0|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*PAR1:	SMU I mean big &-uh athletic powerhouse . 78165_80285
+%mor:	propn|SMU pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 adj|big-S1 adj|athletic-S1 noun|powerhouse-Acc .
+%gra:	1|3|VOCATIVE 2|3|NSUBJ 3|0|ROOT 4|6|AMOD 5|6|AMOD 6|3|OBJ 7|3|PUNCT
+*PAR0:	right [/] right . 80415_81405
+%mor:	adj|right-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	but they have a real good music program . 81705_83325
+%mor:	cconj|but pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Pres-P3 det|a-Ind-Art adj|real-S1 adj|good-S1 noun|music noun|program-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|8|DET 5|8|AMOD 6|8|AMOD 7|8|COMPOUND 8|3|OBJ 9|3|PUNCT
+*PAR0:	and I I've thought about there . 83545_84965
+%mor:	cconj|and pron|I-Prs-Nom-S1 pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 verb|think-Part-Past-S-irr adp|about adv|there .
+%gra:	1|5|CC 2|5|VOCATIVE 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|CASE 7|5|OBL 8|5|PUNCT
+*PAR0:	there's also Belmont University in Nashville uhhuh . 84965_88205
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 adv|also propn|Belmont propn|University adp|in propn|Nashville propn|uhhuh .
+%gra:	1|2|EXPL 2|0|ROOT 3|2|ADVMOD 4|5|COMPOUND 5|2|NSUBJ 6|8|CASE 7|8|COMPOUND 8|5|NMOD 9|2|PUNCT
+*PAR0:	Tennessee and that's Music City there you go . 88645_91805
+%mor:	propn|Tennessee cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 propn|Music propn|City adv|there pron|you-Prs-Nom-S2 verb|go-Fin-Ind-Pres-S2 .
+%gra:	1|6|NSUBJ 2|3|CC 3|1|CONJ 4|6|COP 5|6|COMPOUND 6|0|ROOT 7|6|ADVMOD 8|9|NSUBJ 9|6|PARATAXIS 10|6|PUNCT
+*PAR0:	I would love to live there who . 92005_93365
+%mor:	pron|I-Prs-Nom-S1 aux|would-Fin-S verb|love-Inf-S part|to verb|live-Inf-S adv|there pron|who-Int .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|5|ADVMOD 7|5|OBJ 8|3|PUNCT
+*PAR1:	are some of your like inspirations . 93365_94765
+%mor:	aux|be-Fin-Ind-Pres-P3 det|some-Def-Ind adp|of pron|your-Prs-Gen-S2 adj|like-S1 noun|inspiration-Plur .
+%gra:	1|2|COP 2|0|ROOT 3|6|CASE 4|6|NMOD-POSS 5|6|AMOD 6|2|NMOD 7|2|PUNCT
+*PAR0:	oh goodness . 95545_96045
+%mor:	intj|oh noun|goodness .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*PAR0:	I listen to a lot of Contemporary Christian music . 96165_99165
+%mor:	pron|I-Prs-Nom-S1 verb|listen-Fin-Ind-Pres-S1 adp|to det|a-Ind-Art noun|lot adp|of adj|contemporary-S1 adj|Christian-S1 noun|music .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|9|CASE 7|9|AMOD 8|9|AMOD 9|5|NMOD 10|2|PUNCT
+*PAR0:	uhhuh . 99455_99805
+%mor:	intj|uhhuh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	and &-um there's Larne Harris have you heard of him . 100065_102765
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 propn|Larne propn|Harris aux|have-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|hear-Part-Past-S-irr adp|of pron|he-Prs-Acc-S3 .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|8|NSUBJ 5|4|FLAT 6|8|AUX 7|8|NSUBJ 8|3|PARATAXIS 9|10|CASE 10|8|OBL 11|3|PUNCT
+*PAR1:	no I haven't . 103105_103685
+%mor:	intj|no pron|I-Prs-Nom-S1 aux|have-Fin-Ind-Pres-S1~part|not .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|3|ADVMOD 5|3|PUNCT
+*PAR1:	he just to tell you the truth . 103825_105125
+%mor:	pron|he-Prs-Nom-S3 adv|just part|to verb|tell-Inf-S pron|you-Prs-Acc-S2 det|the-Def-Art noun|truth-Acc .
+%gra:	1|4|NSUBJ 2|4|ADVMOD 3|4|MARK 4|0|ROOT 5|4|IOBJ 6|7|DET 7|4|OBJ 8|4|PUNCT
+*PAR1:	I'm kind of weak . 105265_105845
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 noun|kind adp|of adj|weak-S1 .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|ADVMOD 4|3|FIXED 5|0|ROOT 6|5|PUNCT
+*PAR1:	I work at a radio station . 105965_106885
+%mor:	pron|I-Prs-Nom-S1 verb|work-Fin-Ind-Pres-S1 adp|at det|a-Ind-Art noun|radio noun|station .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|6|CASE 4|6|DET 5|6|COMPOUND 6|2|OBL 7|2|PUNCT
+*PAR1:	uhhuh . 106895_107245
+%mor:	intj|uhhuh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	but &-uh I'm a little weak in that department . 107345_109165
+%mor:	cconj|but pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 det|a-Ind-Art adj|little-S1 adj|weak-S1 adp|in det|that-Def-Dem-Sing noun|department .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|COP 4|5|DET 5|6|OBL-UNMARKED 6|0|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|6|PUNCT
+*PAR1:	uhhuh . 109165_109445
+%mor:	intj|uhhuh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	but the only one I guess I really know of without you know thinking even harder is Amy Grant because she crossed over . 109445_114965
+%mor:	cconj|but det|the-Def-Art adj|only-S1 noun|one pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 adv|really verb|know-Fin-Ind-Pres-S1 adp|of sconj|without pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 verb|think-Ger-S adv|even adj|hard-Cmp-S1 aux|be-Fin-Ind-Pres-S3 propn|Amy propn|grant sconj|because pron|she-Prs-Nom-S3 verb|cross-Fin-Ind-Past-S3 adp|over .
+%gra:	1|9|CC 2|4|DET 3|4|AMOD 4|18|NSUBJ 5|6|NSUBJ 6|4|ACL-RELCL 7|9|NSUBJ 8|9|ADVMOD 9|4|ACL-RELCL 10|9|OBL 11|13|MARK 12|13|NSUBJ 13|9|ADVCL 14|13|XCOMP 15|16|ADVMOD 16|14|ADVMOD 17|18|COP 18|0|ROOT 19|18|FLAT 20|22|MARK 21|22|NSUBJ 22|18|ADVCL 23|22|COMPOUND-PRT 24|18|PUNCT
+*PAR0:	right [/] right . 115255_116085
+%mor:	adj|right-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	so yeah I know you know her stuff . 116145_117685
+%mor:	adv|so intj|yeah pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|her-Prs-Gen-S3 noun|stuff-Acc .
+%gra:	1|4|DISCOURSE 2|4|DISCOURSE 3|4|NSUBJ 4|0|ROOT 5|6|NSUBJ 6|4|CCOMP 7|8|NMOD-POSS 8|6|OBJ 9|4|PUNCT
+*PAR1:	I've seen a lot of her . 117715_118645
+%mor:	pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 verb|see-Part-Past-S-irr det|a-Ind-Art noun|lot-Acc adp|of pron|her-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|CASE 7|5|NMOD 8|3|PUNCT
+*PAR1:	you know before she went more pop . 118945_120645
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 sconj|before pron|she-Prs-Nom-S3 verb|go-Fin-Ind-Past-S3-irr adv|more noun|pop .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|MARK 4|5|NSUBJ 5|2|ADVCL 6|7|ADVMOD 7|5|XCOMP 8|2|PUNCT
+*PAR1:	I've seen some of her original stuff and heard it . 120675_122565
+%mor:	pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 verb|see-Part-Past-S-irr det|some-Def-Ind adp|of pron|her-Prs-Gen-S3 adj|original-S1 noun|stuff cconj|and verb|hear-Part-Ind-Past-S1-irr pron|it-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|8|CASE 6|8|NMOD-POSS 7|8|AMOD 8|4|NMOD 9|10|CC 10|3|CONJ 11|10|OBJ 12|3|PUNCT
+*PAR1:	uhhuh . 122565_122805
+%mor:	intj|uhhuh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	like on m t V and stuff like that . 122805_124285
+%mor:	intj|like adp|on noun|m noun|t num|V cconj|and noun|stuff adp|like pron|that-Dem .
+%gra:	1|3|DISCOURSE 2|3|CASE 3|0|ROOT 4|3|FLAT 5|4|DEP 6|7|CC 7|4|CONJ 8|9|CASE 9|7|NMOD 10|3|PUNCT
+*PAR1:	uhhuh . 124285_124565
+%mor:	intj|uhhuh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	m t v but channels like M t V right . 125245_127565
+%mor:	x|million x|t x|v cconj|but noun|channel-Plur adp|like x|M x|t num|V adj|right-S1 .
+%gra:	1|0|ROOT 2|1|FLAT 3|1|FLAT 4|5|CC 5|1|CONJ 6|7|CASE 7|5|NMOD 8|7|FLAT 9|7|FLAT 10|7|FLAT 11|1|PUNCT
+*PAR0:	right . 127975_128325
+%mor:	adj|right-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	I like Amy Grant and Sandy Patty and Elle Harris and some of those . 128485_133125
+%mor:	pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 propn|Amy-Acc propn|grant cconj|and propn|Sandy propn|Patty cconj|and propn|Elle propn|Harris cconj|and det|some-Def-Ind adp|of pron|that-Dem-P1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|3|FLAT 5|6|CC 6|3|CONJ 7|6|FLAT 8|9|CC 9|3|CONJ 10|9|FLAT 11|12|CC 12|3|CONJ 13|14|CASE 14|12|NMOD 15|2|PUNCT
+*PAR0:	but &-um now I sing Opera because that's [/] that's what they teach you in college . 133465_137805
+%mor:	cconj|but adv|now pron|I-Prs-Nom-S1 verb|sing-Fin-Ind-Pres-S1 propn|Opera-Acc sconj|because pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|what-Rel-S1 pron|they-Prs-Nom-P3 verb|teach-Fin-Ind-Pres-P3 pron|you-Prs-Acc-S2 adp|in noun|college .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|0|ROOT 5|4|OBJ 6|9|MARK 7|9|NSUBJ 8|9|COP 9|4|ADVCL 10|11|NSUBJ 11|9|ACL-RELCL 12|11|OBJ 13|14|CASE 14|11|OBL 15|4|PUNCT
+*PAR0:	uhhuh . 138055_138405
+%mor:	intj|uhhuh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	is &-uh is opera for the technique . 138825_140925
+%mor:	aux|be-Fin-Ind-Pres-S3 aux|be-Fin-Ind-Pres-S3 noun|opera adp|for det|the-Def-Art noun|technique .
+%gra:	1|3|COP 2|3|COP 3|0|ROOT 4|6|CASE 5|6|DET 6|3|NMOD 7|3|PUNCT
+*PAR0:	yeah . 141275_141565
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	so that you'll learn how to sing and not ever hurt your voice . 141625_144405
+%mor:	sconj|so sconj|that pron|you-Prs-Nom-S2~aux|will-Fin-S verb|learn-Inf-S adv|how part|to verb|sing-Inf-S cconj|and part|not adv|ever verb|hurt-Inf-S pron|your-Prs-Gen-S2 noun|voice-Acc .
+%gra:	1|5|MARK 2|1|FIXED 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|8|MARK 8|6|ACL 9|12|CC 10|12|ADVMOD 11|12|ADVMOD 12|8|CONJ 13|14|NMOD-POSS 14|12|OBJ 15|5|PUNCT
+*PAR1:	if you sing opera does that can that pretty much qualify you to sing anything else . 144745_148605
+%mor:	sconj|if pron|you-Prs-Nom-S2 verb|sing-Fin-Ind-Pres-S2 noun|opera-Acc aux|do-Fin-Ind-Pres-S3 pron|that-Dem aux|can-Fin-S pron|that-Dem adv|pretty adv|much verb|qualify-Inf-S pron|you-Prs-Acc-S2 part|to verb|sing-Inf-S pron|anything-Ind-S1 adj|else-S1 .
+%gra:	1|3|MARK 2|3|NSUBJ 3|11|ADVCL 4|3|OBJ 5|11|AUX 6|11|NSUBJ 7|11|AUX 8|11|NSUBJ 9|10|ADVMOD 10|11|ADVMOD 11|0|ROOT 12|11|OBJ 13|14|MARK 14|11|ADVCL 15|14|OBJ 16|15|AMOD 17|11|PUNCT
+*PAR0:	right [/] right . 149255_150285
+%mor:	adj|right-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	I see the [/] the idea is that Opera is the hardest thing to learn how to sing . 150645_155165
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|the-Def-Art noun|idea aux|be-Fin-Ind-Pres-S3 sconj|that propn|Opera aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|hard-Sup-S1 noun|thing-Ger part|to verb|learn-Inf-S adv|how part|to verb|sing-Inf-S .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|11|NSUBJ-OUTER 5|11|COP 6|11|MARK 7|11|NSUBJ 8|11|COP 9|11|DET 10|11|AMOD 11|2|CCOMP 12|13|MARK 13|11|ACL 14|13|OBJ 15|16|MARK 16|14|ACL 17|2|PUNCT
+*PAR0:	and if you can sing that then you can adjust your voice to sound country or rock or anything else . 155505_161485
+%mor:	cconj|and sconj|if pron|you-Prs-Nom-S2 aux|can-Fin-S verb|sing-Inf-S pron|that-Dem adv|then pron|you-Prs-Nom-S2 aux|can-Fin-S verb|adjust-Inf-S pron|your-Prs-Gen-S2 noun|voice-Acc part|to verb|sound-Inf-S noun|country-Acc cconj|or noun|rock cconj|or pron|anything-Ind-S1 adj|else-S1 .
+%gra:	1|10|CC 2|5|MARK 3|5|NSUBJ 4|5|AUX 5|10|ADVCL 6|5|OBJ 7|10|ADVMOD 8|10|NSUBJ 9|10|AUX 10|0|ROOT 11|12|NMOD-POSS 12|10|OBJ 13|14|MARK 14|10|ADVCL 15|14|OBJ 16|17|CC 17|15|CONJ 18|19|CC 19|15|CONJ 20|19|AMOD 21|10|PUNCT
+*PAR0:	uhhuh . 161855_162205
+%mor:	intj|uhhuh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	but you can't just because you can sing rock or country or something else . 162465_165805
+%mor:	cconj|but pron|you-Prs-Nom-S2 aux|can-Fin-S~part|not adv|just sconj|because pron|you-Prs-Nom-S2 aux|can-Fin-S verb|sing-Inf-S noun|rock-Acc cconj|or noun|country cconj|or pron|something-Ind-S1 adj|else-S1 .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|ADVMOD 5|9|ADVMOD 6|9|MARK 7|9|NSUBJ 8|9|AUX 9|3|ADVCL 10|9|OBJ 11|12|CC 12|10|CONJ 13|14|CC 14|10|CONJ 15|14|AMOD 16|3|PUNCT
+*PAR0:	doesn't mean you can sing opera . 165805_167165
+%mor:	aux|do-Fin-Ind-Pres-S3~part|not verb|mean-Inf-S pron|you-Prs-Nom-S2 aux|can-Fin-S verb|sing-Inf-S noun|opera-Acc .
+%gra:	1|3|AUX 2|3|ADVMOD 3|0|ROOT 4|6|NSUBJ 5|6|AUX 6|3|CCOMP 7|6|OBJ 8|3|PUNCT
+*PAR0:	because it's [/] <it's really> [/] it's really technical . 167515_170205
+%mor:	sconj|because pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|really adj|technical-S1 .
+%gra:	1|5|MARK 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|0|ROOT 6|5|PUNCT
+*PAR0:	and it's hard to learn . 170265_171245
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|hard-S1 part|to verb|learn-Inf-S .
+%gra:	1|4|CC 2|4|EXPL 3|4|COP 4|0|ROOT 5|6|MARK 6|4|CSUBJ 7|4|PUNCT
+*PAR1:	were you at &-uh you said you were at University of Texas . 171995_174485
+%mor:	aux|be-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 adp|at pron|you-Prs-Nom-S2 verb|say-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Past-S2-irr adp|at propn|University adp|of propn|Texas .
+%gra:	1|5|AUX 2|5|NSUBJ 3|4|CASE 4|2|NMOD 5|0|ROOT 6|9|NSUBJ 7|9|COP 8|9|CASE 9|5|CCOMP 10|11|CASE 11|9|NMOD 12|5|PUNCT
+*PAR0:	no . 175145_175365
+%mor:	intj|no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	I right now I'm at a junior college . 175525_177125
+%mor:	pron|I-Prs-Nom-S1 adv|right adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adp|at det|a-Ind-Art adj|junior-S1 noun|college .
+%gra:	1|9|NSUBJ 2|3|ADVMOD 3|9|ADVMOD 4|9|NSUBJ 5|9|COP 6|9|CASE 7|9|DET 8|9|AMOD 9|0|ROOT 10|9|PUNCT
+*PAR0:	but I'll be transferring to Stephen F Austin State University . 177185_179965
+%mor:	cconj|but pron|I-Prs-Nom-S1~aux|will-Fin-S aux|be-Inf-S verb|transfer-Part-Pres-S adp|to propn|Stephen propn|F propn|Austin propn|State propn|University .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|AUX 5|0|ROOT 6|11|CASE 7|11|COMPOUND 8|7|FLAT 9|7|FLAT 10|11|COMPOUND 11|5|OBL 12|5|PUNCT
+*PAR1:	oh yeah . 180065_180405
+%mor:	intj|oh intj|yeah .
+%gra:	1|0|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*PAR1:	I've heard of that . 180405_180965
+%mor:	pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 verb|hear-Part-Past-S-irr adp|of pron|that-Dem .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*PAR1:	really . 180985_181405
+%mor:	adv|really .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	yeah . 181555_181845
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	yeah . 182035_182325
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	I [/] I know of all these schools pretty much I guess &-uh through &-uh their [/] their athletics and stuff like that . 182405_187725
+%mor:	pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 adp|of det|all-Def-Tot det|this-Def-Dem-Plur noun|school-Plur adv|pretty adv|much pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 adp|through pron|their-Prs-Gen-P3 noun|athletics-Plur cconj|and noun|stuff adp|like pron|that-Dem .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|6|CASE 4|6|DET-PREDET 5|6|DET 6|2|OBL 7|8|ADVMOD 8|2|ADVMOD 9|10|NSUBJ 10|2|PARATAXIS 11|13|CASE 12|13|NMOD-POSS 13|10|OBL 14|15|CC 15|13|CONJ 16|17|CASE 17|15|NMOD 18|2|PUNCT
+*PAR1:	right or their radio stations . 187725_189205
+%mor:	adj|right-S1 cconj|or pron|their-Prs-Gen-P3 noun|radio noun|station-Plur .
+%gra:	1|5|DISCOURSE 2|5|CC 3|5|NMOD-POSS 4|5|COMPOUND 5|0|ROOT 6|5|PUNCT
+*PAR1:	because I have to deal with that a lot . 189445_190525
+%mor:	sconj|because pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 part|to verb|deal-Inf-S adp|with pron|that-Dem det|a-Ind-Art noun|lot .
+%gra:	1|3|MARK 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|7|CASE 7|5|OBL 8|9|DET 9|5|OBL-UNMARKED 10|3|PUNCT
+*PAR0:	right . 190775_191125
+%mor:	adj|right-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	so I don't know but yeah I've heard of Steven F Austin . 191905_194525
+%mor:	adv|so pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S cconj|but intj|yeah pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 verb|hear-Part-Past-S-irr adp|of propn|Steven propn|F propn|Austin .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|10|CC 7|10|DISCOURSE 8|10|NSUBJ 9|10|AUX 10|5|CONJ 11|12|CASE 12|10|OBL 13|12|FLAT 14|12|FLAT 15|5|PUNCT
+*PAR0:	oh they've got a real good basketball team right now . 194545_196605
+%mor:	intj|oh pron|they-Prs-Nom-P3~aux|have-Fin-Ind-Pres-P3 verb|get-Part-Past-S-irr det|a-Ind-Art adj|real-S1 adj|good-S1 noun|basketball noun|team-Acc adv|right adv|now .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|9|DET 6|9|AMOD 7|9|AMOD 8|9|COMPOUND 9|4|OBJ 10|11|ADVMOD 11|4|ADVMOD 12|4|PUNCT
+*PAR0:	and they had a real good football team . 196665_198405
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Past-P3-irr det|a-Ind-Art adj|real-S1 adj|good-S1 noun|football noun|team-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|8|DET 5|8|AMOD 6|8|AMOD 7|8|COMPOUND 8|3|OBJ 9|3|PUNCT
+*PAR1:	oh that's good . 198865_199445
+%mor:	intj|oh pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|good-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR0:	a few years ago . 199765_200285
+%mor:	det|a-Ind-Art adj|few-S1 noun|year-Plur adv|ago .
+%gra:	1|3|DET 2|3|AMOD 3|4|OBL-UNMARKED 4|0|ROOT 5|4|PUNCT
+*PAR0:	that's good to know . 200285_200805
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|good-S1 part|to verb|know-Inf-S .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|5|MARK 5|3|ADVCL 6|3|PUNCT
+*PAR0:	we're supposed to talk about music though . 200805_202085
+%mor:	pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 verb|suppose-Part-Past-S part|to verb|talk-Inf-S adp|about noun|music adv|though .
+%gra:	1|3|NSUBJ-PASS 2|3|AUX-PASS 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|7|CASE 7|5|OBL 8|5|ADVMOD 9|3|PUNCT
+*PAR0:	what kind of music do you like . 202155_203405
+%mor:	det|what-Def-Int noun|kind-Acc adp|of noun|music aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|like-Inf-S .
+%gra:	1|2|DET 2|7|OBJ 3|4|CASE 4|2|NMOD 5|7|AUX 6|7|NSUBJ 7|0|ROOT 8|7|PUNCT
+*PAR1:	oh man . 203825_204325
+%mor:	intj|oh intj|man .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*PAR1:	I'm all over the place . 204505_205445
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|all adp|over det|the-Def-Art noun|place .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|ADVMOD 4|6|CASE 5|6|DET 6|0|ROOT 7|6|PUNCT
+*PAR1:	&-um I like &-uh oh man . 206145_209325
+%mor:	pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 intj|oh noun|man-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DISCOURSE 4|2|OBJ 5|2|PUNCT
+*PAR1:	it's just a wide spectrum . 209435_210405
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|just det|a-Ind-Art adj|wide-S1 noun|spectrum .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|ADVMOD 4|6|DET 5|6|AMOD 6|0|ROOT 7|6|PUNCT
+*PAR1:	you [/] you know the what Progressive music like . 210545_212765
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 det|the-Def-Art det|what-Def-Int adj|Progressive-S1 noun|music verb|like-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|7|OBJ 5|6|AMOD 6|7|NSUBJ 7|2|CCOMP 8|2|PUNCT
+*PAR1:	alternative progressive . 212765_213805
+%mor:	adj|alternative-S1 adj|progressive-S1 .
+%gra:	1|2|AMOD 2|0|ROOT 3|2|PUNCT
+*PAR0:	I've heard of it . 214235_214925
+%mor:	pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 verb|hear-Part-Past-S-irr adp|of pron|it-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*PAR0:	it's [/] it's . 215235_215765
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*PAR1:	stuff like &-um . 216125_216885
+%mor:	noun|stuff adp|like .
+%gra:	1|0|ROOT 2|1|PUNCT 3|1|PUNCT
+*PAR1:	that's you know it's rock music . 217105_218445
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|rock noun|music .
+%gra:	1|4|NSUBJ-OUTER 2|4|COP 3|4|NSUBJ 4|0|ROOT 5|8|NSUBJ 6|8|COP 7|8|COMPOUND 8|4|CCOMP 9|4|PUNCT
+*PAR1:	that's not really quite mainstream . 218445_219965
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 part|not adv|really adv|quite adj|mainstream-S1 .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|ADVMOD 4|6|ADVMOD 5|6|ADVMOD 6|0|ROOT 7|6|PUNCT
+*PAR1:	it's more college radio . 219965_220925
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|more-Cmp-S1 noun|college noun|radio .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|AMOD 4|5|COMPOUND 5|0|ROOT 6|5|PUNCT
+*PAR1:	oh . 221265_221485
+%mor:	intj|oh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	yeah . 221835_222125
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	because you know I'm not I like most of the stations these days . 222125_224725
+%mor:	sconj|because pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|not pron|I-Prs-Nom-S1 adp|like adj|most-Sup-S1 adp|of det|the-Def-Art noun|station-Plur det|this-Def-Dem-Plur noun|day-Plur .
+%gra:	1|3|MARK 2|3|NSUBJ 3|9|ADVCL 4|9|NSUBJ 5|9|COP 6|9|ADVMOD 7|9|NSUBJ 8|9|DISCOURSE 9|0|ROOT 10|12|CASE 11|12|DET 12|9|NMOD 13|14|DET 14|9|OBL-UNMARKED 15|9|PUNCT
+*PAR1:	all they do is play Classic rock . 224745_226205
+%mor:	det|all-Def-Tot pron|they-Prs-Nom-P3 verb|do-Fin-Ind-Pres-P3 aux|be-Fin-Ind-Pres-S3 verb|play-Inf-S adj|classic-S1 noun|rock-Acc .
+%gra:	1|5|NSUBJ-OUTER 2|3|NSUBJ 3|1|ACL-RELCL 4|5|COP 5|0|ROOT 6|7|AMOD 7|5|OBJ 8|5|PUNCT
+*PAR1:	I mean if you don't like that I mean everyone likes some Classic rock . 226365_229245
+%mor:	pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 sconj|if pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not verb|like-Inf-S sconj|that pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 pron|everyone-Tot-S1 verb|like-Fin-Ind-Pres-S3 det|some-Def-Ind adj|classic-S1 noun|rock-Acc .
+%gra:	1|2|NSUBJ 2|12|PARATAXIS 3|7|MARK 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|12|ADVCL 8|12|MARK 9|10|NSUBJ 10|7|CCOMP 11|12|NSUBJ 12|0|ROOT 13|15|DET 14|15|AMOD 15|12|OBJ 16|12|PUNCT
+*PAR1:	uhhuh . 229295_229645
+%mor:	intj|uhhuh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	you know alternative . 229865_230605
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 adj|alternative-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|XCOMP 4|2|PUNCT
+*PAR1:	it's like the new stuff . 230605_231325
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|like det|the-Def-Art adj|new-S1 noun|stuff .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|CASE 4|6|DET 5|6|AMOD 6|0|ROOT 7|6|PUNCT
+*PAR1:	but the kids these days are listening to the same stuff that their parents were pretty much right . 231325_235405
+%mor:	cconj|but det|the-Def-Art noun|kid-Plur det|this-Def-Dem-Plur noun|day-Plur aux|be-Fin-Ind-Pres-P3 verb|listen-Part-Pres-S adp|to det|the-Def-Art adj|same-S1 noun|stuff pron|that-Rel pron|their-Prs-Gen-P3 noun|parent-Plur aux|be-Fin-Ind-Past-P3-irr adv|pretty adv|much adj|right-S1 .
+%gra:	1|7|CC 2|3|DET 3|7|NSUBJ 4|5|DET 5|3|NMOD-UNMARKED 6|7|AUX 7|0|ROOT 8|11|CASE 9|11|DET 10|11|AMOD 11|7|OBL 12|18|OBJ 13|14|NMOD-POSS 14|18|NSUBJ 15|18|COP 16|17|ADVMOD 17|18|ADVMOD 18|11|ACL-RELCL 19|7|PUNCT
+*PAR1:	so it's more of a college on Alternative like you know that band Nirvana uhhuh . 235705_239685
+%mor:	adv|so pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|more-Cmp-S1 adp|of det|a-Ind-Art noun|college adp|on propn|alternative sconj|like pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 det|that-Def-Dem-Sing noun|band-Acc propn|Nirvana intj|uhhuh .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|9|CASE 9|7|NMOD 10|12|MARK 11|12|NSUBJ 12|4|ADVCL 13|14|DET 14|12|OBJ 15|14|APPOS 16|15|FLAT 17|4|PUNCT
+*PAR1:	they started out as alternative . 239915_241525
+%mor:	pron|they-Prs-Nom-P3 verb|start-Fin-Ind-Past-P3 adp|out adp|as adj|alternative-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|COMPOUND-PRT 4|5|CASE 5|2|OBL 6|2|PUNCT
+*PAR1:	but everyone ended up liking him . 241625_243125
+%mor:	cconj|but pron|everyone-Tot-S1 verb|end-Fin-Ind-Past-S3 adp|up verb|like-Ger-S pron|he-Prs-Acc-S3 .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|COMPOUND-PRT 5|3|XCOMP 6|5|OBJ 7|3|PUNCT
+*PAR1:	so I guess they're no longer alternative but you know they're a good sound . 243185_247405
+%mor:	adv|so pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 adv|no adv|long adj|alternative-S1 cconj|but pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 det|a-Ind-Art adj|good-S1 noun|sound .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|8|NSUBJ 5|8|COP 6|7|ADVMOD 7|8|ADVMOD 8|3|CCOMP 9|11|CC 10|11|NSUBJ 11|3|CONJ 12|16|NSUBJ 13|16|COP 14|16|DET 15|16|AMOD 16|11|CCOMP 17|3|PUNCT
+*PAR1:	but &-uh uhhuh . 247405_247965
+%mor:	cconj|but intj|uhhuh .
+%gra:	1|2|CC 2|0|ROOT 3|2|PUNCT
+*PAR1:	I listen to everything . 248165_248805
+%mor:	pron|I-Prs-Nom-S1 verb|listen-Fin-Ind-Pres-S1 adp|to pron|everything-Tot-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+*PAR1:	I even listen to like rap music . 248845_249925
+%mor:	pron|I-Prs-Nom-S1 adv|even verb|listen-Fin-Ind-Pres-S1 adp|to intj|like noun|rap noun|music .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|7|CASE 5|7|DISCOURSE 6|7|COMPOUND 7|3|OBL 8|3|PUNCT
+*PAR1:	I'm all over the place . 249985_250725
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|all adp|over det|the-Def-Art noun|place .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|ADVMOD 4|6|CASE 5|6|DET 6|0|ROOT 7|6|PUNCT
+*PAR0:	so see I listen to I like jazz . 251785_254285
+%mor:	adv|so verb|see-Fin-Imp-S pron|I-Prs-Nom-S1 verb|listen-Fin-Ind-Pres-S1 sconj|to pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 noun|jazz-Acc .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|4|NSUBJ 4|2|CCOMP 5|7|MARK 6|7|NSUBJ 7|4|ADVCL 8|7|OBJ 9|2|PUNCT
+*PAR0:	&-um who's . 254945_255525
+%mor:	pron|who-Int~aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|0|ROOT 2|1|COP 3|1|PUNCT
+*PAR1:	your favorite jazz artist . 255525_256325
+%mor:	pron|your-Prs-Gen-S2 adj|favorite-S1 noun|jazz noun|artist .
+%gra:	1|4|NMOD-POSS 2|4|AMOD 3|4|COMPOUND 4|0|ROOT 5|4|PUNCT
+*PAR1:	huh . 256465_256685
+%mor:	intj|huh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	who's your favorite jazz artist . 256775_258005
+%mor:	pron|who-Int~aux|be-Fin-Ind-Pres-S3 pron|your-Prs-Gen-S2 adj|favorite-S1 noun|jazz noun|artist .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|NMOD-POSS 4|6|AMOD 5|6|COMPOUND 6|0|ROOT 7|6|PUNCT
+*PAR0:	oh my goodness . 258305_259005
+%mor:	intj|oh pron|my-Prs-Gen-S1 noun|goodness .
+%gra:	1|3|DISCOURSE 2|3|NMOD-POSS 3|0|ROOT 4|3|PUNCT
+*PAR0:	I don't . 259165_259485
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|ADVMOD 4|2|PUNCT
+*PAR0:	I don't know it well enough to name off people . 259485_261605
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|it-Prs-Acc-S3 adv|well adv|enough part|to verb|name-Inf-S adp|off noun|person-Plur-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|4|ADVMOD 7|4|ADVMOD 8|9|MARK 9|4|ADVCL 10|9|COMPOUND-PRT 11|9|OBJ 12|4|PUNCT
+*PAR0:	mhm . 261625_262045
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	but some of the older jazz songs . 262385_264405
+%mor:	cconj|but det|some-Def-Ind adp|of det|the-Def-Art adj|old-Cmp-S1 noun|jazz noun|song-Plur .
+%gra:	1|2|CC 2|0|ROOT 3|7|CASE 4|7|DET 5|7|AMOD 6|7|COMPOUND 7|2|NMOD 8|2|PUNCT
+*PAR1:	yeah . 264475_264765
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	I like more older than contemporary . 264845_266245
+%mor:	pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 adv|more adj|old-Cmp-S1 adp|than adj|contemporary-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|ADVMOD 4|2|XCOMP 5|6|CASE 6|4|OBL 7|2|PUNCT
+*PAR1:	have you ever heard of John Coltrane . 266245_267405
+%mor:	aux|have-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 adv|ever verb|hear-Part-Past-S-irr adp|of propn|John propn|Coltrane .
+%gra:	1|4|AUX 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|6|CASE 6|4|OBL 7|6|FLAT 8|4|PUNCT
+*PAR0:	I've heard of him . 267835_268565
+%mor:	pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 verb|hear-Part-Past-S-irr adp|of pron|he-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*PAR0:	yeah he's . 268635_269205
+%mor:	intj|yeah pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*PAR1:	he's my favorite . 269235_270005
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 noun|favorite .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|NMOD-POSS 4|0|ROOT 5|4|PUNCT
+*PAR1:	he's [/] he's excellent . 270235_271245
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|excellent-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*PAR0:	okay . 271595_271885
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	well see I like to sing jazz . 272005_273725
+%mor:	intj|well verb|see-Fin-Imp-S pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 part|to verb|sing-Inf-S noun|jazz-Acc .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|4|NSUBJ 4|2|CCOMP 5|6|MARK 6|4|XCOMP 7|6|OBJ 8|2|PUNCT
+*PAR0:	I was the hostess at a restaurant here in Tyler this past summer . 273925_277405
+%mor:	pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr det|the-Def-Art noun|hostess adp|at det|a-Ind-Art noun|restaurant adv|here adp|in propn|Tyler det|this-Def-Dem-Sing adj|past-S1 noun|summer .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|0|ROOT 5|7|CASE 6|7|DET 7|4|NMOD 8|7|ADVMOD 9|10|CASE 10|7|NMOD 11|13|DET 12|13|AMOD 13|4|OBL-UNMARKED 14|4|PUNCT
+*PAR0:	uhhuh . 277695_278045
+%mor:	intj|uhhuh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	and &-um they had a jazz band there on the weekends . 278045_281205
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Past-P3-irr det|a-Ind-Art noun|jazz noun|band-Acc adv|there adp|on det|the-Def-Art noun|weekend-Plur .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|DET 5|6|COMPOUND 6|3|OBJ 7|3|ADVMOD 8|10|CASE 9|10|DET 10|3|OBL 11|3|PUNCT
+*PAR0:	and they found out I could sing . 281585_283645
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|find-Fin-Ind-Past-P3-irr adp|out pron|I-Prs-Nom-S1 aux|could-Fin-S verb|sing-Inf-S .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|COMPOUND-PRT 5|7|NSUBJ 6|7|AUX 7|3|CCOMP 8|3|PUNCT
+*PAR0:	and so they got me up there . 284345_285525
+%mor:	cconj|and adv|so pron|they-Prs-Nom-P3 verb|get-Fin-Ind-Past-P3-irr pron|I-Prs-Acc-S1 adp|up adv|there .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|0|ROOT 5|4|OBJ 6|4|COMPOUND-PRT 7|4|ADVMOD 8|4|PUNCT
+*PAR0:	and I sang on the stage with them on the weekends . 285525_288405
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|sing-Fin-Ind-Past-S1-irr adp|on det|the-Def-Art noun|stage adp|with pron|they-Prs-Acc-P3 adp|on det|the-Def-Art noun|weekend-Plur .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|8|CASE 8|3|OBL 9|11|CASE 10|11|DET 11|3|OBL 12|3|PUNCT
+*PAR0:	and just songs like Blue Moon and ain't misbehaving . 288625_291685
+%mor:	cconj|and adv|just noun|song-Plur adp|like adj|Blue-S1 propn|Moon cconj|and aux|be-Fin-Ind-Pres-S3~part|not verb|misbehave-Part-Pres-S .
+%gra:	1|3|CC 2|3|ADVMOD 3|0|ROOT 4|6|CASE 5|6|AMOD 6|3|NMOD 7|10|CC 8|10|COP 9|10|ADVMOD 10|3|CONJ 11|3|PUNCT
+*PAR0:	and . 291785_292005
+%mor:	cconj|and .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	yeah . 292005_292285
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	okay . 292285_292525
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	and songs like that . 292545_293485
+%mor:	cconj|and noun|song-Plur adp|like pron|that-Dem .
+%gra:	1|2|CC 2|0|ROOT 3|4|CASE 4|2|NMOD 5|2|PUNCT
+*PAR1:	but John Coltrane plays a saxophone . 293745_295605
+%mor:	cconj|but propn|John propn|Coltrane verb|play-Fin-Ind-Pres-S3 det|a-Ind-Art noun|saxophone-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|2|FLAT 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR0:	oh . 295945_296165
+%mor:	intj|oh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	so he's [/] he's very talented . 296625_298005
+%mor:	adv|so pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|very adj|talented-S1 .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|0|ROOT 6|5|PUNCT
+@End

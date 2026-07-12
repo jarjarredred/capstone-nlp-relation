@@ -1,0 +1,266 @@
+@UTF8
+@PID:	11312/t-00001056-1
+@Begin
+@Languages:	eng
+@Participants:	A Subject, B Subject
+@ID:	eng|eng|A|||||Subject|||
+@ID:	eng|eng|B|||||Subject|||
+@Media:	4792, audio
+*B:	uh , well that's not , he he , you know that they they hire back a_lot of their people who ah , graduate there that's because they got a_lot of money in the bank . 255800_263080
+%mor:	intj|uh cm|cm intj|well pron|that-Dem~aux|be-Fin-Ind-Pres-S3 part|not cm|cm pron|he-Prs-Nom-S3 pron|he-Prs-Nom-S3 cm|cm pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 sconj|that pron|they-Prs-Nom-P3 pron|they-Prs-Nom-P3 verb|hire-Fin-Ind-Pres-P3 noun|back noun|alot-Acc adp|of pron|their-Prs-Gen-P3 noun|person-Plur pron|who-Rel intj|ah cm|cm verb|graduate-Fin-Ind-Pres-P3 adv|there pron|that-Dem~aux|be-Fin-Ind-Pres-S3 sconj|because pron|they-Prs-Nom-P3 verb|get-Fin-Ind-Past-P3-irr noun|alot-Acc adp|of noun|money adp|in det|the-Def-Art noun|bank .
+%gra:	1|12|DISCOURSE 2|1|PUNCT 3|12|DISCOURSE 4|6|NSUBJ 5|12|REPARANDUM 6|12|REPARANDUM 7|6|PUNCT 8|12|REPARANDUM 9|12|REPARANDUM 10|9|PUNCT 11|12|NSUBJ 12|0|ROOT 13|16|MARK 14|16|NSUBJ 15|16|NSUBJ 16|12|CCOMP 17|18|COMPOUND 18|16|OBJ 19|21|CASE 20|21|NMOD-POSS 21|18|NMOD 22|25|NSUBJ 23|25|DISCOURSE 24|23|PUNCT 25|21|ACL-RELCL 26|25|ADVMOD 27|31|NSUBJ-OUTER 28|31|COP 29|31|MARK 30|31|NSUBJ 31|16|ADVCL 32|31|OBJ 33|34|CASE 34|32|NMOD 35|37|CASE 36|37|DET 37|31|OBL 38|12|PUNCT
+*A:	yeah . 263220_263490
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	and , there that's the only university that does that . 264440_266540
+%mor:	cconj|and cm|cm adv|there pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|only-S1 noun|university pron|that-Rel verb|do-Fin-Ind-Pres-S3 pron|that-Dem .
+%gra:	1|8|CC 2|1|PUNCT 3|8|ADVMOD 4|8|NSUBJ 5|8|COP 6|8|DET 7|8|AMOD 8|0|ROOT 9|10|NSUBJ 10|8|ACL-RELCL 11|10|OBJ 12|8|PUNCT
+*A:	yeah , but I mean the fact that he he actually did get an academic position , that that's ah , because all those people who went off all sort of bright eyed , &-um . 266480_275780
+%mor:	intj|yeah cm|cm cconj|but pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 det|the-Def-Art noun|fact-Acc sconj|that pron|he-Prs-Nom-S3 pron|he-Prs-Nom-S3 adv|actually aux|do-Fin-Ind-Past-S3-irr verb|get-Inf-S det|a-Ind-Art adj|academic-S1 noun|position-Acc cm|cm sconj|that pron|that-Dem~aux|be-Fin-Ind-Pres-S3 intj|ah cm|cm sconj|because det|all-Def-Tot det|that-Def-Dem-Plur noun|person-Plur pron|who-Rel verb|go-Fin-Ind-Past-P3-irr adp|off det|all-Def-Tot noun|sort adp|of adj|bright-S1 noun|eyed cm|cm .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|CC 4|5|NSUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|13|MARK 9|13|NSUBJ 10|13|NSUBJ 11|13|ADVMOD 12|13|AUX 13|7|ACL 14|16|DET 15|16|AMOD 16|13|OBJ 17|18|PUNCT 18|21|MARK 19|21|NSUBJ 20|21|COP 21|13|DISCOURSE 22|21|PUNCT 23|31|MARK 24|26|DET-PREDET 25|26|DET 26|13|NSUBJ 27|28|NSUBJ 28|26|ACL-RELCL 29|28|COMPOUND-PRT 30|31|DET 31|28|OBL 32|34|CASE 33|34|AMOD 34|31|NMOD 35|5|PUNCT 36|5|PUNCT
+*B:	now there's another guy who went ah down to U S C uh xxx . 275710_280590
+%mor:	adv|now pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|another-Def-Ind noun|guy pron|who-Rel verb|go-Fin-Ind-Past-S3-irr intj|ah adp|down adp|to propn|U propn|S propn|C intj|uh .
+%gra:	1|3|ADVMOD 2|3|EXPL 3|0|ROOT 4|5|DET 5|3|NSUBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|7|DISCOURSE 9|7|COMPOUND-PRT 10|11|CASE 11|7|OBL 12|11|FLAT 13|11|FLAT 14|3|DISCOURSE 15|3|PUNCT
+*A:	yeah , the only , the only person I know who made it for literature was a guy name McCan who might be at Cornell . 280980_286670
+%mor:	intj|yeah cm|cm det|the-Def-Art adj|only-S1 cm|cm det|the-Def-Art adj|only-S1 noun|person pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 pron|who-Rel verb|make-Fin-Ind-Past-S3-irr pron|it-Prs-Acc-S3 adp|for noun|literature aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|guy noun|name propn|McCan pron|who-Rel aux|might-Fin-S aux|be-Inf-S adp|at propn|Cornell .
+%gra:	1|19|DISCOURSE 2|1|PUNCT 3|4|DET 4|19|REPARANDUM 5|4|PUNCT 6|8|DET 7|8|AMOD 8|19|NSUBJ 9|10|NSUBJ 10|8|ACL-RELCL 11|12|NSUBJ 12|8|ACL-RELCL 13|12|OBJ 14|15|CASE 15|12|OBL 16|19|COP 17|19|DET 18|19|COMPOUND 19|0|ROOT 20|19|APPOS 21|25|NSUBJ 22|25|AUX 23|25|COP 24|25|CASE 25|19|ACL-RELCL 26|19|PUNCT
+*B:	yeah , he's still around , I've seen his name pop up here and . 287330_289660
+%mor:	intj|yeah cm|cm pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|still adv|around cm|cm pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 verb|see-Part-Past-S-irr pron|his-Prs-Gen-S3 noun|name-Acc verb|pop-Inf-S adp|up adv|here cconj|and .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|0|ROOT 7|10|PUNCT 8|10|NSUBJ 9|10|AUX 10|6|PARATAXIS 11|12|NMOD-POSS 12|10|OBJ 13|10|XCOMP 14|13|COMPOUND-PRT 15|13|ADVMOD 16|10|CONJ 17|6|PUNCT
+*A:	yeah , but Ramses' vanished . 289280_291100
+%mor:	intj|yeah cm|cm cconj|but propn|Ramses~part|s verb|vanish-Fin-Ind-Past-S3 .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|CC 4|6|NMOD-POSS 5|4|CASE 6|0|ROOT 7|6|PUNCT
+*B:	uh , he's supposed to be in Japan from what I've heard but he , you know , he he fell into a trap uh , he could never get tenure . 292090_299680
+%mor:	intj|uh cm|cm pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|suppose-Part-Past-S part|to aux|be-Inf-S adp|in propn|Japan adp|from pron|what-Rel-S1 pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 verb|hear-Part-Past-S-irr cconj|but pron|he-Prs-Nom-S3 cm|cm pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 cm|cm pron|he-Prs-Nom-S3 pron|he-Prs-Nom-S3 verb|fall-Fin-Ind-Past-S3-irr adp|into det|a-Ind-Art noun|trap intj|uh cm|cm pron|he-Prs-Nom-S3 aux|could-Fin-S adv|never verb|get-Inf-S noun|tenure-Acc .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ-PASS 4|5|AUX-PASS 5|0|ROOT 6|9|MARK 7|9|COP 8|9|CASE 9|5|XCOMP 10|11|CASE 11|9|OBL 12|14|NSUBJ 13|14|AUX 14|11|ACL-RELCL 15|23|CC 16|23|REPARANDUM 17|16|PUNCT 18|19|NSUBJ 19|23|PARATAXIS 20|19|PUNCT 21|23|NSUBJ 22|23|NSUBJ 23|5|CONJ 24|26|CASE 25|26|DET 26|23|OBL 27|32|DISCOURSE 28|27|PUNCT 29|32|NSUBJ 30|32|AUX 31|32|ADVMOD 32|23|PARATAXIS 33|32|OBJ 34|5|PUNCT
+*A:	yeah , well he was at Columbia and ah . 299160_301460
+%mor:	intj|yeah cm|cm intj|well pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adp|at propn|Columbia cconj|and intj|ah .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|DISCOURSE 4|7|NSUBJ 5|7|COP 6|7|CASE 7|0|ROOT 8|9|CC 9|7|DISCOURSE 10|7|PUNCT
+*B:	yeah , well he was , he was there for like five years and they turned him down for tenure then he went somewhere else , he was down in College Park Maryland . 301040_307390
+%mor:	intj|yeah cm|cm intj|well pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr cm|cm pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adv|there adp|for intj|like num|five noun|year-Plur cconj|and pron|they-Prs-Nom-P3 verb|turn-Fin-Ind-Past-P3 pron|he-Prs-Acc-S3 adp|down adp|for noun|tenure adv|then pron|he-Prs-Nom-S3 verb|go-Fin-Ind-Past-S3-irr adv|somewhere adj|else-S1 cm|cm pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adv|down adp|in propn|College propn|Park propn|Maryland .
+%gra:	1|9|DISCOURSE 2|1|PUNCT 3|9|DISCOURSE 4|5|NSUBJ 5|9|REPARANDUM 6|5|PUNCT 7|9|NSUBJ 8|9|COP 9|0|ROOT 10|13|CASE 11|13|DISCOURSE 12|13|NUMMOD 13|9|OBL 14|16|CC 15|16|NSUBJ 16|9|CONJ 17|16|OBJ 18|16|COMPOUND-PRT 19|20|CASE 20|16|OBL 21|23|ADVMOD 22|23|NSUBJ 23|9|PARATAXIS 24|23|ADVMOD 25|24|ADVMOD 26|29|PUNCT 27|29|NSUBJ 28|29|COP 29|23|PARATAXIS 30|32|CASE 31|32|COMPOUND 32|29|OBL 33|29|OBL 34|9|PUNCT
+*A:	yeah . 307370_307580
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	and ah , he was I think he was only ah non tenure track down there there is supposedly supposed to be back in Japan now . 307940_313370
+%mor:	cconj|and intj|ah cm|cm pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adv|only intj|ah adv|non noun|tenure noun|track adv|down adv|there adv|there aux|be-Fin-Ind-Pres-S3 adv|supposedly verb|suppose-Part-Past-S part|to aux|be-Inf-S adv|back adp|in propn|Japan adv|now .
+%gra:	1|7|CC 2|7|DISCOURSE 3|2|PUNCT 4|7|NSUBJ-OUTER 5|7|REPARANDUM 6|7|NSUBJ 7|0|ROOT 8|14|NSUBJ 9|14|COP 10|14|ADVMOD 11|14|DISCOURSE 12|14|ADVMOD 13|14|COMPOUND 14|7|CCOMP 15|16|ADVMOD 16|14|ADVMOD 17|20|ADVMOD 18|20|AUX-PASS 19|20|ADVMOD 20|7|PARATAXIS 21|23|MARK 22|23|COP 23|20|XCOMP 24|25|CASE 25|23|OBL 26|20|ADVMOD 27|7|PUNCT
+*A:	yeah . 313750_313970
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	but you know , he's a he's probably you know become an English teacher at some univ- . 314520_317370
+%mor:	cconj|but pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 cm|cm pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|probably pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 verb|become-Part-Past-S-irr det|a-Ind-Art adj|English-S1 noun|teacher adp|at det|some-Def-Ind noun|univ .
+%gra:	1|13|CC 2|3|NSUBJ 3|13|PARATAXIS 4|3|PUNCT 5|7|NSUBJ 6|13|REPARANDUM 7|12|REPARANDUM 8|12|NSUBJ-OUTER 9|13|COP 10|12|ADVMOD 11|12|NSUBJ 12|13|PARATAXIS 13|0|ROOT 14|16|DET 15|16|AMOD 16|13|XCOMP 17|19|CASE 18|19|DET 19|16|NMOD 20|13|PUNCT
+*A:	yeah . 318970_319260
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	I know a guy , believe it or not , I knew a guy from Manhattan who's up in Sapporo , his +/. 319380_323120
+%mor:	pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 det|a-Ind-Art noun|guy-Acc cm|cm verb|believe-Fin-Imp-S pron|it-Prs-Acc-S3 cconj|or part|not cm|cm pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Past-S1-irr det|a-Ind-Art noun|guy-Acc adp|from propn|Manhattan pron|who-Rel~aux|be-Fin-Ind-Pres-S3 adv|up adp|in propn|Sapporo cm|cm pron|his-Prs-S3 +/.
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|PUNCT 6|2|PARATAXIS 7|6|OBJ 8|9|CC 9|6|CONJ 10|12|PUNCT 11|12|NSUBJ 12|2|PARATAXIS 13|14|DET 14|12|OBJ 15|16|CASE 16|14|NMOD 17|19|NSUBJ 18|19|COP 19|14|ACL-RELCL 20|21|CASE 21|19|OBL 22|23|PUNCT 23|21|APPOS 24|2|PUNCT
+*A:	uhhuh . 322990_323230
+%mor:	intj|uhhuh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	+, major , he w- did an M B A . 323280_325610
+%mor:	adj|major-S1 cm|cm pron|he-Prs-Nom-S3 intj|w verb|do-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|M noun|B-Acc noun|A .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|REPARANDUM 5|0|ROOT 6|8|DET 7|8|COMPOUND 8|5|OBJ 9|5|PUNCT 10|5|PUNCT
+*B:	uh , &=laughs believe it or not , he's an he's an English teacher now . 326300_330210
+%mor:	intj|uh cm|cm verb|believe-Fin-Imp-S pron|it-Prs-Acc-S3 cconj|or part|not cm|cm pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|English-S1 noun|teacher adv|now .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|0|ROOT 4|3|OBJ 5|6|CC 6|3|CONJ 7|10|PUNCT 8|10|NSUBJ 9|10|COP 10|15|REPARANDUM 11|15|NSUBJ 12|15|COP 13|15|DET 14|15|AMOD 15|3|PARATAXIS 16|15|ADVMOD 17|3|PUNCT
+*A:	huh . 330110_330300
+%mor:	intj|huh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	he got a a sort of well it they don't really have tenure , you know , foreigners don't have tenure in Japan , but you know , it sort of like a long term teaching position . 330660_337760
+%mor:	pron|he-Prs-Nom-S3 verb|get-Fin-Ind-Past-S3-irr det|a-Ind-Art det|a-Ind-Art noun|sort-Acc adp|of adv|well pron|it-Prs-Acc-S3 pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Pres-P3~part|not adv|really verb|have-Inf-S noun|tenure-Acc cm|cm pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 cm|cm noun|foreigner-Plur aux|do-Fin-Ind-Pres-P3~part|not verb|have-Inf-S noun|tenure-Acc adp|in propn|Japan cm|cm cconj|but pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 cm|cm pron|it-Prs-Nom-S3 noun|sort adp|of adp|like det|a-Ind-Art adj|long-S1 noun|term noun|teaching-Ger noun|position .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|DET 4|5|DET 5|2|OBJ 6|8|CASE 7|8|ADVMOD 8|5|NMOD 9|13|NSUBJ 10|13|AUX 11|13|ADVMOD 12|13|ADVMOD 13|5|ACL-RELCL 14|13|OBJ 15|17|PUNCT 16|17|NSUBJ 17|22|PARATAXIS 18|17|PUNCT 19|22|NSUBJ 20|22|AUX 21|22|ADVMOD 22|2|PARATAXIS 23|22|OBJ 24|25|CASE 25|22|OBL 26|27|PUNCT 27|39|CC 28|29|NSUBJ 29|39|PARATAXIS 30|29|PUNCT 31|39|NSUBJ 32|39|ADVMOD 33|32|FIXED 34|39|CASE 35|39|DET 36|37|AMOD 37|39|COMPOUND 38|39|COMPOUND 39|22|CONJ 40|2|PUNCT
+*A:	yeah . 337930_338140
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	uh , you know , after I taught at that university and I don't in a way I don't envy him . 339120_342730
+%mor:	intj|uh cm|cm pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 cm|cm sconj|after pron|I-Prs-Nom-S1 verb|teach-Fin-Ind-Past-S1-irr adp|at det|that-Def-Dem-Sing noun|university cconj|and pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not adp|in det|a-Ind-Art noun|way pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|envy-Inf-S pron|he-Prs-Acc-S3 .
+%gra:	1|22|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|22|PARATAXIS 5|4|PUNCT 6|8|MARK 7|8|NSUBJ 8|22|ADVCL 9|11|CASE 10|11|DET 11|8|OBL 12|14|CC 13|14|NSUBJ 14|8|CONJ 15|18|ADVMOD 16|18|CASE 17|18|DET 18|14|OBL 19|22|NSUBJ 20|22|AUX 21|22|ADVMOD 22|0|ROOT 23|22|OBJ 24|22|PUNCT
+*A:	yeah .
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	no , the E S L people are are second class citizens . 342930_346080
+%mor:	intj|no cm|cm det|the-Def-Art propn|E propn|S propn|L noun|person-Plur aux|be-Fin-Ind-Pres-P3 aux|be-Fin-Ind-Pres-P3 adj|second-S1 noun|class noun|citizen-Plur .
+%gra:	1|12|DISCOURSE 2|1|PUNCT 3|7|DET 4|7|COMPOUND 5|7|COMPOUND 6|5|FLAT 7|12|NSUBJ 8|12|COP 9|12|COP 10|11|AMOD 11|12|COMPOUND 12|0|ROOT 13|12|PUNCT
+*B:	I I well , you should see what the Japanese students . 347700_350490
+%mor:	pron|I-Prs-Nom-S1 pron|I-Prs-Nom-S1 intj|well cm|cm pron|you-Prs-Nom-S2 aux|should-Fin-S verb|see-Inf-S pron|what-Int-S1 det|the-Def-Art adj|Japanese-S1 noun|student-Plur .
+%gra:	1|7|REPARANDUM 2|7|REPARANDUM 3|7|DISCOURSE 4|3|PUNCT 5|7|NSUBJ 6|7|AUX 7|0|ROOT 8|7|OBJ 9|11|DET 10|11|AMOD 11|8|NSUBJ 12|7|PUNCT
+*B:	after they torture them for six years in middle school and high school they don't want to do anything in college particular- . 351350_356410
+%mor:	sconj|after pron|they-Prs-Nom-P3 verb|torture-Fin-Ind-Pres-P3 pron|they-Prs-Acc-P3 adp|for num|six noun|year-Plur adp|in adj|middle-S1 noun|school cconj|and adj|high-S1 noun|school pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Pres-P3~part|not verb|want-Inf-S part|to verb|do-Inf-S pron|anything-Ind-S1 adp|in noun|college adj|particular-S1 .
+%gra:	1|3|MARK 2|3|NSUBJ 3|17|ADVCL 4|3|OBJ 5|7|CASE 6|7|NUMMOD 7|3|OBL 8|10|CASE 9|10|AMOD 10|7|NMOD 11|13|CC 12|13|AMOD 13|10|CONJ 14|17|NSUBJ 15|17|AUX 16|17|ADVMOD 17|0|ROOT 18|19|MARK 19|17|XCOMP 20|19|OBJ 21|23|CASE 22|23|COMPOUND 23|19|OBL 24|17|PUNCT
+*A:	yeah , oh , you see the Korean students are the same way no it it doing the teaching at Rutgers are are are Koreans and Japanese are not leading the class by +/. 355720_364470
+%mor:	intj|yeah cm|cm intj|oh cm|cm pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 det|the-Def-Art adj|Korean-S1 noun|student-Plur aux|be-Fin-Ind-Pres-P3 det|the-Def-Art adj|same-S1 noun|way intj|no pron|it-Prs-Nom-S3 pron|it-Prs-Nom-S3 verb|do-Ger-S det|the-Def-Art noun|teaching-Acc-Ger adp|at propn|Rutgers aux|be-Fin-Ind-Pres-P3 aux|be-Fin-Ind-Pres-P3 aux|be-Fin-Ind-Pres-P3 propn|Korean-Plur cconj|and propn|Japanese aux|be-Fin-Ind-Pres-P3 part|not verb|lead-Part-Pres-S det|the-Def-Art noun|class-Acc adp|by +/.
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|DISCOURSE 4|3|PUNCT 5|6|NSUBJ 6|0|ROOT 7|9|DET 8|9|AMOD 9|13|NSUBJ 10|13|COP 11|13|DET 12|13|AMOD 13|6|CCOMP 14|25|DISCOURSE 15|25|NSUBJ 16|25|NSUBJ 17|25|CSUBJ 18|19|DET 19|17|OBJ 20|21|CASE 21|19|NMOD 22|25|COP 23|25|COP 24|25|COP 25|6|CCOMP 26|30|CC 27|30|NSUBJ 28|30|AUX 29|30|ADVMOD 30|25|CONJ 31|32|DET 32|30|OBJ 33|30|PUNCT 34|6|PUNCT
+*B:	&=breath &=laughs . 364120_365170
+*A:	by any means . 365030_365870
+%mor:	adp|by det|any-Def-Ind noun|means-Ptan .
+%gra:	1|3|CASE 2|3|DET 3|0|ROOT 4|3|PUNCT
+*B:	&=laughs yeah , well they they you know , they want to relax for a couple of years and xxx . 365910_370310
+%mor:	intj|yeah cm|cm intj|well pron|they-Prs-Nom-P3 pron|they-Prs-Nom-P3 pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 cm|cm pron|they-Prs-Nom-P3 verb|want-Fin-Ind-Pres-P3 part|to verb|relax-Inf-S adp|for det|a-Ind-Art noun|couple adp|of noun|year-Plur cconj|and .
+%gra:	1|10|DISCOURSE 2|1|PUNCT 3|10|DISCOURSE 4|10|REPARANDUM 5|7|REPARANDUM 6|7|NSUBJ 7|10|PARATAXIS 8|7|PUNCT 9|10|NSUBJ 10|0|ROOT 11|12|MARK 12|10|XCOMP 13|15|CASE 14|15|DET 15|12|OBL 16|17|CASE 17|15|NMOD 18|10|CONJ 19|10|PUNCT
+*A:	try , try , giving some lectures about um , you know , it's it's great you brought your body to class , but you must remain conscious . 369790_375910
+%mor:	verb|try-Fin-Imp-S cm|cm verb|try-Fin-Imp-S2 cm|cm verb|give-Part-Pres-S det|some-Def-Ind noun|lecture-Plur-Acc adp|about intj|um cm|cm pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 cm|cm pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|great-S1 pron|you-Prs-Nom-S2 verb|bring-Fin-Ind-Past-S2-irr pron|your-Prs-Gen-S2 noun|body-Acc adp|to noun|class cm|cm cconj|but pron|you-Prs-Nom-S2 aux|must-Fin-S verb|remain-Inf-S adj|conscious-S1 .
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|PARATAXIS 4|5|PUNCT 5|1|ADVCL 6|7|DET 7|5|OBJ 8|9|CASE 9|18|DISCOURSE 10|9|PUNCT 11|12|NSUBJ 12|18|PARATAXIS 13|12|PUNCT 14|18|NSUBJ-OUTER 15|18|COP 16|18|EXPL 17|18|COP 18|1|PARATAXIS 19|20|NSUBJ 20|18|PARATAXIS 21|22|NMOD-POSS 22|20|OBJ 23|24|CASE 24|20|OBL 25|29|PUNCT 26|29|CC 27|29|NSUBJ 28|29|AUX 29|18|CONJ 30|29|XCOMP 31|1|PUNCT
+*A:	&=laughs . 376060_377530
+*B:	well they biggest problem I had was trying not to flunk them , I had to I had to recycle the same questions two or three times to get them to pass . 378590_385350
+%mor:	intj|well pron|they-Prs-Nom-P3 adj|big-Sup-S1 noun|problem pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Past-S1-irr aux|be-Fin-Ind-Past-S3-irr verb|try-Part-Pres-S part|not part|to verb|flunk-Inf-S pron|they-Prs-Acc-P3 cm|cm pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Past-S1-irr part|to pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Past-S1-irr part|to verb|recycle-Inf-S det|the-Def-Art adj|same-S1 noun|question-Plur-Acc num|two cconj|or num|three noun|time-Plur part|to verb|get-Inf-S pron|they-Prs-Acc-P3 part|to verb|pass-Inf-S .
+%gra:	1|8|DISCOURSE 2|4|NMOD-POSS 3|4|AMOD 4|8|NSUBJ-OUTER 5|6|NSUBJ 6|4|ACL-RELCL 7|8|AUX 8|0|ROOT 9|11|ADVMOD 10|11|MARK 11|8|XCOMP 12|11|OBJ 13|15|PUNCT 14|15|NSUBJ 15|8|PARATAXIS 16|18|MARK 17|18|NSUBJ 18|15|CCOMP 19|20|MARK 20|18|XCOMP 21|23|DET 22|23|AMOD 23|20|OBJ 24|27|NUMMOD 25|26|CC 26|24|CONJ 27|20|OBL-UNMARKED 28|29|MARK 29|20|ADVCL 30|29|OBJ 31|32|MARK 32|29|XCOMP 33|8|PUNCT
+*A:	um . 385660_385960
+%mor:	intj|um .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	but to have , humiliating for the teacher you know , just . 386030_388270
+%mor:	cconj|but part|to verb|have-Inf-S cm|cm verb|humiliate-Part-Pres-S adp|for det|the-Def-Art noun|teacher pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 cm|cm adv|just .
+%gra:	1|5|CC 2|3|MARK 3|0|ROOT 4|5|PUNCT 5|3|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|10|NSUBJ 10|8|PARATAXIS 11|12|PUNCT 12|5|ADVMOD 13|3|PUNCT
+*A:	yeah . 388270_388550
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	you know , I I I told my friend who had taught there , you_know I said well you know I I gave them the questions once , and I you_know , two thirds of them failed , . 389190_395650
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 cm|cm pron|I-Prs-Nom-S1 pron|I-Prs-Nom-S1 pron|I-Prs-Nom-S1 verb|tell-Fin-Ind-Past-S1-irr pron|my-Prs-Gen-S1 noun|friend pron|who-Rel aux|have-Fin-Ind-Past-S3-irr verb|teach-Part-Past-S-irr adv|there cm|cm intj|youknow pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr intj|well pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|I-Prs-Nom-S1 pron|I-Prs-Nom-S1 verb|give-Fin-Ind-Past-S1-irr pron|they-Prs-Acc-P3 det|the-Def-Art noun|question-Plur-Acc adv|once cm|cm cconj|and pron|I-Prs-Nom-S1 verb|youknow-Fin-Ind-Pres-S1 cm|cm num|two noun|third-Plur adp|of pron|they-Prs-Acc-P3 verb|fail-Fin-Ind-Past-S3 cm|cm .
+%gra:	1|2|NSUBJ 2|7|PARATAXIS 3|2|PUNCT 4|7|REPARANDUM 5|7|REPARANDUM 6|7|NSUBJ 7|0|ROOT 8|9|NMOD-POSS 9|7|IOBJ 10|12|NSUBJ 11|12|AUX 12|9|ACL-RELCL 13|12|ADVMOD 14|17|PUNCT 15|17|DISCOURSE 16|17|NSUBJ 17|7|PARATAXIS 18|20|DISCOURSE 19|20|NSUBJ 20|17|PARATAXIS 21|23|NSUBJ 22|23|NSUBJ 23|17|CCOMP 24|23|IOBJ 25|26|DET 26|23|OBJ 27|23|ADVMOD 28|31|PUNCT 29|31|CC 30|31|NSUBJ 31|23|CONJ 32|37|PUNCT 33|34|NUMMOD 34|37|NSUBJ 35|36|CASE 36|34|NMOD 37|23|PARATAXIS 38|7|PUNCT 39|7|PUNCT
+*B:	so I gave them the same questions , almost all the same questions again , and they said . 395670_398500
+%mor:	adv|so pron|I-Prs-Nom-S1 verb|give-Fin-Ind-Past-S1-irr pron|they-Prs-Acc-P3 det|the-Def-Art adj|same-S1 noun|question-Plur-Acc cm|cm adv|almost det|all-Def-Tot det|the-Def-Art adj|same-S1 noun|question-Plur adv|again cm|cm cconj|and pron|they-Prs-Nom-P3 verb|say-Fin-Ind-Past-P3-irr .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|3|IOBJ 5|7|DET 6|7|AMOD 7|3|OBJ 8|13|PUNCT 9|13|ADVMOD 10|13|DET-PREDET 11|13|DET 12|13|AMOD 13|7|CONJ 14|13|ADVMOD 15|18|PUNCT 16|18|CC 17|18|NSUBJ 18|3|CONJ 19|3|PUNCT
+*B:	and half of them failed , so sometimes you have to give them the same questions three times &=laughs . 399120_402680
+%mor:	cconj|and noun|half adp|of pron|they-Prs-Acc-P3 verb|fail-Fin-Ind-Past-P3 cm|cm adv|so adv|sometimes pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 part|to verb|give-Inf-S pron|they-Prs-Acc-P3 det|the-Def-Art adj|same-S1 noun|question-Plur-Acc num|three noun|time-Plur .
+%gra:	1|5|CC 2|5|NSUBJ 3|4|CASE 4|2|NMOD 5|0|ROOT 6|10|PUNCT 7|10|ADVMOD 8|10|ADVMOD 9|10|NSUBJ 10|5|PARATAXIS 11|12|MARK 12|10|XCOMP 13|12|IOBJ 14|16|DET 15|16|AMOD 16|12|OBJ 17|18|NUMMOD 18|12|OBL-UNMARKED 19|5|PUNCT
+*A:	&=breath yeah , yeah , that's that's &=breath a- . 403350_406540
+%mor:	intj|yeah cm|cm intj|yeah cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 intj|a .
+%gra:	1|9|DISCOURSE 2|1|PUNCT 3|9|DISCOURSE 4|3|PUNCT 5|6|NSUBJ 6|9|REPARANDUM 7|9|NSUBJ 8|9|COP 9|0|ROOT 10|9|PUNCT
+*B:	ah , you know , you know , that kind of teaching position I can live without . 406260_409270
+%mor:	intj|ah cm|cm pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 cm|cm pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 cm|cm det|that-Def-Dem-Sing noun|kind-Acc adp|of noun|teaching-Ger noun|position pron|I-Prs-Nom-S1 aux|can-Fin-S verb|live-Inf-S adp|without .
+%gra:	1|16|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|16|PARATAXIS 5|4|PUNCT 6|7|NSUBJ 7|10|PARATAXIS 8|7|PUNCT 9|10|DET 10|16|OBJ 11|13|CASE 12|13|COMPOUND 13|10|NMOD 14|16|NSUBJ 15|16|AUX 16|0|ROOT 17|16|OBL 18|16|PUNCT
+*A:	yeah . 409310_409630
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	as a matter of fact , I've got , I've got a couple good possibilities now I told you . 409320_412220
+%mor:	adp|as det|a-Ind-Art noun|matter adp|of noun|fact cm|cm pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 verb|get-Part-Past-S-irr cm|cm pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 verb|get-Part-Past-S-irr det|a-Ind-Art noun|couple adj|good-S1 noun|possibility-Plur-Acc adv|now pron|I-Prs-Nom-S1 verb|tell-Fin-Ind-Past-S1-irr pron|you-Prs-Acc-S2 .
+%gra:	1|3|CASE 2|3|DET 3|9|OBL 4|5|CASE 5|3|NMOD 6|3|PUNCT 7|9|NSUBJ 8|9|AUX 9|0|ROOT 10|13|PUNCT 11|13|NSUBJ 12|13|AUX 13|9|PARATAXIS 14|15|DET 15|16|OBL-UNMARKED 16|17|AMOD 17|13|OBJ 18|13|ADVMOD 19|20|NSUBJ 20|9|PARATAXIS 21|20|IOBJ 22|9|PUNCT
+*A:	mhm . 412450_412670
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	uh , one is ah you know doing media type ventures . 412810_418080
+%mor:	intj|uh cm|cm num|one aux|be-Fin-Ind-Pres-S3 intj|ah pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 verb|do-Ger-S noun|media noun|type noun|venture-Plur-Acc .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|NSUBJ-OUTER 4|7|COP 5|7|DISCOURSE 6|7|NSUBJ 7|0|ROOT 8|7|XCOMP 9|10|COMPOUND 10|11|COMPOUND 11|8|OBJ 12|7|PUNCT
+*A:	mhm . 417960_418230
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	and I'm negotiating with them . 418800_421190
+%mor:	cconj|and pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|negotiate-Part-Pres-S adp|with pron|they-Prs-Acc-P3 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+*A:	yeah . 421050_421270
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	and there's this ah , computer thing . 421310_423260
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|this-Def-Dem-Sing intj|ah cm|cm noun|computer noun|thing-Ger .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|8|DET 5|8|DISCOURSE 6|5|PUNCT 7|8|COMPOUND 8|3|NSUBJ 9|3|PUNCT
+*A:	hm . 423580_423770
+%mor:	intj|hm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	ah , coming up in march , and believe it or not , they want me to be the president . 423870_428950
+%mor:	intj|ah cm|cm verb|come-Part-Pres-S adp|up adp|in noun|march cm|cm cconj|and verb|believe-Inf-Imp-S pron|it-Prs-Acc-S3 cconj|or part|not cm|cm pron|they-Prs-Nom-P3 verb|want-Fin-Ind-Pres-P3 pron|I-Prs-Acc-S1 part|to aux|be-Inf-S det|the-Def-Art noun|president .
+%gra:	1|15|DISCOURSE 2|1|PUNCT 3|15|ADVCL 4|3|COMPOUND-PRT 5|6|CASE 6|3|OBL 7|9|PUNCT 8|9|CC 9|3|CONJ 10|9|OBJ 11|12|CC 12|9|CONJ 13|3|PUNCT 14|15|NSUBJ 15|0|ROOT 16|15|OBJ 17|20|MARK 18|20|COP 19|20|DET 20|15|XCOMP 21|15|PUNCT
+*A:	huh . 428750_429070
+%mor:	intj|huh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	of the company . 429970_430910
+%mor:	adp|of det|the-Def-Art noun|company .
+%gra:	1|3|CASE 2|3|DET 3|0|ROOT 4|3|PUNCT
+*A:	well you can be the next ah , Bill Gates . 431230_432920
+%mor:	intj|well pron|you-Prs-Nom-S2 aux|can-Fin-S aux|be-Inf-S det|the-Def-Art adj|next-S1 intj|ah cm|cm propn|Bill propn|Gates-Plur .
+%gra:	1|7|DISCOURSE 2|7|NSUBJ 3|7|AUX 4|7|COP 5|7|DET 6|7|AMOD 7|0|ROOT 8|9|PUNCT 9|7|VOCATIVE 10|9|FLAT 11|7|PUNCT
+*B:	xxx . 431450_432190
+*B:	excuse me ? 433910_434420
+%mor:	verb|excuse-Fin-Imp-S pron|I-Prs-Acc-S1 ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*A:	you'll be the the next Bill Gates . 434580_436210
+%mor:	pron|you-Prs-Nom-S2~aux|will-Fin-S aux|be-Inf-S det|the-Def-Art det|the-Def-Art adj|next-S1 propn|Bill propn|Gates-Plur .
+%gra:	1|8|NSUBJ 2|8|AUX 3|8|COP 4|8|DET 5|8|DET 6|8|AMOD 7|8|COMPOUND 8|0|ROOT 9|8|PUNCT
+*B:	wow , you know when you start talking about C E O you get all sorts of privileges with that you know , like a car , driver you know , house . 436590_442390
+%mor:	intj|wow cm|cm pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 adv|when pron|you-Prs-Nom-S2 verb|start-Fin-Ind-Pres-S2 verb|talk-Ger-S adp|about propn|C propn|E propn|o pron|you-Prs-Nom-S2 verb|get-Fin-Ind-Pres-S2 det|all-Def-Tot noun|sort-Plur-Acc adp|of noun|privilege-Plur adp|with pron|that-Rel pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 cm|cm adp|like det|a-Ind-Art noun|car cm|cm noun|driver pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 cm|cm noun|house .
+%gra:	1|14|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|14|PARATAXIS 5|7|ADVMOD 6|7|NSUBJ 7|14|ADVCL 8|7|XCOMP 9|10|CASE 10|8|OBL 11|10|FLAT 12|10|FLAT 13|14|NSUBJ 14|0|ROOT 15|16|DET 16|14|OBJ 17|18|CASE 18|16|NMOD 19|20|CASE 20|22|OBL 21|22|NSUBJ 22|26|ACL-RELCL 23|26|PUNCT 24|26|CASE 25|26|DET 26|18|NMOD 27|28|PUNCT 28|26|CONJ 29|30|NSUBJ 30|26|PARATAXIS 31|32|PUNCT 32|26|APPOS 33|14|PUNCT
+*A:	yeah . 442050_442260
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	big ah , you know , big fat salary , so . 442580_445450
+%mor:	adj|big-S1 intj|ah cm|cm pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 cm|cm adj|big-S1 adj|fat-S1 noun|salary cm|cm adv|so .
+%gra:	1|9|AMOD 2|9|DISCOURSE 3|2|PUNCT 4|5|NSUBJ 5|9|PARATAXIS 6|5|PUNCT 7|9|AMOD 8|9|AMOD 9|0|ROOT 10|11|PUNCT 11|9|ADVMOD 12|9|PUNCT
+*A:	well we'll look forward to ah , Cyrilsoft ninety seven &=laughs . 445330_449280
+%mor:	intj|well pron|we-Prs-Nom-P1~aux|will-Fin-S verb|look-Inf-S adv|forward adp|to intj|ah cm|cm propn|Cyrilsoft num|ninety num|seven .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|ADVMOD 6|7|CASE 7|4|OBL 8|9|PUNCT 9|4|VOCATIVE 10|11|NUMMOD 11|9|NUMMOD 12|4|PUNCT
+*B:	&=laughs . 448290_449810
+*A:	&=laughs . 449800_450870
+*B:	no it's actually the ah , it's this that that remember about that new operating system I was telling you about that's in Japan ? 451830_457300
+%mor:	intj|no pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|actually det|the-Def-Art intj|ah cm|cm pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 sconj|that pron|that-Dem verb|remember-Fin-S adp|about det|that-Def-Dem-Sing adj|new-S1 noun|operating-Ger noun|system pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr verb|tell-Part-Pres-S pron|you-Prs-Acc-S2 adp|about pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|in propn|Japan ?
+%gra:	1|10|DISCOURSE 2|6|NSUBJ 3|10|REPARANDUM 4|6|ADVMOD 5|10|REPARANDUM 6|10|DISCOURSE 7|6|PUNCT 8|10|EXPL 9|10|COP 10|0|ROOT 11|13|MARK 12|13|NSUBJ 13|10|CSUBJ 14|18|CASE 15|18|DET 16|18|AMOD 17|18|COMPOUND 18|13|OBL 19|21|NSUBJ 20|21|AUX 21|18|ACL-RELCL 22|21|IOBJ 23|24|CASE 24|21|OBL 25|27|COP 26|27|CASE 27|21|ADVCL 28|10|PUNCT
+*A:	o , no . 457930_458450
+%mor:	intj|o cm|cm intj|no .
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|DISCOURSE 4|1|PUNCT
+*B:	uh , well I I told you that several months ago . 458980_461010
+%mor:	intj|uh cm|cm intj|well pron|I-Prs-Nom-S1 pron|I-Prs-Nom-S1 verb|tell-Fin-Ind-Past-S1-irr pron|you-Prs-Acc-S2 sconj|that adj|several-S1 noun|month-Plur adv|ago .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|DISCOURSE 4|6|NSUBJ 5|6|NSUBJ 6|0|ROOT 7|6|IOBJ 8|11|MARK 9|10|AMOD 10|11|OBL-UNMARKED 11|6|ADVMOD 12|6|PUNCT
+*A:	uhhuh . 461030_461280
+%mor:	intj|uhhuh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	uh , and they're going to they're going to Koreanize it . 461850_464490
+%mor:	intj|uh cm|cm cconj|and pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|go-Part-Pres-S sconj|to pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|go-Part-Pres-S part|to propn|Koreanize pron|it-Prs-Acc-S3 .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|CC 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|10|MARK 8|10|NSUBJ 9|10|AUX 10|6|ADVCL 11|12|MARK 12|10|XCOMP 13|10|OBJ 14|6|PUNCT
+*A:	oh , yeah . 464540_465000
+%mor:	intj|oh cm|cm intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT 3|1|DISCOURSE 4|1|PUNCT
+*B:	so there's a ne- . 465350_465760
+%mor:	adv|so pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|ne .
+%gra:	1|3|ADVMOD 2|3|EXPL 3|0|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+*A:	there are , I I was looking at a Korean ah American bulletin board , and there is some sort of Korean system out that's been developed in the States I don't know what . 465620_474030
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 cm|cm pron|I-Prs-Nom-S1 pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr verb|look-Part-Pres-S adp|at det|a-Ind-Art adj|Korean-S1 intj|ah adj|American-S1 noun|bulletin noun|board cm|cm cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 det|some-Def-Ind noun|sort adp|of adj|Korean-S1 noun|system adp|out pron|that-Rel~aux|be-Fin-Ind-Pres-S3 aux|be-Part-Past-S-irr verb|develop-Part-Past-S adp|in det|the-Def-Art propn|State-Plur pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|what-Int-S1 .
+%gra:	1|2|EXPL 2|0|ROOT 3|7|PUNCT 4|7|NSUBJ 5|7|NSUBJ 6|7|AUX 7|2|PARATAXIS 8|14|CASE 9|14|DET 10|14|AMOD 11|14|DISCOURSE 12|14|AMOD 13|14|COMPOUND 14|7|OBL 15|18|PUNCT 16|18|CC 17|18|EXPL 18|2|CONJ 19|20|DET 20|18|NSUBJ 21|23|CASE 22|23|AMOD 23|20|NMOD 24|23|ADVMOD 25|28|NSUBJ-PASS 26|28|AUX 27|28|AUX-PASS 28|23|ACL-RELCL 29|31|CASE 30|31|DET 31|28|OBL 32|35|NSUBJ 33|35|AUX 34|35|ADVMOD 35|18|PARATAXIS 36|35|OBJ 37|2|PUNCT
+*B:	no , no this this is the professor who developed this one is . 474520_477080
+%mor:	intj|no cm|cm intj|no pron|this-Dem-S1 pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|professor pron|who-Rel verb|develop-Fin-Ind-Past-S3 det|this-Def-Dem-Sing noun|one-Acc aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|8|DISCOURSE 2|1|PUNCT 3|8|DISCOURSE 4|8|REPARANDUM 5|8|NSUBJ 6|8|COP 7|8|DET 8|0|ROOT 9|10|NSUBJ 10|8|ACL-RELCL 11|12|DET 12|10|OBJ 13|8|COP 14|8|PUNCT
+*A:	yeah . 477300_477550
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	uh , the one in the States is probably to work on Unix or something you know the ah its a it's difficult to send messages in Korean across the internet . 477910_486220
+%mor:	intj|uh cm|cm det|the-Def-Art noun|one adp|in det|the-Def-Art propn|State-Plur aux|be-Fin-Ind-Pres-S3 adv|probably part|to verb|work-Inf-S adp|on propn|Unix cconj|or pron|something-Ind-S1 pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 det|the-Def-Art intj|ah pron|its-Prs-Gen-S3 noun|a pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|difficult-S1 part|to verb|send-Inf-S noun|message-Plur-Acc adp|in propn|Korean adp|across det|the-Def-Art noun|internet .
+%gra:	1|11|DISCOURSE 2|1|PUNCT 3|4|DET 4|11|NSUBJ-OUTER 5|7|CASE 6|7|DET 7|4|NMOD 8|11|COP 9|11|ADVMOD 10|11|MARK 11|0|ROOT 12|13|CASE 13|11|OBL 14|15|CC 15|13|CONJ 16|17|NSUBJ 17|15|ACL-RELCL 18|19|DET 19|24|DISCOURSE 20|21|NMOD-POSS 21|24|REPARANDUM 22|24|EXPL 23|24|COP 24|11|PARATAXIS 25|26|MARK 26|24|CSUBJ 27|26|OBJ 28|29|CASE 29|26|OBL 30|32|CASE 31|32|DET 32|26|OBL 33|11|PUNCT
+*A:	yeah . 486560_486830
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	and I've got a copy of you know that ah Yudora for English . 487320_491740
+%mor:	cconj|and pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 verb|get-Part-Past-S-irr det|a-Ind-Art noun|copy-Acc adp|of pron|you-Prs-Acc-S2 verb|know-Inf-S sconj|that intj|ah propn|Yudora adp|for propn|English .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|CASE 8|6|NMOD 9|6|ACL 10|12|MARK 11|12|DISCOURSE 12|9|CCOMP 13|14|CASE 14|12|NMOD 15|4|PUNCT
+*A:	yeah . 491880_492160
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	uh , but I can't you know people try to send me foreign language messages and get all these nonsense characters on my screen . 492680_498410
+%mor:	intj|uh cm|cm cconj|but pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not pron|you-Prs-Nom-S2 verb|know-Inf-S noun|person-Plur verb|try-Inf-S part|to verb|send-Inf-S pron|I-Prs-Acc-S1 adj|foreign-S1 noun|language noun|message-Plur-Acc cconj|and verb|get-Inf-S det|all-Def-Tot det|this-Def-Dem-Plur noun|nonsense noun|character-Plur-Acc adp|on pron|my-Prs-Gen-S1 noun|screen .
+%gra:	1|8|DISCOURSE 2|1|PUNCT 3|8|CC 4|8|NSUBJ 5|8|AUX 6|8|ADVMOD 7|8|NSUBJ 8|0|ROOT 9|10|NSUBJ 10|8|CCOMP 11|12|MARK 12|10|XCOMP 13|12|IOBJ 14|16|AMOD 15|16|COMPOUND 16|12|OBJ 17|18|CC 18|12|CONJ 19|22|DET-PREDET 20|22|DET 21|22|COMPOUND 22|18|OBJ 23|25|CASE 24|25|NMOD-POSS 25|18|OBL 26|8|PUNCT
+*A:	well , well there are yeah , well there are some ah , there is some going on , because ah some of the on the Korean bulletin board , some of the messages you pick it up and get just &-um . 498050_506220
+%mor:	intj|well cm|cm intj|well pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 intj|yeah cm|cm intj|well pron|there-Int-S1 aux|be-Fin-Ind-Pres-P3 det|some-Def-Ind intj|ah cm|cm pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 det|some-Def-Ind verb|go-Ger-S adp|on cm|cm sconj|because intj|ah det|some-Def-Ind adp|of det|the-Def-Art adp|on det|the-Def-Art adj|Korean-S1 noun|bulletin noun|board cm|cm det|some-Def-Ind adp|of det|the-Def-Art noun|message-Plur pron|you-Prs-Nom-S2 verb|pick-Fin-Ind-Pres-S2 pron|it-Prs-Acc-S3 adp|up cconj|and verb|get-Fin-Ind-Pres-S1 adv|just .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|DISCOURSE 4|5|EXPL 5|0|ROOT 6|5|DISCOURSE 7|6|PUNCT 8|15|DISCOURSE 9|15|EXPL 10|15|REPARANDUM 11|15|REPARANDUM 12|15|DISCOURSE 13|12|PUNCT 14|15|EXPL 15|5|PARATAXIS 16|15|NSUBJ 17|15|CSUBJ 18|17|COMPOUND-PRT 19|20|PUNCT 20|36|MARK 21|36|DISCOURSE 22|15|NSUBJ 23|24|CASE 24|22|NMOD 25|29|CASE 26|29|DET 27|29|AMOD 28|29|COMPOUND 29|22|NMOD 30|31|PUNCT 31|29|APPOS 32|34|CASE 33|34|DET 34|31|NMOD 35|36|NSUBJ 36|29|ACL-RELCL 37|36|OBJ 38|36|COMPOUND-PRT 39|40|CC 40|36|CONJ 41|40|ADVMOD 42|5|PUNCT
+*A:	you know , it what amounts to code , it looks like ah the Rutgers system is ah , I only discovered that there's certain unmarked computers that will receive pictures and if . 506820_516770
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 cm|cm pron|it-Prs-Nom-S3 pron|what-Int-S1 verb|amount-Fin-Ind-Pres-S3 adp|to noun|code cm|cm pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 sconj|like intj|ah det|the-Def-Art propn|Rutgers noun|system aux|be-Fin-Ind-Pres-S3 intj|ah cm|cm pron|I-Prs-Nom-S1 adv|only verb|discover-Fin-Ind-Past-S1 sconj|that pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 adj|certain-S1 adj|unmarked-S1 noun|computer-Plur pron|that-Rel aux|will-Fin-S verb|receive-Inf-S noun|picture-Plur-Acc cconj|and sconj|if .
+%gra:	1|2|NSUBJ 2|11|PARATAXIS 3|2|PUNCT 4|6|NSUBJ 5|6|NSUBJ 6|11|CCOMP 7|8|CASE 8|6|OBL 9|11|PUNCT 10|11|EXPL 11|0|ROOT 12|22|MARK 13|22|DISCOURSE 14|16|DET 15|16|COMPOUND 16|17|NSUBJ 17|18|COP 18|22|DISCOURSE 19|18|PUNCT 20|22|NSUBJ 21|22|ADVMOD 22|11|PARATAXIS 23|25|MARK 24|25|EXPL 25|22|CCOMP 26|28|AMOD 27|28|AMOD 28|25|NSUBJ 29|31|NSUBJ 30|31|AUX 31|28|ACL-RELCL 32|31|OBJ 33|34|CC 34|31|CONJ 35|11|PUNCT
+*A:	they don't receive pictures , and you either get a message that we can't accept this or instead of um , instead of a picture you'll get alphabet and numbers , you know &=laughs its sort of over and over again . 516789_527060
+%mor:	pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Pres-P3~part|not verb|receive-Inf-S noun|picture-Plur-Acc cm|cm cconj|and pron|you-Prs-Nom-S2 cconj|either verb|get-Fin-Ind-Pres-S2 det|a-Ind-Art noun|message-Acc sconj|that pron|we-Prs-Nom-P1 aux|can-Fin-S~part|not verb|accept-Inf-S pron|this-Dem-S1 cconj|or adv|instead adp|of intj|um cm|cm adv|instead adp|of det|a-Ind-Art noun|picture pron|you-Prs-Nom-S2~aux|will-Fin-S verb|get-Inf-S noun|alphabet-Acc cconj|and noun|number-Plur cm|cm pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|its-Prs-Gen-S3 noun|sort-Acc adp|of adv|over cconj|and adv|over adv|again .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|10|PUNCT 7|10|CC 8|10|NSUBJ 9|10|CC-PRECONJ 10|4|CONJ 11|12|DET 12|10|OBJ 13|17|MARK 14|17|NSUBJ 15|17|AUX 16|17|ADVMOD 17|12|ACL 18|17|OBJ 19|30|CC 20|27|CASE 21|20|FIXED 22|30|DISCOURSE 23|22|PUNCT 24|27|CASE 25|24|FIXED 26|27|DET 27|30|OBL 28|30|NSUBJ 29|30|AUX 30|4|CONJ 31|30|OBJ 32|33|CC 33|31|CONJ 34|36|PUNCT 35|36|NSUBJ 36|4|PARATAXIS 37|38|NMOD-POSS 38|36|OBJ 39|40|CASE 40|38|NMOD 41|42|CC 42|40|CONJ 43|40|CONJ 44|4|PUNCT
+*B:	yeah , mhm . 527210_527750
+%mor:	intj|yeah cm|cm intj|mhm .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|0|ROOT 4|3|PUNCT
+*A:	and ah some of the Korean messages have been like that and and ah , apparently they're they're not pornographic , they're just um it's it's the ah . 527620_537180
+%mor:	cconj|and intj|ah det|some-Def-Ind adp|of det|the-Def-Art adj|Korean-S1 noun|message-Plur aux|have-Fin-Ind-Pres-P3 aux|be-Part-Past-S-irr adp|like pron|that-Dem cconj|and cconj|and intj|ah cm|cm adv|apparently pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 part|not adj|pornographic-S1 cm|cm pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 adv|just intj|um pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art intj|ah .
+%gra:	1|11|CC 2|11|DISCOURSE 3|11|NSUBJ 4|7|CASE 5|7|DET 6|7|AMOD 7|3|NMOD 8|11|AUX 9|11|COP 10|11|CASE 11|0|ROOT 12|22|CC 13|22|CC 14|22|DISCOURSE 15|14|PUNCT 16|22|ADVMOD 17|22|NSUBJ 18|22|COP 19|22|NSUBJ 20|22|COP 21|22|ADVMOD 22|11|CONJ 23|25|PUNCT 24|25|NSUBJ 25|33|COP 26|29|ADVMOD 27|22|DISCOURSE 28|29|NSUBJ 29|33|REPARANDUM 30|33|NSUBJ 31|33|COP 32|33|DET 33|22|PARATAXIS 34|11|PUNCT
+*A:	xxx you could probably decode it if you could you know , work out the , &=laughs sit down and work out the pattern but ah . 537370_543520
+%mor:	pron|you-Prs-Nom-S2 aux|could-Fin-S adv|probably verb|decode-Inf-S pron|it-Prs-Acc-S3 sconj|if pron|you-Prs-Nom-S2 aux|could-Fin-S pron|you-Prs-Nom-S2 verb|know-Inf-S cm|cm verb|work-Inf-S adp|out det|the-Def-Art cm|cm verb|sit-Inf-S adp|down cconj|and verb|work-Fin-Imp-S adp|out det|the-Def-Art noun|pattern-Acc cconj|but intj|ah .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|10|MARK 7|10|NSUBJ 8|10|AUX 9|10|NSUBJ 10|4|ADVCL 11|12|PUNCT 12|4|PARATAXIS 13|12|COMPOUND-PRT 14|16|REPARANDUM 15|16|PUNCT 16|12|CONJ 17|16|COMPOUND-PRT 18|19|CC 19|12|CONJ 20|19|COMPOUND-PRT 21|22|DET 22|19|OBJ 23|24|CC 24|4|DISCOURSE 25|4|PUNCT
+*A:	there is , they are , sending some kind , the Korean Americans are using some kind of system here . 543520_549480
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 cm|cm pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Pres-P3 cm|cm verb|send-Part-Pres-S det|some-Def-Ind noun|kind-Acc cm|cm det|the-Def-Art adj|Korean-S1 propn|American-Plur aux|be-Fin-Ind-Pres-P3 verb|use-Part-Pres-S det|some-Def-Ind noun|kind-Acc adp|of noun|system adv|here .
+%gra:	1|2|EXPL 2|0|ROOT 3|7|PUNCT 4|5|NSUBJ 5|7|REPARANDUM 6|5|PUNCT 7|2|PARATAXIS 8|9|DET 9|7|OBJ 10|15|PUNCT 11|13|DET 12|13|AMOD 13|15|NSUBJ 14|15|AUX 15|2|PARATAXIS 16|17|DET 17|15|OBJ 18|19|CASE 19|17|NMOD 20|15|ADVMOD 21|2|PUNCT
+*B:	yeah , they probably dual serve , anyway this , this , new thing is for that architecture my friend in Tokyo did . 550040_555220
+%mor:	intj|yeah cm|cm pron|they-Prs-Nom-P3 adv|probably verb|dual-Fin-Ind-Pres-P3 verb|serve-Fin-Ind-Pres-P3 cm|cm intj|anyway pron|this-Dem-S1 cm|cm det|this-Def-Dem-Sing cm|cm adj|new-S1 noun|thing-Ger aux|be-Fin-Ind-Pres-S3 adp|for det|that-Def-Dem-Sing noun|architecture pron|my-Prs-Gen-S1 noun|friend adp|in propn|Tokyo aux|do-Fin-Ind-Past-S3-irr .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|ADVMOD 5|0|ROOT 6|5|XCOMP 7|9|PUNCT 8|18|DISCOURSE 9|6|PARATAXIS 10|11|PUNCT 11|14|DET 12|11|PUNCT 13|14|AMOD 14|18|NSUBJ 15|18|COP 16|18|CASE 17|18|DET 18|6|PARATAXIS 19|20|NMOD-POSS 20|18|NSUBJ 21|22|CASE 22|20|NMOD 23|18|PARATAXIS 24|5|PUNCT
+*A:	mhm . 555370_555620
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

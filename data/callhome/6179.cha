@@ -1,0 +1,325 @@
+@UTF8
+@PID:	11312/t-00001107-1
+@Begin
+@Languages:	eng, heb
+@Participants:	A Subject, B Subject
+@ID:	eng|eng|A|||||Subject|||
+@ID:	eng|eng|B|||||Subject|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-08T02:59:21-04:00]
+@Media:	6179, audio
+*B:	I grew up in a secular humanist background I grew up in a semi cooperative community and I went to Oberlin College which was a very liberal college &=inhales and . 508280_516340
+%mor:	pron|I-Prs-Nom-S1 verb|grow-Fin-Ind-Past-S1-irr adp|up adp|in det|a-Ind-Art adj|secular-S1 adj|humanist-S1 noun|background pron|I-Prs-Nom-S1 verb|grow-Fin-Ind-Past-S1-irr adp|up adp|in det|a-Ind-Art noun|semi adj|cooperative-S1 noun|community cconj|and pron|I-Prs-Nom-S1 verb|go-Fin-Ind-Past-S1-irr adp|to propn|Oberlin propn|College pron|which-Rel-S1 aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art adv|very adj|liberal-S1 noun|college cconj|and .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|COMPOUND-PRT 4|8|CASE 5|8|DET 6|8|AMOD 7|8|AMOD 8|2|OBL 9|10|NSUBJ 10|2|PARATAXIS 11|10|COMPOUND-PRT 12|16|CASE 13|16|DET 14|15|COMPOUND 15|16|AMOD 16|10|OBL 17|19|CC 18|19|NSUBJ 19|2|CONJ 20|22|CASE 21|22|COMPOUND 22|19|OBL 23|28|NSUBJ 24|28|COP 25|28|DET 26|27|ADVMOD 27|28|AMOD 28|22|ACL-RELCL 29|2|CONJ 30|2|PUNCT
+*A:	right so you were a very open+minded person . 515060_517210
+%mor:	adj|right-S1 adv|so pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Past-S2-irr det|a-Ind-Art adv|very adj|openminded-S1 noun|person .
+%gra:	1|8|DISCOURSE 2|8|ADVMOD 3|8|NSUBJ 4|8|COP 5|8|DET 6|7|ADVMOD 7|8|AMOD 8|0|ROOT 9|8|PUNCT
+*B:	yeah I was a very open+minded person I was sear- I was I was seeking truth not religion &=laughs &-um but . 517500_524640
+%mor:	intj|yeah pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr det|a-Ind-Art adv|very adj|openminded-S1 noun|person pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr adj|sear-S1 pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr verb|seek-Part-Pres-S noun|truth-Acc part|not noun|religion-Acc cconj|but .
+%gra:	1|7|DISCOURSE 2|7|NSUBJ 3|7|COP 4|7|DET 5|6|ADVMOD 6|7|AMOD 7|0|ROOT 8|10|NSUBJ 9|10|COP 10|7|ACL-RELCL 11|12|NSUBJ 12|15|REPARANDUM 13|15|NSUBJ 14|15|AUX 15|7|PARATAXIS 16|15|OBJ 17|18|ADVMOD 18|15|OBJ 19|7|CONJ 20|7|PUNCT
+*A:	xxx . 517900_518260
+*A:	yeah . 522820_523000
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	&=laughs . 524159_524500
+*B:	I xxx I thought to myself when I was offered this opportunity to go for a &-uh Shabbas meal at a religious family . 525210_531660
+%mor:	pron|I-Prs-Nom-S1 pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Past-S1-irr adp|to pron|myself-Prs-Acc-reflx-S1 adv|when pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr verb|offer-Part-Past-S det|this-Def-Dem-Sing noun|opportunity-Acc part|to verb|go-Inf-S adp|for det|a-Ind-Art propn|Shabbas noun|meal adp|at det|a-Ind-Art adj|religious-S1 noun|family .
+%gra:	1|3|NSUBJ 2|3|NSUBJ 3|0|ROOT 4|5|CASE 5|3|OBL 6|9|ADVMOD 7|9|NSUBJ-PASS 8|9|AUX-PASS 9|3|ADVCL 10|11|DET 11|9|OBJ 12|13|MARK 13|11|ACL 14|17|CASE 15|17|DET 16|17|COMPOUND 17|13|OBL 18|21|CASE 19|21|DET 20|21|AMOD 21|13|OBL 22|3|PUNCT
+*B:	I said why not you know I said I'm I'm . 532110_534130
+%mor:	pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr adv|why part|not pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|6|ADVMOD 5|6|NSUBJ 6|2|CCOMP 7|8|NSUBJ 8|6|CCOMP 9|12|NSUBJ 10|12|COP 11|12|NSUBJ 12|8|CCOMP 13|2|PUNCT
+*B:	travelling to learn about myself and the world in which . 534580_537260
+%mor:	verb|travel-Part-Pres-S part|to verb|learn-Inf-S adp|about pron|myself-Prs-Acc-reflx-S1 cconj|and det|the-Def-Art noun|world adp|in pron|which-Rel-S1 .
+%gra:	1|0|ROOT 2|3|MARK 3|1|ADVCL 4|5|CASE 5|3|OBL 6|8|CC 7|8|DET 8|5|CONJ 9|10|CASE 10|3|OBL 11|1|PUNCT
+*B:	in which I live not to just sit on beaches and go to discotheques in different countries . 537330_541010
+%mor:	adp|in pron|which-Rel-S1 pron|I-Prs-Nom-S1 verb|live-Fin-Ind-Pres-S1 part|not part|to adv|just verb|sit-Inf-S adp|on noun|beach-Plur cconj|and verb|go-Inf-S adp|to noun|discotheque-Plur adp|in adj|different-S1 noun|country-Plur .
+%gra:	1|2|CASE 2|4|OBL 3|4|NSUBJ 4|0|ROOT 5|8|ADVMOD 6|8|MARK 7|8|ADVMOD 8|4|XCOMP 9|10|CASE 10|8|OBL 11|12|CC 12|8|CONJ 13|14|CASE 14|12|OBL 15|17|CASE 16|17|AMOD 17|12|OBL 18|4|PUNCT
+*A:	yeah . 541140_541380
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	so why not ? 541720_542330
+%mor:	adv|so adv|why part|not ?
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|ADVMOD 4|2|PUNCT
+*B:	you know let me learn a little bit . 542760_543950
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|learn-Inf-S det|a-Ind-Art adj|little-S1 noun|bit .
+%gra:	1|2|NSUBJ 2|3|PARATAXIS 3|0|ROOT 4|3|OBJ 5|3|XCOMP 6|8|DET 7|8|AMOD 8|5|OBL-UNMARKED 9|3|PUNCT
+*B:	I was a little frustrated and in the six weeks I had been travelling I just met tourists . 544240_547530
+%mor:	pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr det|a-Ind-Art adj|little-S1 adj|frustrated-S1 cconj|and adp|in det|the-Def-Art num|six noun|week-Plur pron|I-Prs-Nom-S1 aux|have-Fin-Ind-Past-S1-irr aux|be-Part-Past-S-irr verb|travel-Part-Pres-S pron|I-Prs-Nom-S1 adv|just verb|meet-Fin-Ind-Past-S1-irr noun|tourist-Plur-Acc .
+%gra:	1|5|NSUBJ 2|5|COP 3|4|DET 4|5|OBL-UNMARKED 5|0|ROOT 6|17|CC 7|10|CASE 8|10|DET 9|10|NUMMOD 10|17|OBL 11|14|NSUBJ 12|14|AUX 13|14|AUX 14|5|CONJ 15|17|NSUBJ 16|17|ADVMOD 17|5|CONJ 18|17|OBJ 19|5|PUNCT
+*B:	you know I I didn't know Greek I didn't know Turkish so you_know I met tourists . 547650_550930
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|I-Prs-Nom-S1 pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr~part|not verb|know-Inf-S propn|Greek-Acc pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr~part|not verb|know-Inf-S adj|Turkish-S1 adv|so intj|youknow pron|I-Prs-Nom-S1 verb|meet-Fin-Ind-Past-S1-irr noun|tourist-Plur-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|7|NSUBJ 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|2|CCOMP 8|7|OBJ 9|12|NSUBJ 10|12|AUX 11|12|ADVMOD 12|7|CCOMP 13|12|OBJ 14|17|ADVMOD 15|17|DISCOURSE 16|17|NSUBJ 17|7|PARATAXIS 18|17|OBJ 19|2|PUNCT
+*A:	mm yes . 547860_548240
+%mor:	intj|mm intj|yes .
+%gra:	1|0|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*A:	yeah . 550080_550210
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	and what's the point of it all anyway . 551320_552850
+%mor:	cconj|and pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|point adp|of pron|it-Prs-Acc-S3 det|all-Def-Tot adv|anyway .
+%gra:	1|2|CC 2|0|ROOT 3|2|COP 4|5|DET 5|2|NSUBJ 6|7|CASE 7|5|NMOD 8|9|DET 9|5|ADVMOD 10|2|PUNCT
+*B:	right . 553290_553560
+%mor:	adj|right-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	you know going from one beach and ha- having &=inhales you_know . 553640_556340
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 verb|go-Ger-S adp|from num|one noun|beach cconj|and intj|ha verb|have-Part-Pres-S noun|youknow-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|XCOMP 4|6|CASE 5|6|NUMMOD 6|3|OBL 7|9|CC 8|9|DISCOURSE 9|3|CONJ 10|9|OBJ 11|2|PUNCT
+*A:	basking in the sunshine what's the point of it all &=laugh ? 556580_559330
+%mor:	verb|bask-Part-Pres-S adp|in det|the-Def-Art noun|sunshine pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|point adp|of pron|it-Prs-Acc-S3 det|all-Def-Tot ?
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|OBJ 6|8|COP 7|8|DET 8|5|NSUBJ 9|10|CASE 10|8|NMOD 11|8|ADVMOD 12|1|PUNCT
+*B:	that's right that's right . 559390_560440
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|right-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|right-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|6|NSUBJ 5|6|COP 6|3|PARATAXIS 7|3|PUNCT
+*A:	there has to be a higher purpose . 559820_561080
+%mor:	pron|there-Int-S1 verb|have-Fin-Ind-Pres-S3 part|to verb|be-Inf-S det|a-Ind-Art adj|high-Cmp-S1 noun|purpose .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|MARK 4|2|XCOMP 5|7|DET 6|7|AMOD 7|4|NSUBJ 8|2|PUNCT
+*B:	that's right that's right . 561330_562480
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|right-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|right-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|6|NSUBJ 5|6|COP 6|3|PARATAXIS 7|3|PUNCT
+*A:	you weren't born just to soak up sun . 562010_563810
+%mor:	pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Past-S2-irr~part|not verb|bear-Part-Past-S adv|just part|to verb|soak-Inf-S adp|up noun|sun-Acc .
+%gra:	1|4|NSUBJ-PASS 2|4|AUX-PASS 3|4|ADVMOD 4|0|ROOT 5|7|ADVMOD 6|7|MARK 7|4|ADVCL 8|7|COMPOUND-PRT 9|7|OBJ 10|4|PUNCT
+*B:	that's right exactly so I I &-um I said here is an opportunity . 564360_568410
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|right-S1 adv|exactly adv|so pron|I-Prs-Nom-S1 pron|I-Prs-Nom-S1 pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr adv|here aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|opportunity .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|ADVMOD 5|9|ADVMOD 6|9|NSUBJ 7|9|REPARANDUM 8|9|NSUBJ 9|3|PARATAXIS 10|9|CCOMP 11|13|COP 12|13|DET 13|9|CCOMP 14|3|PUNCT
+*B:	to see how a Jewish family lives why not . 568990_571270
+%mor:	part|to verb|see-Inf-S adv|how det|a-Ind-Art adj|Jewish-S1 noun|family verb|live-Fin-Ind-Pres-S3 adv|why part|not .
+%gra:	1|2|MARK 2|0|ROOT 3|2|OBJ 4|6|DET 5|6|AMOD 6|7|NSUBJ 7|3|ADVCL-RELCL 8|7|ADVMOD 9|7|ADVMOD 10|2|PUNCT
+*B:	and providence would have it that they were it was a June . 572200_575040
+%mor:	cconj|and propn|providence aux|would-Fin-S verb|have-Inf-S pron|it-Prs-Acc-S3 sconj|that pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Past-P3-irr pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art propn|June .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|12|MARK 7|8|NSUBJ 8|12|COP 9|12|NSUBJ 10|12|COP 11|12|DET 12|4|CCOMP 13|4|PUNCT
+*B:	night there was that Friday night there was &-um over a hundred . 575070_578210
+%mor:	noun|night pron|there-Int-S1 verb|be-Fin-Ind-Past-S3-irr sconj|that propn|Friday noun|night pron|there-Int-S1 verb|be-Fin-Ind-Past-S3-irr adp|over det|a-Ind-Art num|hundred .
+%gra:	1|3|OBL-UNMARKED 2|3|EXPL 3|0|ROOT 4|8|MARK 5|6|COMPOUND 6|8|OBL-UNMARKED 7|8|EXPL 8|3|CCOMP 9|11|CASE 10|11|DET 11|8|OBL 12|3|PUNCT
+*B:	people who were going on a tour and who were set up for shabbas@s:heb hospitality . 578500_582080
+%mor:	noun|person-Plur pron|who-Rel aux|be-Fin-Ind-Past-P3-irr verb|go-Part-Pres-S adp|on det|a-Ind-Art noun|tour cconj|and pron|who-Rel aux|be-Fin-Ind-Past-P3-irr verb|set-Part-Past-S-irr adp|up adp|for x|shabbas noun|hospitality .
+%gra:	1|0|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|7|CASE 6|7|DET 7|4|OBL 8|11|CC 9|11|NSUBJ-PASS 10|11|AUX-PASS 11|4|CONJ 12|11|COMPOUND-PRT 13|15|CASE 14|15|COMPOUND 15|11|OBL 16|1|PUNCT
+*A:	mm-hm . 582180_582550
+%mor:	intj|mm–hm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	and this rabbi . 582780_584510
+%mor:	cconj|and det|this-Def-Dem-Sing noun|rabbi .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|3|PUNCT
+*B:	Rabbi Boruch Rabin sent me to &-um . 584780_587390
+%mor:	propn|Rabbi propn|Boruch propn|Rabin verb|send-Fin-Ind-Past-S3-irr pron|I-Prs-Acc-S1 adp|to .
+%gra:	1|4|NSUBJ 2|1|FLAT 3|1|FLAT 4|0|ROOT 5|4|OBJ 6|4|PUNCT 7|4|PUNCT
+*B:	a Rabbi Simcha Wasserman xxx may he be rest in peace . 587690_591730
+%mor:	det|a-Ind-Art propn|Rabbi propn|Simcha propn|Wasserman aux|may-Fin-S pron|he-Prs-Nom-S3 aux|be-Inf-S noun|rest adp|in noun|peace .
+%gra:	1|2|DET 2|8|NSUBJ 3|2|FLAT 4|3|FLAT 5|8|AUX 6|8|NSUBJ 7|8|COP 8|0|ROOT 9|10|CASE 10|8|NMOD 11|8|PUNCT
+*B:	He was &-uh a great rabbi whose father was one of the greatest rabbis in Europe . 592230_597080
+%mor:	pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art adj|great-S1 noun|rabbi pron|whose-Rel-S1 noun|father aux|be-Fin-Ind-Past-S3-irr num|one adp|of det|the-Def-Art adj|great-Sup-S1 noun|rabbis-Plur adp|in propn|Europe .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|0|ROOT 6|7|NMOD-POSS 7|9|NSUBJ 8|9|COP 9|5|ACL-RELCL 10|13|CASE 11|13|DET 12|13|AMOD 13|9|NMOD 14|15|CASE 15|13|NMOD 16|5|PUNCT
+*B:	who &-um . 597670_598600
+%mor:	pron|who-Int .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	and he himself was a very knowledgeable rabbi . 599180_601550
+%mor:	cconj|and pron|he-Prs-Nom-S3 pron|himself-Emp-Acc-reflx-S3 aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art adv|very adj|knowledgeable-S1 noun|rabbi .
+%gra:	1|8|CC 2|8|NSUBJ 3|2|NMOD-UNMARKED 4|8|COP 5|8|DET 6|7|ADVMOD 7|8|AMOD 8|0|ROOT 9|8|PUNCT
+*B:	and I was told that I I I &-um . 602380_604310
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr verb|tell-Part-Past-S-irr sconj|that pron|I-Prs-Nom-S1 pron|I-Prs-Nom-S1 pron|I-Prs-Nom-S1 .
+%gra:	1|4|CC 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|0|ROOT 5|7|MARK 6|7|NSUBJ 7|4|CCOMP 8|4|CCOMP 9|4|PUNCT
+*B:	was was . 604710_605530
+%mor:	aux|be-Fin-Ind-Past-S3-irr aux|be-Fin-Ind-Past-S3-irr .
+%gra:	1|2|COP 2|0|ROOT 3|2|PUNCT
+*B:	going to I was going with three other boys to a &-uh . 605920_609280
+%mor:	verb|go-Part-Pres-S adp|to pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr verb|go-Part-Pres-S adp|with num|three adj|other-S1 noun|boy-Plur part|to det|a-Ind-Art .
+%gra:	1|5|CSUBJ 2|3|CASE 3|1|OBL 4|5|AUX 5|0|ROOT 6|9|CASE 7|9|NUMMOD 8|9|AMOD 9|5|OBL 10|5|ADVCL 11|5|PUNCT 12|5|PUNCT
+*B:	a rabbi's home a rabbi who you know who had lived in Europe and lived in America . 609380_612970
+%mor:	det|a-Ind-Art noun|rabbi~part|s noun|home det|a-Ind-Art noun|rabbi pron|who-Rel pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|who-Rel aux|have-Fin-Ind-Past-S3-irr verb|live-Part-Past-S adp|in propn|Europe cconj|and verb|live-Fin-Ind-Past-S adp|in propn|America .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|0|ROOT 5|6|DET 6|4|APPOS 7|9|OBJ 8|9|NSUBJ 9|6|ACL-RELCL 10|12|NSUBJ 11|12|AUX 12|9|CCOMP 13|14|CASE 14|12|OBL 15|16|CC 16|12|CONJ 17|18|CASE 18|16|OBL 19|4|PUNCT
+*B:	So I . 613620_614140
+%mor:	adv|so pron|I-Prs-Nom-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*B:	I don't remember exactly what I thought &=laughs thirteen years ago but I can . 614310_616850
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|remember-Inf-S adv|exactly pron|what-Rel-S1 pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Past-S1-irr num|thirteen noun|year-Plur adv|ago cconj|but pron|I-Prs-Nom-S1 aux|can-Fin-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|6|ADVMOD 6|4|OBJ 7|8|NSUBJ 8|6|ACL-RELCL 9|10|NUMMOD 10|11|OBL-UNMARKED 11|8|ADVMOD 12|14|CC 13|14|NSUBJ 14|4|CONJ 15|4|PUNCT
+*B:	can conjure up somewhat of an image . 617230_619380
+%mor:	aux|can-Fin-S verb|conjure-Inf-S adp|up adv|somewhat adp|of det|a-Ind-Art noun|image .
+%gra:	1|2|AUX 2|0|ROOT 3|2|COMPOUND-PRT 4|2|ADVMOD 5|7|CASE 6|7|DET 7|2|OBL 8|2|PUNCT
+*B:	of &=laughs like a little bit of . 619670_621940
+%mor:	adp|of intj|like det|a-Ind-Art adj|little-S1 noun|bit adp|of .
+%gra:	1|5|CASE 2|5|DISCOURSE 3|5|DET 4|5|AMOD 5|0|ROOT 6|5|PUNCT 7|5|PUNCT
+*B:	what I might have thought and I I ha- I was little afraid that &-um . 622140_624930
+%mor:	pron|what-Int-S1 pron|I-Prs-Nom-S1 aux|might-Fin-S aux|have-Inf-S verb|think-Part-Past-S-irr cconj|and pron|I-Prs-Nom-S1 pron|I-Prs-Nom-S1 intj|ha pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr adj|little-S1 adj|afraid-S1 pron|that-Dem .
+%gra:	1|13|NSUBJ-OUTER 2|5|NSUBJ 3|5|AUX 4|5|AUX 5|1|ACL-RELCL 6|13|CC 7|13|REPARANDUM 8|13|REPARANDUM 9|13|REPARANDUM 10|13|NSUBJ 11|13|COP 12|13|OBL-UNMARKED 13|0|ROOT 14|13|OBJ 15|13|PUNCT
+*A:	&=laughs . 624350_624870
+*B:	&=laughs that you know &-um I'm going to this rabbi's house and he's going to chastize me he's going to say you Jewish boy what are doing with your life you shouldn't you should do something with your life for a change you should xxx learn some Torah what are you what what is this . 625140_637300
+%mor:	sconj|that pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S adp|to det|this-Def-Dem-Sing noun|rabbi~part|s noun|house cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|chastize-Inf-S pron|I-Prs-Acc-S1 pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|say-Inf-S pron|you-Prs-Gen-S2 adj|Jewish-S1 noun|boy pron|what-Int-S1 aux|be-Fin-Ind-Pres-P3 verb|do-Part-Pres-S adp|with pron|your-Prs-Gen-S2 noun|life pron|you-Prs-Nom-S2 aux|should-Fin-S~part|not pron|you-Prs-Nom-S2 aux|should-Fin-S verb|do-Inf-S pron|something-Ind-S1 adp|with pron|your-Prs-Gen-S2 noun|life adp|for det|a-Ind-Art noun|change pron|you-Prs-Nom-S2 aux|should-Fin-S verb|learn-Inf-S det|some-Def-Ind propn|Torah-Acc pron|what-Int-S1 aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 pron|what-Int-S1 pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 .
+%gra:	1|3|MARK 2|3|NSUBJ 3|0|ROOT 4|6|NSUBJ 5|6|AUX 6|3|CCOMP 7|11|CASE 8|9|DET 9|11|NMOD-POSS 10|9|CASE 11|6|OBL 12|15|CC 13|15|NSUBJ 14|15|AUX 15|3|CONJ 16|17|MARK 17|15|XCOMP 18|17|IOBJ 19|21|NSUBJ 20|21|AUX 21|15|CCOMP 22|23|MARK 23|21|XCOMP 24|26|NMOD-POSS 25|26|AMOD 26|23|IOBJ 27|29|OBJ 28|29|AUX 29|26|ACL-RELCL 30|32|CASE 31|32|NMOD-POSS 32|29|OBL 33|38|NSUBJ-OUTER 34|38|AUX 35|38|ADVMOD 36|38|NSUBJ 37|38|AUX 38|21|PARATAXIS 39|38|OBJ 40|42|CASE 41|42|NMOD-POSS 42|39|NMOD 43|45|CASE 44|45|DET 45|38|OBL 46|48|NSUBJ 47|48|AUX 48|45|ACL-RELCL 49|50|DET 50|48|OBJ 51|54|NSUBJ 52|54|COP 53|54|NSUBJ 54|48|ADVCL-RELCL 55|57|NSUBJ 56|57|COP 57|54|ACL-RELCL 58|3|PUNCT
+*A:	yeah . 632110_632380
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	you just &-um . 638040_639510
+%mor:	pron|you-Prs-Nom-S2 adv|just .
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|PUNCT
+*B:	eh you sit in a university what is this you know why don't you do something for a change . 640210_644390
+%mor:	intj|eh pron|you-Prs-Nom-S2 verb|sit-Fin-Ind-Pres-S2 adp|in det|a-Ind-Art noun|university pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 adv|why aux|do-Fin-Ind-Pres-S2~part|not pron|you-Prs-Nom-S2 verb|do-Inf-S pron|something-Ind-S1 adp|for det|a-Ind-Art noun|change .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|9|NSUBJ 8|9|COP 9|6|ACL-RELCL 10|11|NSUBJ 11|9|ACL-RELCL 12|16|ADVMOD 13|16|AUX 14|16|ADVMOD 15|16|NSUBJ 16|3|PARATAXIS 17|16|OBJ 18|20|CASE 19|20|DET 20|17|NMOD 21|3|PUNCT
+*A:	yeah . 643420_643630
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	yes eh . 644620_645210
+%mor:	intj|yes intj|eh .
+%gra:	1|0|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*B:	so when I got there it was I was . 645400_647960
+%mor:	adv|so adv|when pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Past-S1-irr adv|there pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S3-irr .
+%gra:	1|7|ADVMOD 2|4|ADVMOD 3|4|NSUBJ 4|7|ADVCL 5|4|ADVMOD 6|7|NSUBJ 7|9|COP 8|9|NSUBJ 9|0|ROOT 10|9|PUNCT
+*B:	pleasantly surprised to see nothing of the sort . 649040_651840
+%mor:	adv|pleasantly adj|surprised-S1 part|to verb|see-Inf-S pron|nothing-Neg-S1 adp|of det|the-Def-Art noun|sort .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|4|MARK 4|2|XCOMP 5|4|OBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|2|PUNCT
+*A:	mm-hm . 651960_652470
+%mor:	intj|mm–hm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	I was pleasantly surprised to see an older rabbi and his wife . 652090_655410
+%mor:	pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr adv|pleasantly adj|surprised-S1 part|to verb|see-Inf-S det|a-Ind-Art adj|old-Cmp-S1 noun|rabbi-Acc cconj|and pron|his-Prs-Gen-S3 noun|wife .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|9|DET 8|9|AMOD 9|6|OBJ 10|12|CC 11|12|NMOD-POSS 12|9|CONJ 13|4|PUNCT
+*B:	who bantered with each other playfully . 656150_658660
+%mor:	pron|who-Rel verb|banter-Fin-Ind-Past-S3 adp|with det|each-Def-Rcp adj|other-S1 adv|playfully .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|CASE 4|2|OBL 5|4|FIXED 6|2|ADVMOD 7|2|PUNCT
+*B:	you know s- clearly deeply in love . 658760_661180
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 intj|s adv|clearly adv|deeply adp|in noun|love .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|COP 4|5|ADVMOD 5|2|ADVMOD 6|7|CASE 7|5|OBL 8|2|PUNCT
+*A:	hm . 658930_659440
+%mor:	intj|hm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	mm-hm . 661290_661740
+%mor:	intj|mm–hm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	um and . 661910_663070
+%mor:	intj|um cconj|and .
+%gra:	1|0|ROOT 2|1|CC 3|1|PUNCT
+*B:	I can't remember exactly what the rabbi said but I remember the impression that I had . 664030_668000
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|remember-Inf-S adv|exactly pron|what-Rel-S1 det|the-Def-Art noun|rabbi verb|say-Fin-Ind-Past-S3-irr cconj|but pron|I-Prs-Nom-S1 verb|remember-Fin-Ind-Pres-S1 det|the-Def-Art noun|impression-Acc sconj|that pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Past-S1-irr .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|6|ADVMOD 6|4|OBJ 7|8|DET 8|9|NSUBJ 9|6|ACL-RELCL 10|12|CC 11|12|NSUBJ 12|4|CONJ 13|14|DET 14|12|OBJ 15|17|MARK 16|17|NSUBJ 17|14|ACL 18|4|PUNCT
+*B:	that . 668620_668950
+%mor:	pron|that-Dem .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	had as I said I was like . 669820_671290
+%mor:	verb|have-Fin-Ind-Past-S1-irr sconj|as pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr adp|like .
+%gra:	1|0|ROOT 2|4|MARK 3|4|NSUBJ 4|1|ADVCL 5|6|NSUBJ 6|4|CCOMP 7|6|COMPOUND-PRT 8|1|PUNCT
+*B:	a little on the defensive a little bit afraid of you know being . 671530_674760
+%mor:	det|a-Ind-Art adj|little-S1 adp|on det|the-Def-Art noun|defensive det|a-Ind-Art adj|little-S1 noun|bit adj|afraid-S1 adp|of pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 aux|be-Part-Pres-S .
+%gra:	1|2|DET 2|5|NMOD-UNMARKED 3|5|CASE 4|5|DET 5|0|ROOT 6|8|DET 7|8|AMOD 8|9|OBL-UNMARKED 9|5|AMOD 10|12|MARK 11|12|NSUBJ 12|9|ADVCL 13|12|COP 14|5|PUNCT
+*B:	dragged into some cult I didn't know anything about . 674980_677160
+%mor:	verb|drag-Part-Ind-Past-S adp|into det|some-Def-Ind noun|cult pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr~part|not verb|know-Inf-S pron|anything-Ind-S1 adp|about .
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|4|ACL-RELCL 9|8|OBJ 10|1|PUNCT 11|1|PUNCT
+*B:	traditional Judaism &=inhales &-um . 677470_679780
+%mor:	adj|traditional-S1 propn|Judaism .
+%gra:	1|2|AMOD 2|0|ROOT 3|2|PUNCT
+*B:	and so had he approached me like . 680200_682800
+%mor:	cconj|and adv|so aux|have-Fin-Ind-Past-S3-irr pron|he-Prs-Nom-S3 verb|approach-Part-Past-S pron|I-Prs-Acc-S1 adp|like .
+%gra:	1|5|CC 2|5|ADVMOD 3|5|AUX 4|5|NSUBJ 5|0|ROOT 6|5|OBJ 7|5|COMPOUND-PRT 8|5|PUNCT
+*B:	eh offensively I think I would have . 683490_685720
+%mor:	intj|eh adv|offensively pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 aux|would-Fin-S verb|have-Inf-S .
+%gra:	1|4|DISCOURSE 2|4|ADVMOD 3|4|NSUBJ 4|0|ROOT 5|7|NSUBJ 6|7|AUX 7|4|CCOMP 8|4|PUNCT
+*B:	you know been on the defensive I would've retracted but because he just . 686480_689900
+%mor:	pron|you-Prs-Nom-S2 aux|know-Fin-Ind-Pres-S2 aux|be-Part-Past-S-irr adp|on det|the-Def-Art noun|defensive pron|I-Prs-Nom-S1 aux|would-Fin-S~aux|have-Inf-S verb|retract-Part-Past-S cconj|but sconj|because pron|he-Prs-Nom-S3 adv|just .
+%gra:	1|6|NSUBJ 2|6|AUX 3|6|COP 4|6|CASE 5|6|DET 6|0|ROOT 7|10|NSUBJ 8|10|AUX 9|10|AUX 10|6|ACL-RELCL 11|13|CC 12|13|MARK 13|14|NSUBJ 14|6|ADVMOD 15|6|PUNCT
+*B:	was interested you know he was . 690710_692090
+%mor:	aux|be-Fin-Ind-Past-S3-irr adj|interested-S1 pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr .
+%gra:	1|2|COP 2|0|ROOT 3|4|NSUBJ 4|2|CCOMP 5|6|NSUBJ 6|4|CCOMP 7|2|PUNCT
+*B:	he just . 692410_692910
+%mor:	pron|he-Prs-Nom-S3 adv|just .
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|PUNCT
+*B:	opened himself up he opened up his home it was beau- it was beautiful . 693230_697240
+%mor:	verb|open-Fin-Ind-Past-S3 pron|himself-Prs-Acc-reflx-S3 adp|up pron|he-Prs-Nom-S3 verb|open-Fin-Ind-Past-S3 adp|up pron|his-Prs-Gen-S3 noun|home-Acc pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr intj|beau pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adj|beautiful-S1 .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMPOUND-PRT 4|5|NSUBJ 5|1|PARATAXIS 6|5|COMPOUND-PRT 7|8|NMOD-POSS 8|5|OBJ 9|11|NSUBJ 10|14|COP 11|14|REPARANDUM 12|14|NSUBJ 13|14|COP 14|1|PARATAXIS 15|1|PUNCT
+*B:	meal and the beautiful environment and he just opened up his . 698460_702370
+%mor:	noun|meal cconj|and det|the-Def-Art adj|beautiful-S1 noun|environment cconj|and pron|he-Prs-Nom-S3 adv|just verb|open-Fin-Ind-Past-S3 adp|up pron|his-Prs-S3 .
+%gra:	1|0|ROOT 2|5|CC 3|5|DET 4|5|AMOD 5|1|CONJ 6|9|CC 7|9|NSUBJ 8|9|ADVMOD 9|1|CONJ 10|9|COMPOUND-PRT 11|9|OBJ 12|1|PUNCT
+*A:	mm-hm . 700800_701380
+%mor:	intj|mm–hm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	his life to us . 702560_703510
+%mor:	pron|his-Prs-Gen-S3 noun|life adp|to pron|we-Prs-Acc-P1 .
+%gra:	1|2|NMOD-POSS 2|0|ROOT 3|4|CASE 4|2|NMOD 5|2|PUNCT
+*A:	yes . 703650_704330
+%mor:	intj|yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	um . 704230_704910
+%mor:	intj|um .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	eh you know he and he . 706620_708030
+%mor:	intj|eh pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|he-Prs-Nom-S3 cconj|and pron|he-Prs-Nom-S3 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|6|CC 6|4|CONJ 7|3|PUNCT
+*B:	I could tell he felt like a little bit . 708270_710020
+%mor:	pron|I-Prs-Nom-S1 aux|could-Fin-S verb|tell-Inf-S pron|he-Prs-Nom-S3 verb|feel-Fin-Ind-Past-S3-irr adp|like det|a-Ind-Art adj|little-S1 noun|bit .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|NSUBJ 5|3|CCOMP 6|9|CASE 7|9|DET 8|9|AMOD 9|5|OBL 10|3|PUNCT
+*B:	&=exhale a- almost he felt sorry for us . 710670_712510
+%mor:	intj|a adv|almost pron|he-Prs-Nom-S3 verb|feel-Fin-Ind-Past-S3-irr adj|sorry-S1 adp|for pron|we-Prs-Acc-P1 .
+%gra:	1|4|DISCOURSE 2|4|ADVMOD 3|4|NSUBJ 4|0|ROOT 5|4|XCOMP 6|7|CASE 7|5|OBL 8|4|PUNCT
+*A:	yes . 712830_713310
+%mor:	intj|yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	and I I thought to myself you know eh I I . 713420_716260
+%mor:	cconj|and pron|I-Prs-Nom-S1 pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Past-S1-irr adp|to pron|myself-Prs-Acc-reflx-S1 pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 intj|eh pron|I-Prs-Nom-S1 pron|I-Prs-Nom-S1 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|NSUBJ 4|0|ROOT 5|6|CASE 6|4|OBL 7|8|NSUBJ 8|4|PARATAXIS 9|8|DISCOURSE 10|8|VOCATIVE 11|10|FLAT 12|4|PUNCT
+*B:	eh I could express some of the thoughts that I might have felt at that time that . 716470_719550
+%mor:	intj|eh pron|I-Prs-Nom-S1 aux|could-Fin-S verb|express-Inf-S det|some-Def-Ind adp|of det|the-Def-Art noun|thought-Plur pron|that-Rel pron|I-Prs-Nom-S1 aux|might-Fin-S aux|have-Inf-S verb|feel-Part-Past-S-irr adp|at det|that-Def-Dem-Sing noun|time pron|that-Dem .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|13|OBJ 10|13|NSUBJ 11|13|AUX 12|13|AUX 13|8|ACL-RELCL 14|16|CASE 15|16|DET 16|13|OBL 17|13|OBL-UNMARKED 18|4|PUNCT
+*B:	you know you feel sorry for me rabbi I'm Phi_Beta_Kappa Sigma_Xi honors going for a doctorate in . 719710_724820
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|feel-Fin-Ind-Pres-S2 adj|sorry-S1 adp|for pron|I-Prs-Acc-S1 noun|rabbi pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 propn|PhiBetaKappa propn|SigmaXi noun|honor-Plur verb|go-Ger-S adp|for det|a-Ind-Art noun|doctorate adp|in .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NSUBJ 4|2|CCOMP 5|4|XCOMP 6|8|CASE 7|8|NMOD-POSS 8|5|OBL 9|13|NSUBJ 10|13|COP 11|13|COMPOUND 12|13|COMPOUND 13|4|PARATAXIS 14|13|ACL 15|17|CASE 16|17|DET 17|14|OBL 18|14|OBL 19|2|PUNCT
+*A:	&=laughs . 724690_725270
+*B:	in one of the top universities in clinical psychology you_know I'm I I I have a . 725110_728950
+%mor:	adp|in num|one adp|of det|the-Def-Art adj|top-S1 noun|university-Plur adp|in adj|clinical-S1 noun|psychology noun|youknow pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 pron|I-Prs-Nom-S1 pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 det|a-Ind-Art .
+%gra:	1|2|CASE 2|16|OBL 3|6|CASE 4|6|DET 5|6|AMOD 6|2|NMOD 7|10|CASE 8|9|AMOD 9|10|COMPOUND 10|6|NMOD 11|13|NSUBJ 12|16|COP 13|16|REPARANDUM 14|16|NSUBJ 15|16|NSUBJ 16|0|ROOT 17|16|PUNCT 18|16|PUNCT
+*A:	&=laughs . 728310_728630
+*B:	future ahead of me and you live in this small apartment in Jerusalem you know and you're you're an older rabbi and you feel sorry for me . 729470_735900
+%mor:	noun|future adv|ahead adp|of pron|I-Prs-Acc-S1 cconj|and pron|you-Prs-Nom-S2 verb|live-Fin-Ind-Pres-S2 adp|in det|this-Def-Dem-Sing adj|small-S1 noun|apartment adp|in propn|Jerusalem pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 cconj|and pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 det|a-Ind-Art adj|old-Cmp-S1 noun|rabbi cconj|and pron|you-Prs-Nom-S2 verb|feel-Fin-Ind-Pres-S2 adj|sorry-S1 adp|for pron|I-Prs-Acc-S1 .
+%gra:	1|0|ROOT 2|1|ADVMOD 3|4|CASE 4|1|NMOD 5|7|CC 6|7|NSUBJ 7|1|CONJ 8|11|CASE 9|11|DET 10|11|AMOD 11|7|OBL 12|13|CASE 13|11|NMOD 14|15|NSUBJ 15|7|PARATAXIS 16|23|CC 17|23|NSUBJ 18|23|COP 19|23|NSUBJ 20|23|COP 21|23|DET 22|23|AMOD 23|7|CONJ 24|26|CC 25|26|NSUBJ 26|23|CONJ 27|26|XCOMP 28|29|CASE 29|27|OBL 30|1|PUNCT
+*A:	&=laughs . 733040_733650
+*B:	so . 736720_737330
+%mor:	adv|so .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	but he made me feel as if he's got a jewel . 737890_741780
+%mor:	cconj|but pron|he-Prs-Nom-S3 verb|make-Fin-Ind-Past-S3-irr pron|I-Prs-Acc-S1 verb|feel-Inf-S sconj|as sconj|if pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr det|a-Ind-Art noun|jewel-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|3|XCOMP 6|10|MARK 7|6|FIXED 8|10|NSUBJ 9|10|AUX 10|5|ADVCL 11|12|DET 12|10|OBJ 13|3|PUNCT
+*B:	not I don't think he was trying to do it . 742470_744340
+%mor:	part|not pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|think-Inf-S pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|try-Part-Pres-S part|to verb|do-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|8|NSUBJ 7|8|AUX 8|5|CCOMP 9|10|MARK 10|8|XCOMP 11|10|OBJ 12|5|PUNCT
+*B:	you know in any &-um . 744930_747050
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 adp|in det|any-Def-Ind .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+*B:	&=tsk subversive manner he wo- he just made me feel that that that he he wishes he could share something with me . 747600_753920
+%mor:	adj|subversive-S1 noun|manner pron|he-Prs-Nom-S3 adv|wo pron|he-Prs-Nom-S3 adv|just verb|make-Fin-Ind-Past-S3-irr pron|I-Prs-Acc-S1 verb|feel-Inf-S sconj|that sconj|that sconj|that pron|he-Prs-Nom-S3 pron|he-Prs-Nom-S3 verb|wish-Fin-Ind-Pres-S3 pron|he-Prs-Nom-S3 aux|could-Fin-S verb|share-Inf-S pron|something-Ind-S1 adp|with pron|I-Prs-Acc-S1 .
+%gra:	1|2|AMOD 2|7|NSUBJ-OUTER 3|4|NSUBJ 4|2|ACL-RELCL 5|7|NSUBJ 6|7|ADVMOD 7|0|ROOT 8|7|OBJ 9|7|XCOMP 10|15|MARK 11|15|MARK 12|15|MARK 13|15|NSUBJ 14|15|NSUBJ 15|9|CCOMP 16|18|NSUBJ 17|18|AUX 18|15|CCOMP 19|18|OBJ 20|21|CASE 21|18|OBL 22|7|PUNCT
+*B:	but it's unfortunate that he really can't because of my lack of education . 754360_758940
+%mor:	cconj|but pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|unfortunate-S1 sconj|that pron|he-Prs-Nom-S3 adv|really aux|can-Fin-S~part|not adp|because adp|of pron|my-Prs-Gen-S1 noun|lack adp|of noun|education .
+%gra:	1|4|CC 2|4|EXPL 3|4|COP 4|0|ROOT 5|8|MARK 6|8|NSUBJ 7|8|ADVMOD 8|4|CSUBJ 9|13|ADVMOD 10|13|CASE 11|10|FIXED 12|13|NMOD-POSS 13|8|OBL 14|15|CASE 15|13|NMOD 16|4|PUNCT
+*B:	so I was looking like I was trying to get a glimpse like what he's what he's holding there what kind of . 759780_764550
+%mor:	adv|so pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr verb|look-Part-Pres-S sconj|like pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr verb|try-Part-Pres-S part|to verb|get-Inf-S det|a-Ind-Art noun|glimpse-Acc adp|like pron|what-Rel-S1 pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|what-Rel-S1 pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|hold-Part-Pres-S adv|there det|what-Def-Int noun|kind adp|of .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|8|MARK 6|8|NSUBJ 7|8|AUX 8|4|ADVCL 9|10|MARK 10|8|XCOMP 11|12|DET 12|10|OBJ 13|14|CASE 14|12|NMOD 15|17|NSUBJ 16|17|COP 17|14|ACL-RELCL 18|20|NSUBJ 19|20|AUX 20|17|ACL-RELCL 21|20|ADVMOD 22|23|DET 23|20|OBL-UNMARKED 24|23|NMOD 25|4|PUNCT
+*B:	pearl he's holding &=laughs there which really that pearl was was . 765140_768420
+%mor:	noun|pearl pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|hold-Part-Pres-S adv|there pron|which-Rel-S1 adv|really det|that-Def-Dem-Sing noun|pearl aux|be-Fin-Ind-Past-S3-irr aux|be-Fin-Ind-Past-S3-irr .
+%gra:	1|4|VOCATIVE 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|ADVMOD 6|7|NSUBJ 7|4|ADVMOD 8|9|DET 9|6|NSUBJ 10|7|COP 11|4|PARATAXIS 12|4|PUNCT
+*B:	Judaism you know he he was he was holding a very meaningful . 769410_773650
+%mor:	propn|Judaism pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|he-Prs-Nom-S3 pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|hold-Part-Pres-S det|a-Ind-Art adv|very adj|meaningful-S1 .
+%gra:	1|3|VOCATIVE 2|3|NSUBJ 3|0|ROOT 4|9|REPARANDUM 5|9|REPARANDUM 6|9|REPARANDUM 7|9|NSUBJ 8|9|AUX 9|3|CCOMP 10|12|DET 11|12|ADVMOD 12|9|XCOMP 13|3|PUNCT
+*B:	life you know he he &-um . 774720_776890
+%mor:	noun|life pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|he-Prs-Nom-S3 pron|he-Prs-Nom-S3 .
+%gra:	1|0|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|5|NSUBJ 5|3|CCOMP 6|1|PUNCT
+*B:	I I was looking I was a person who was looking for spirituality I was a person f- who was looking for teachers . 777200_782410
+%mor:	pron|I-Prs-Nom-S1 pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr verb|look-Part-Pres-S pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr det|a-Ind-Art noun|person pron|who-Rel aux|be-Fin-Ind-Past-S3-irr verb|look-Part-Pres-S adp|for noun|spirituality pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr det|a-Ind-Art noun|person intj|f pron|who-Rel aux|be-Fin-Ind-Past-S3-irr verb|look-Part-Pres-S adp|for noun|teacher-Plur .
+%gra:	1|4|NSUBJ 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|8|NSUBJ 6|8|COP 7|8|DET 8|4|CCOMP 9|11|NSUBJ 10|11|AUX 11|8|ACL-RELCL 12|13|CASE 13|11|OBL 14|17|NSUBJ 15|17|COP 16|17|DET 17|4|PARATAXIS 18|17|REPARANDUM 19|21|NSUBJ 20|21|AUX 21|17|ACL-RELCL 22|23|CASE 23|21|OBL 24|4|PUNCT
+*B:	in my travels in life and I had met some you know &-um . 782600_787330
+%mor:	adp|in pron|my-Prs-Gen-S1 noun|travel-Plur adp|in noun|life cconj|and pron|I-Prs-Nom-S1 aux|have-Fin-Ind-Past-S1-irr verb|meet-Part-Past-S-irr det|some-Def-Ind pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 .
+%gra:	1|3|CASE 2|3|NMOD-POSS 3|9|OBL 4|5|CASE 5|3|NMOD 6|9|CC 7|9|NSUBJ 8|9|AUX 9|0|ROOT 10|9|OBJ 11|12|NSUBJ 12|10|ACL-RELCL 13|9|PUNCT
+*B:	some friends and some older people in my travels that that I . 788550_792960
+%mor:	det|some-Def-Ind noun|friend-Plur cconj|and det|some-Def-Ind adj|old-Cmp-S1 noun|person-Plur adp|in pron|my-Prs-Gen-S1 noun|travel-Plur sconj|that pron|that-Dem pron|I-Prs-Nom-S1 .
+%gra:	1|2|DET 2|0|ROOT 3|6|CC 4|6|DET 5|6|AMOD 6|2|CONJ 7|9|CASE 8|9|NMOD-POSS 9|6|NMOD 10|11|MARK 11|2|APPOS 12|11|FLAT 13|2|PUNCT
+*B:	considered wise people who I could learn from . 793750_796210
+%mor:	verb|consider-Part-Past-S adj|wise-S1 noun|person-Plur-Acc pron|who-Rel pron|I-Prs-Nom-S1 aux|could-Fin-S verb|learn-Inf-S adp|from .
+%gra:	1|0|ROOT 2|3|AMOD 3|1|OBJ 4|7|OBJ 5|7|NSUBJ 6|7|AUX 7|3|ACL-RELCL 8|4|CASE 9|1|PUNCT
+*A:	yes . 796410_796700
+%mor:	intj|yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	this was a person who I right away identified as as a truly wise person he like he had . 796620_802730
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|person pron|who-Rel pron|I-Prs-Nom-S1 adv|right adv|away verb|identify-Part-Past-S adp|as adp|as det|a-Ind-Art adv|truly adj|wise-S1 noun|person pron|he-Prs-Nom-S3 verb|like-Fin-Ind-Pres-S3 pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Past-S3-irr .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|0|ROOT 5|9|NSUBJ-PASS 6|8|NSUBJ 7|8|ADVMOD 8|4|ACL-RELCL 9|4|ACL-RELCL 10|15|CASE 11|15|CASE 12|15|DET 13|14|ADVMOD 14|15|AMOD 15|9|OBL 16|17|NSUBJ 17|15|ACL-RELCL 18|19|NSUBJ 19|17|CCOMP 20|4|PUNCT
+*B:	windows which you know his eyes were like windows to his heart which ju- . 803400_807110
+%mor:	noun|window-Plur pron|which-Rel-S1 pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|his-Prs-Gen-S3 noun|eye-Plur-Acc aux|be-Fin-Ind-Past-P3-irr adp|like noun|window-Plur adp|to pron|his-Prs-Gen-S3 noun|heart pron|which-Rel-S1 intj|ju .
+%gra:	1|9|NSUBJ 2|4|OBJ 3|4|NSUBJ 4|1|ACL-RELCL 5|6|NMOD-POSS 6|4|OBJ 7|9|COP 8|9|CASE 9|0|ROOT 10|12|CASE 11|12|NMOD-POSS 12|9|NMOD 13|14|NSUBJ 14|9|ACL-RELCL 15|9|PUNCT
+*B:	spoke through it just . 807660_808580
+%mor:	verb|speak-Fin-Ind-Past-S3-irr adp|through pron|it-Prs-Acc-S3 adv|just .
+%gra:	1|0|ROOT 2|3|CASE 3|1|OBL 4|1|ADVMOD 5|1|PUNCT
+@End

@@ -1,0 +1,305 @@
+@UTF8
+@PID:	11312/t-00001118-1
+@Begin
+@Languages:	eng
+@Participants:	A Subject, B Subject
+@ID:	eng|eng|A|||||Subject|||
+@ID:	eng|eng|B|||||Subject|||
+@Media:	6467, audio
+*B:	That's were , that's where I guess , they would , um , they get involved in initial public offering , stock offerings . 462580_468590
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 aux|be-Fin-Ind-Past-P3-irr cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|where pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 cm|cm pron|they-Prs-Nom-P3 aux|would-Fin-S cm|cm intj|um cm|cm pron|they-Prs-Nom-P3 aux|get-Fin-Ind-Pres-P3 verb|involve-Part-Past-S adp|in adj|initial-S1 adj|public-S1 noun|offering-Ger cm|cm noun|stock noun|offering-Plur .
+%gra:	1|3|NSUBJ 2|3|COP 3|18|REPARANDUM 4|3|PUNCT 5|7|NSUBJ 6|7|COP 7|18|ADVMOD 8|9|NSUBJ 9|7|ADVCL-RELCL 10|12|PUNCT 11|18|NSUBJ-PASS 12|18|REPARANDUM 13|12|PUNCT 14|18|DISCOURSE 15|14|PUNCT 16|18|NSUBJ-PASS 17|18|AUX-PASS 18|0|ROOT 19|22|CASE 20|22|AMOD 21|22|AMOD 22|18|OBL 23|25|PUNCT 24|25|COMPOUND 25|22|APPOS 26|18|PUNCT
+*A:	mhm . 468320_468920
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	for companies , . 468640_469370
+%mor:	adp|for noun|company-Plur cm|cm .
+%gra:	1|2|CASE 2|0|ROOT 3|2|PUNCT 4|2|PUNCT
+*A:	yeah . 469830_470120
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	Listing companies on exchanges , creating ah , ah , &~de depositories receipts in the United States for foreign companies , . 470130_478900
+%mor:	verb|Listing-Ger-S noun|company-Plur-Acc adp|on noun|exchange-Plur cm|cm verb|create-Part-Pres-S intj|ah cm|cm intj|ah cm|cm noun|depository-Plur noun|receipt-Plur-Acc adp|in det|the-Def-Art verb|Unite-Part-Past-S propn|State-Plur adp|for adj|foreign-S1 noun|company-Plur cm|cm .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|CASE 4|2|NMOD 5|6|PUNCT 6|1|CONJ 7|12|DISCOURSE 8|7|PUNCT 9|12|DISCOURSE 10|9|PUNCT 11|12|COMPOUND 12|6|OBJ 13|16|CASE 14|16|DET 15|16|AMOD 16|12|NMOD 17|19|CASE 18|19|AMOD 19|12|NMOD 20|1|PUNCT 21|1|PUNCT
+*B:	and so forth . 479500_479980
+%mor:	cconj|and adv|so adv|forth .
+%gra:	1|3|CC 2|3|ADVMOD 3|0|ROOT 4|3|PUNCT
+*A:	Right . 480230_480660
+%mor:	adj|right-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	All sorts of things just to raise capital on public markets . 480720_484610
+%mor:	det|all-Def-Tot noun|sort-Plur adp|of noun|thing-Plur adv|just part|to verb|raise-Inf-S noun|capital-Acc adp|on adj|public-S1 noun|market-Plur .
+%gra:	1|2|DET 2|0|ROOT 3|4|CASE 4|2|NMOD 5|7|ADVMOD 6|7|MARK 7|2|ACL 8|7|OBJ 9|11|CASE 10|11|AMOD 11|7|OBL 12|2|PUNCT
+*A:	mhm . 485030_485420
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	And then there's the debt side , which is , um , the side which deals in bonds , . 486510_493560
+%mor:	cconj|and adv|then pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|debt noun|side cm|cm pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 cm|cm intj|um cm|cm det|the-Def-Art noun|side pron|which-Rel-S1 verb|deal-Fin-Ind-Pres-S3 adp|in noun|bond-Plur cm|cm .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|EXPL 4|0|ROOT 5|7|DET 6|7|COMPOUND 7|4|NSUBJ 8|15|PUNCT 9|15|NSUBJ 10|15|COP 11|10|PUNCT 12|15|DISCOURSE 13|12|PUNCT 14|15|DET 15|7|ACL-RELCL 16|17|NSUBJ 17|15|ACL-RELCL 18|19|CASE 19|17|OBL 20|4|PUNCT 21|4|PUNCT
+*A:	mhm . 493870_494290
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	they , they go out and they try and find buyers for bonds . 494230_496950
+%mor:	pron|they-Prs-Nom-P3 cm|cm pron|they-Prs-Nom-P3 verb|go-Fin-Ind-Pres-P3 adp|out cconj|and pron|they-Prs-Nom-P3 verb|try-Fin-Ind-Pres-P3 cconj|and verb|find-Fin-Ind-Pres-P3 noun|buyer-Plur-Acc adp|for noun|bond-Plur .
+%gra:	1|4|VOCATIVE 2|1|PUNCT 3|4|NSUBJ 4|0|ROOT 5|4|COMPOUND-PRT 6|8|CC 7|8|NSUBJ 8|4|CONJ 9|10|CC 10|8|CONJ 11|10|OBJ 12|13|CASE 13|10|OBL 14|4|PUNCT
+*A:	Right . 497210_497550
+%mor:	adj|right-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	Institutional investors and so forth , &=breath , and then you've got the um , . 497460_501150
+%mor:	adj|institutional-S1 noun|investor-Plur cconj|and adv|so adv|forth cm|cm cm|cm cconj|and adv|then pron|you-Prs-Nom-S2~aux|have-Fin-Ind-Pres-S2 verb|get-Part-Past-S-irr det|the-Def-Art intj|um cm|cm .
+%gra:	1|2|AMOD 2|0|ROOT 3|5|CC 4|5|ADVMOD 5|2|CONJ 6|12|PUNCT 7|12|PUNCT 8|12|CC 9|12|ADVMOD 10|12|NSUBJ 11|12|AUX 12|2|CONJ 13|14|DET 14|12|DISCOURSE 15|2|PUNCT 16|2|PUNCT
+*B:	ah , the traders , the stocks and bonds traders and . 501780_505120
+%mor:	intj|ah cm|cm det|the-Def-Art noun|trader-Plur cm|cm det|the-Def-Art noun|stock-Plur cconj|and noun|bond-Plur noun|trader-Plur cconj|and .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|DET 4|0|ROOT 5|10|PUNCT 6|10|DET 7|4|CONJ 8|10|CC 9|10|COMPOUND 10|4|CONJ 11|10|CC 12|4|PUNCT
+*A:	Right . 504290_504820
+%mor:	adj|right-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	And the for- , I don't know if they do foreign exchange but , they , I'm sure they do even have that hedging and stuff . 505610_510460
+%mor:	cconj|and det|the-Def-Art intj|for cm|cm pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S sconj|if pron|they-Prs-Nom-P3 verb|do-Fin-Ind-Pres-P3 adj|foreign-S1 noun|exchange-Acc cconj|but cm|cm pron|they-Prs-Nom-P3 cm|cm pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|sure-S1 pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Pres-P3 adv|even verb|have-Inf-S det|that-Def-Dem-Sing noun|hedge-Acc-Ger cconj|and noun|stuff .
+%gra:	1|8|CC 2|3|DET 3|8|REPARANDUM 4|3|PUNCT 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|0|ROOT 9|11|MARK 10|11|NSUBJ 11|8|CCOMP 12|13|AMOD 13|11|OBJ 14|20|CC 15|14|PUNCT 16|20|REPARANDUM 17|16|PUNCT 18|20|NSUBJ 19|20|COP 20|8|CONJ 21|24|NSUBJ 22|24|AUX 23|24|ADVMOD 24|20|CCOMP 25|26|DET 26|24|OBJ 27|28|CC 28|26|CONJ 29|8|PUNCT
+*B:	And then , aside from all those clear cut , kind of special , ah . 511230_515520
+%mor:	cconj|and adv|then cm|cm adv|aside adp|from det|all-Def-Tot det|that-Def-Dem-Plur adj|clear-S1 noun|cut cm|cm noun|kind adp|of adj|special-S1 cm|cm intj|ah .
+%gra:	1|13|CC 2|13|ADVMOD 3|2|PUNCT 4|13|ADVMOD 5|9|CASE 6|9|DET-PREDET 7|9|DET 8|9|AMOD 9|4|OBL 10|4|PUNCT 11|13|ADVMOD 12|11|FIXED 13|0|ROOT 14|15|PUNCT 15|13|DISCOURSE 16|13|PUNCT
+*B:	ah , focus services , they've got , their , at least the big ones , like Goldman Sachs and others , . 516469_523500
+%mor:	intj|ah cm|cm verb|focus-Fin-Imp-S noun|service-Plur-Acc cm|cm pron|they-Prs-Nom-P3~aux|have-Fin-Ind-Pres-P3 verb|get-Part-Past-S-irr cm|cm pron|their-Prs-Gen-P3 cm|cm adp|at adj|least-Sup-S1 det|the-Def-Art adj|big-S1 noun|one-Plur-Acc cm|cm adp|like propn|Goldman propn|Sachs cconj|and noun|other-Plur cm|cm .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|0|ROOT 4|3|OBJ 5|8|PUNCT 6|8|NSUBJ 7|8|AUX 8|3|PARATAXIS 9|10|PUNCT 10|16|REPARANDUM 11|10|PUNCT 12|16|ADVMOD 13|12|FIXED 14|16|DET 15|16|AMOD 16|8|OBJ 17|20|PUNCT 18|20|CASE 19|20|COMPOUND 20|16|NMOD 21|22|CC 22|20|CONJ 23|3|PUNCT 24|3|PUNCT
+*B:	have their strategic advisor services .
+%mor:	verb|have-Fin-Imp-S pron|their-Prs-Gen-P3 adj|strategic-S1 noun|advisor noun|service-Plur-Acc .
+%gra:	1|0|ROOT 2|5|NMOD-POSS 3|5|AMOD 4|5|COMPOUND 5|1|OBJ 6|1|PUNCT
+*B:	Now the Goldman Sachs that works for Deutch Telecom , . 524060_528990
+%mor:	adv|now det|the-Def-Art propn|Goldman propn|Sachs pron|that-Rel verb|work-Fin-Ind-Pres-S3 adp|for propn|Deutch propn|Telecom cm|cm .
+%gra:	1|4|ADVMOD 2|4|DET 3|4|COMPOUND 4|0|ROOT 5|6|NSUBJ 6|4|ACL-RELCL 7|9|CASE 8|9|COMPOUND 9|6|OBL 10|4|PUNCT 11|4|PUNCT
+*A:	mhm , . 529010_529200
+%mor:	intj|mhm cm|cm .
+%gra:	1|0|ROOT 2|1|PUNCT 3|1|PUNCT
+*B:	in privatization , . 529030_530350
+%mor:	adp|in noun|privatization cm|cm .
+%gra:	1|2|CASE 2|0|ROOT 3|2|PUNCT 4|2|PUNCT
+*B:	um , they are in the equity side , they , They're doing what David did , they . 531190_535840
+%mor:	intj|um cm|cm pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Pres-P3 adp|in det|the-Def-Art noun|equity noun|side cm|cm pron|they-Prs-Nom-P3 cm|cm pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|do-Part-Pres-S pron|what-Rel-S1 propn|David aux|do-Fin-Ind-Past-S3-irr cm|cm pron|they-Prs-Nom-P3 .
+%gra:	1|8|DISCOURSE 2|1|PUNCT 3|8|NSUBJ 4|8|COP 5|8|CASE 6|8|DET 7|8|COMPOUND 8|0|ROOT 9|10|PUNCT 10|14|VOCATIVE 11|10|PUNCT 12|14|NSUBJ 13|14|AUX 14|8|PARATAXIS 15|14|OBJ 16|17|NSUBJ 17|15|ACL-RELCL 18|19|PUNCT 19|8|PARATAXIS 20|8|PUNCT
+*A:	Right . 535770_536280
+%mor:	adj|right-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	They're working with us to , to , um , help sell us as a company . 536140_541540
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|work-Part-Pres-S adp|with pron|we-Prs-Acc-P1 part|to cm|cm part|to cm|cm intj|um cm|cm verb|help-Inf-S verb|sell-Inf-S pron|we-Prs-Acc-P1 adp|as det|a-Ind-Art noun|company .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|CASE 5|3|OBL 6|12|MARK 7|6|PUNCT 8|12|MARK 9|8|PUNCT 10|12|DISCOURSE 11|10|PUNCT 12|3|XCOMP 13|12|XCOMP 14|13|OBJ 15|17|CASE 16|17|DET 17|13|OBL 18|3|PUNCT
+*A:	mhm . 541660_542130
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	To investors . 542570_543330
+%mor:	adp|to noun|investor-Plur .
+%gra:	1|2|CASE 2|0|ROOT 3|2|PUNCT
+*B:	On the public market .
+%mor:	adp|on det|the-Def-Art adj|public-S1 noun|market .
+%gra:	1|4|CASE 2|4|DET 3|4|AMOD 4|0|ROOT 5|4|PUNCT
+*B:	On the stock exchanges .
+%mor:	adp|on det|the-Def-Art noun|stock noun|exchange-Plur .
+%gra:	1|4|CASE 2|4|DET 3|4|COMPOUND 4|0|ROOT 5|4|PUNCT
+*B:	In Tokyo , New_York , Wash- , ah , Frankfurt , London , and so forth . 544440_552320
+%mor:	adp|in propn|Tokyo cm|cm propn|NewYork cm|cm propn|Wash cm|cm intj|ah cm|cm propn|Frankfurt cm|cm propn|London cm|cm cconj|and adv|so adv|forth .
+%gra:	1|2|CASE 2|0|ROOT 3|4|PUNCT 4|2|CONJ 5|6|PUNCT 6|2|CONJ 7|8|PUNCT 8|2|DISCOURSE 9|8|PUNCT 10|2|CONJ 11|12|PUNCT 12|10|CONJ 13|16|PUNCT 14|16|CC 15|16|ADVMOD 16|2|CONJ 17|2|PUNCT
+*B:	But , the , the , the investment banks that are driving me crazy are always strategic investors . 553090_557650
+%mor:	cconj|but cm|cm det|the-Def-Art cm|cm det|the-Def-Art cm|cm det|the-Def-Art noun|investment noun|bank-Plur pron|that-Rel aux|be-Fin-Ind-Pres-P3 verb|drive-Part-Pres-S pron|I-Prs-Acc-S1 adj|crazy-S1 aux|be-Fin-Ind-Pres-P3 adv|always adj|strategic-S1 noun|investor-Plur .
+%gra:	1|18|CC 2|1|PUNCT 3|18|REPARANDUM 4|3|PUNCT 5|9|REPARANDUM 6|5|PUNCT 7|9|DET 8|9|COMPOUND 9|18|NSUBJ 10|12|NSUBJ 11|12|AUX 12|9|ACL-RELCL 13|12|OBJ 14|12|XCOMP 15|18|COP 16|18|ADVMOD 17|18|AMOD 18|0|ROOT 19|18|PUNCT
+*B:	Because they show up , and they , what they're out there to do is , there's a_lot_of companies that they can't , either can't raise money , or they can't raise the type of money they want on stock exchanges , . 558510_567560
+%mor:	sconj|because pron|they-Prs-Nom-P3 verb|show-Fin-Ind-Pres-P3 adp|up cm|cm cconj|and pron|they-Prs-Nom-P3 cm|cm pron|what-Rel-S1 pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 adv|out adv|there part|to verb|do-Inf-S aux|be-Fin-Ind-Pres-S3 cm|cm pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 noun|alotof noun|company-Plur pron|that-Rel pron|they-Prs-Nom-P3 aux|can-Fin-S~part|not cm|cm cconj|either aux|can-Fin-S~part|not verb|raise-Inf-S noun|money-Acc cm|cm cconj|or pron|they-Prs-Nom-P3 aux|can-Fin-S~part|not verb|raise-Inf-S det|the-Def-Art noun|type-Acc adp|of noun|money pron|they-Prs-Nom-P3 verb|want-Fin-Ind-Pres-P3 adp|on noun|stock noun|exchange-Plur cm|cm .
+%gra:	1|3|MARK 2|3|NSUBJ 3|19|ADVCL 4|3|COMPOUND-PRT 5|6|PUNCT 6|16|CC 7|19|REPARANDUM 8|7|PUNCT 9|19|NSUBJ-OUTER 10|12|NSUBJ 11|12|COP 12|9|ACL-RELCL 13|12|ADVMOD 14|15|MARK 15|13|ADVCL 16|19|COP 17|3|PUNCT 18|19|EXPL 19|0|ROOT 20|21|COMPOUND 21|19|NSUBJ 22|24|OBJ 23|24|NSUBJ 24|21|ACL-RELCL 25|22|ADVMOD 26|30|PUNCT 27|30|CC-PRECONJ 28|30|AUX 29|30|ADVMOD 30|19|PARATAXIS 31|30|OBJ 32|37|PUNCT 33|37|CC 34|37|NSUBJ 35|37|AUX 36|37|ADVMOD 37|19|CONJ 38|39|DET 39|37|OBJ 40|41|CASE 41|39|NMOD 42|43|NSUBJ 43|41|ACL-RELCL 44|46|CASE 45|46|COMPOUND 46|43|OBL 47|19|PUNCT 48|19|PUNCT
+*A:	mhm . 567940_568280
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	They don't have enough credit worthiness to go out and get a bond , . 568240_571400
+%mor:	pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Pres-P3~part|not verb|have-Inf-S adj|enough-S1 noun|credit noun|worthiness-Acc part|to verb|go-Inf-S adv|out cconj|and verb|get-Inf-S det|a-Ind-Art noun|bond-Acc cm|cm .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|7|AMOD 6|7|COMPOUND 7|4|OBJ 8|9|MARK 9|4|ADVCL 10|9|ADVMOD 11|12|CC 12|9|CONJ 13|14|DET 14|12|OBJ 15|4|PUNCT 16|4|PUNCT
+*A:	mhm . 571840_572260
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	um , ah , so the way they want to get capital is through offering a strategic stake . 572260_579130
+%mor:	intj|um cm|cm intj|ah cm|cm adv|so det|the-Def-Art noun|way pron|they-Prs-Nom-P3 verb|want-Fin-Ind-Pres-P3 part|to verb|get-Inf-S noun|capital-Acc aux|be-Fin-Ind-Pres-S3 sconj|through verb|offer-Part-Pres-S det|a-Ind-Art adj|strategic-S1 noun|stake-Acc .
+%gra:	1|15|DISCOURSE 2|1|PUNCT 3|15|DISCOURSE 4|3|PUNCT 5|15|ADVMOD 6|7|DET 7|15|NSUBJ-OUTER 8|9|NSUBJ 9|7|ACL-RELCL 10|11|MARK 11|9|XCOMP 12|11|OBJ 13|15|COP 14|15|MARK 15|0|ROOT 16|18|DET 17|18|AMOD 18|15|OBJ 19|15|PUNCT
+*B:	in their companies .
+%mor:	adp|in pron|their-Prs-Gen-P3 noun|company-Plur .
+%gra:	1|3|CASE 2|3|NMOD-POSS 3|0|ROOT 4|3|PUNCT
+*B:	Selling a piece of the company on , ah , ah pu- , ah , you know , ah , that changes hands privately . 580690_589340
+%mor:	verb|sell-Part-Pres-S det|a-Ind-Art noun|piece-Acc adp|of det|the-Def-Art noun|company adp|on cm|cm intj|ah cm|cm intj|ah intj|pu cm|cm intj|ah cm|cm pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 cm|cm intj|ah cm|cm pron|that-Rel verb|change-Fin-Ind-Pres-S3 noun|hand-Plur-Acc adv|privately .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|6|CASE 5|6|DET 6|3|NMOD 7|1|OBL 8|9|PUNCT 9|1|DISCOURSE 10|9|PUNCT 11|22|DISCOURSE 12|22|DISCOURSE 13|14|PUNCT 14|22|DISCOURSE 15|14|PUNCT 16|17|NSUBJ 17|22|PARATAXIS 18|19|PUNCT 19|22|DISCOURSE 20|19|PUNCT 21|22|NSUBJ 22|1|PARATAXIS 23|22|OBJ 24|22|ADVMOD 25|1|PUNCT
+*B:	Selling a piece of the company to a foreign investor usually . 590060_593440
+%mor:	verb|sell-Part-Pres-S det|a-Ind-Art noun|piece-Acc adp|of det|the-Def-Art noun|company adp|to det|a-Ind-Art adj|foreign-S1 noun|investor adv|usually .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|6|CASE 5|6|DET 6|3|NMOD 7|10|CASE 8|10|DET 9|10|AMOD 10|1|OBL 11|1|ADVMOD 12|1|PUNCT
+*A:	But they're selling it to you ? 593500_594790
+%mor:	cconj|but pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|sell-Part-Pres-S pron|it-Prs-Acc-S3 adp|to pron|you-Prs-Acc-S2 ?
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|CASE 7|4|OBL 8|4|PUNCT
+*B:	yeah . 595990_596290
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	oh . 596730_597080
+%mor:	intj|oh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	So for example , I mean , &-um without ah referring to any real deals , . 597130_603390
+%mor:	adv|so adp|for noun|example cm|cm pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 cm|cm sconj|without intj|ah verb|refer-Part-Pres-S adp|to det|any-Def-Ind adj|real-S1 noun|deal-Plur cm|cm .
+%gra:	1|6|ADVMOD 2|3|CASE 3|10|OBL 4|3|PUNCT 5|6|NSUBJ 6|10|PARATAXIS 7|6|PUNCT 8|10|MARK 9|10|DISCOURSE 10|0|ROOT 11|14|CASE 12|14|DET 13|14|AMOD 14|10|OBL 15|6|PUNCT 16|10|PUNCT
+*A:	mhm . 603560_603980
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	um , companies will come obvi- , ah , you know , there's , there's a_lot of ah , a_lot_of telecommunication companies that , that , . 604580_613880
+%mor:	intj|um cm|cm noun|company-Plur aux|will-Fin-S verb|come-Inf-S intj|obvi cm|cm intj|ah cm|cm pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 cm|cm pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 cm|cm pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 noun|alot adp|of intj|ah cm|cm noun|alotof noun|telecommunication noun|company-Plur pron|that-Rel cm|cm pron|that-Dem cm|cm .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|DISCOURSE 7|8|PUNCT 8|14|DISCOURSE 9|8|PUNCT 10|11|NSUBJ 11|14|PARATAXIS 12|11|PUNCT 13|14|EXPL 14|5|PARATAXIS 15|17|PUNCT 16|17|EXPL 17|14|PARATAXIS 18|17|NSUBJ 19|24|CASE 20|24|DISCOURSE 21|20|PUNCT 22|24|COMPOUND 23|24|COMPOUND 24|18|NMOD 25|27|NSUBJ 26|27|PUNCT 27|24|APPOS 28|5|PUNCT 29|5|PUNCT
+*B:	ah , that come out and , and , they look for &-um . 614540_619190
+%mor:	intj|ah cm|cm pron|that-Dem verb|come-Fin-Ind-Pres-P3 adp|out cconj|and cm|cm cconj|and cm|cm pron|they-Prs-Nom-P3 verb|look-Fin-Ind-Pres-P3 adp|for .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|0|ROOT 5|4|COMPOUND-PRT 6|11|CC 7|6|PUNCT 8|11|CC 9|8|PUNCT 10|11|NSUBJ 11|4|CONJ 12|11|OBL 13|4|PUNCT
+*B:	um &=clears:throat , for , for a &~stra you know , for a strategic ah , strategic investor .
+%mor:	intj|um cm|cm adp|for cm|cm adp|for det|a-Ind-Art pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 cm|cm adp|for det|a-Ind-Art adj|strategic-S1 intj|ah cm|cm adj|strategic-S1 noun|investor .
+%gra:	1|16|DISCOURSE 2|1|PUNCT 3|16|REPARANDUM 4|3|PUNCT 5|8|MARK 6|8|REPARANDUM 7|8|NSUBJ 8|16|PARATAXIS 9|8|PUNCT 10|16|CASE 11|16|DET 12|16|AMOD 13|16|DISCOURSE 14|13|PUNCT 15|16|AMOD 16|0|ROOT 17|16|PUNCT
+*B:	They're looking for someone to buy , they might be wanting to privatize in two or three years . 619790_629450
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|look-Part-Pres-S sconj|for pron|someone-Ind-S1 part|to verb|buy-Inf-S cm|cm pron|they-Prs-Nom-P3 aux|might-Fin-S aux|be-Inf-S verb|want-Part-Pres-S part|to verb|privatize-Inf-S adp|in num|two cconj|or num|three noun|year-Plur .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|7|MARK 5|7|NSUBJ 6|7|MARK 7|3|ADVCL 8|12|PUNCT 9|12|NSUBJ 10|12|AUX 11|12|AUX 12|3|PARATAXIS 13|14|MARK 14|12|XCOMP 15|19|CASE 16|19|NUMMOD 17|18|CC 18|16|CONJ 19|14|OBL 20|3|PUNCT
+*A:	mhm . 629440_629900
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	But , um , in the meantime , they want to shape up their company , so they'll sell what , twenty five percent of the company to a private , to a foreign investor . 630150_639200
+%mor:	cconj|but cm|cm intj|um cm|cm adp|in det|the-Def-Art noun|meantime cm|cm pron|they-Prs-Nom-P3 verb|want-Fin-Ind-Pres-P3 part|to verb|shape-Inf-S adp|up pron|their-Prs-Gen-P3 noun|company-Acc cm|cm sconj|so pron|they-Prs-Nom-P3~aux|will-Fin-S verb|sell-Inf-S pron|what-Int-S1 cm|cm num|twenty num|five noun|percent adp|of det|the-Def-Art noun|company adp|to det|a-Ind-Art noun|private cm|cm adp|to det|a-Ind-Art adj|foreign-S1 noun|investor .
+%gra:	1|10|CC 2|1|PUNCT 3|10|DISCOURSE 4|3|PUNCT 5|7|CASE 6|7|DET 7|10|OBL 8|7|PUNCT 9|10|NSUBJ 10|0|ROOT 11|12|MARK 12|10|XCOMP 13|12|COMPOUND-PRT 14|15|NMOD-POSS 15|12|OBJ 16|20|PUNCT 17|20|ADVMOD 18|20|NSUBJ 19|20|AUX 20|10|PARATAXIS 21|20|OBJ 22|25|PUNCT 23|24|COMPOUND 24|25|NUMMOD 25|21|APPOS 26|28|CASE 27|28|DET 28|25|NMOD 29|31|CASE 30|31|DET 31|28|NMOD 32|36|PUNCT 33|36|CASE 34|36|DET 35|36|AMOD 36|20|OBL 37|10|PUNCT
+*A:	mhm . 639010_639480
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	And the foreign investor will come in and , and , and restructure the company , and then together they'll go ah , go to the stock market . 640030_648800
+%mor:	cconj|and det|the-Def-Art adj|foreign-S1 noun|investor aux|will-Fin-S verb|come-Inf-S adv|in cconj|and cm|cm cconj|and cm|cm cconj|and verb|restructure-Inf-S det|the-Def-Art noun|company-Acc cm|cm cconj|and adv|then adv|together pron|they-Prs-Nom-P3~aux|will-Fin-S verb|go-Inf-S intj|ah cm|cm verb|go-Inf-S adp|to det|the-Def-Art noun|stock noun|market .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|6|ADVMOD 8|13|CC 9|8|PUNCT 10|13|CC 11|10|PUNCT 12|13|CC 13|6|CONJ 14|15|DET 15|13|OBJ 16|22|PUNCT 17|22|CC 18|22|ADVMOD 19|22|ADVMOD 20|22|NSUBJ 21|22|AUX 22|6|CONJ 23|22|DISCOURSE 24|25|PUNCT 25|22|PARATAXIS 26|29|CASE 27|29|DET 28|29|COMPOUND 29|25|OBL 30|6|PUNCT
+*A:	Right . 649560_649920
+%mor:	adj|right-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	And it's an opportunity , it's a big opportunity for a_lot_of companies out there . 650120_653520
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|opportunity cm|cm pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|big-S1 noun|opportunity adp|for noun|alotof noun|company-Plur adv|out adv|there .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|DET 5|0|ROOT 6|11|PUNCT 7|11|NSUBJ 8|11|COP 9|11|DET 10|11|AMOD 11|5|PARATAXIS 12|14|CASE 13|14|COMPOUND 14|11|NMOD 15|16|ADVMOD 16|11|ADVMOD 17|5|PUNCT
+*A:	But is that what you're dealing with , that's your realm of . 653950_657040
+%mor:	cconj|but aux|be-Fin-Ind-Pres-S3 pron|that-Dem pron|what-Rel-S1 pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|deal-Part-Pres-S adp|with cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|your-Prs-Gen-S2 noun|realm adp|of .
+%gra:	1|13|CC 2|4|COP 3|4|NSUBJ 4|13|NSUBJ 5|7|NSUBJ 6|7|AUX 7|4|ACL-RELCL 8|7|OBL 9|13|PUNCT 10|13|NSUBJ 11|13|COP 12|13|NMOD-POSS 13|0|ROOT 14|13|PUNCT 15|13|PUNCT
+*B:	Partly yes .
+%mor:	adv|partly intj|yes .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|PUNCT
+*B:	um , I mean , I work in an area , ah , which is involved in international ah , foreign investment , . 657650_663930
+%mor:	intj|um cm|cm pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 cm|cm pron|I-Prs-Nom-S1 verb|work-Fin-Ind-Pres-S1 adp|in det|a-Ind-Art noun|area cm|cm intj|ah cm|cm pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 verb|involve-Part-Past-S adp|in adj|international-S1 noun|ah cm|cm adj|foreign-S1 noun|investment cm|cm .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|7|PARATAXIS 5|4|PUNCT 6|7|NSUBJ 7|0|ROOT 8|10|CASE 9|10|DET 10|7|OBL 11|12|PUNCT 12|7|DISCOURSE 13|16|PUNCT 14|16|NSUBJ-PASS 15|16|AUX-PASS 16|10|ACL-RELCL 17|22|CASE 18|19|AMOD 19|16|OBL 20|22|PUNCT 21|22|AMOD 22|16|OBL 23|7|PUNCT 24|7|PUNCT
+*A:	mhm . 664150_664620
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	um , and , and , actually a whole range of , of foreign business .
+%mor:	intj|um cm|cm cconj|and cm|cm cconj|and cm|cm adv|actually det|a-Ind-Art adj|whole-S1 noun|range adp|of cm|cm adp|of adj|foreign-S1 noun|business .
+%gra:	1|10|DISCOURSE 2|1|PUNCT 3|10|CC 4|5|PUNCT 5|10|CC 6|5|PUNCT 7|10|ADVMOD 8|10|DET 9|10|AMOD 10|0|ROOT 11|15|CASE 12|11|PUNCT 13|15|CASE 14|15|AMOD 15|10|NMOD 16|10|PUNCT
+*B:	And um , you know one area is our global partnership , . 664840_673990
+%mor:	cconj|and intj|um cm|cm pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 num|one noun|area aux|be-Fin-Ind-Pres-S3 pron|our-Prs-Gen-P1 adj|global-S1 noun|partnership cm|cm .
+%gra:	1|5|CC 2|5|DISCOURSE 3|2|PUNCT 4|5|NSUBJ 5|0|ROOT 6|7|NUMMOD 7|11|NSUBJ 8|11|COP 9|11|NMOD-POSS 10|11|AMOD 11|5|CCOMP 12|5|PUNCT 13|5|PUNCT
+*B:	with Sprint and Francetelecom . 674450_676310
+%mor:	adp|with propn|Sprint cconj|and propn|Francetelecom .
+%gra:	1|2|CASE 2|0|ROOT 3|4|CC 4|2|CONJ 5|2|PUNCT
+*A:	Right . 676190_676580
+%mor:	adj|right-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	And another area is our foreign invest- , foreign investments . 677210_679890
+%mor:	cconj|and det|another-Def-Ind noun|area aux|be-Fin-Ind-Pres-S3 pron|our-Prs-Gen-P1 adj|foreign-S1 noun|invest cm|cm adj|foreign-S1 noun|investment-Plur .
+%gra:	1|7|CC 2|3|DET 3|7|NSUBJ 4|7|COP 5|10|NMOD-POSS 6|7|AMOD 7|0|ROOT 8|10|PUNCT 9|10|AMOD 10|7|CONJ 11|7|PUNCT
+*A:	okay .
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	ah , . 680020_681040
+%mor:	intj|ah cm|cm .
+%gra:	1|0|ROOT 2|1|PUNCT 3|1|PUNCT
+*B:	And so , ah , we get all these , like I said , we get all these investment banks coming to us , and ah , . 680900_687480
+%mor:	cconj|and adv|so cm|cm intj|ah cm|cm pron|we-Prs-Nom-P1 verb|get-Fin-Ind-Pres-P1 det|all-Def-Tot pron|this-Dem-P1 cm|cm sconj|like pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr cm|cm pron|we-Prs-Nom-P1 verb|get-Fin-Ind-Pres-P1 det|all-Def-Tot det|this-Def-Dem-Plur noun|investment noun|bank-Plur-Acc verb|come-Ger-S adp|to pron|we-Prs-Acc-P1 cm|cm cconj|and intj|ah cm|cm .
+%gra:	1|7|CC 2|7|DISCOURSE 3|2|PUNCT 4|7|DISCOURSE 5|4|PUNCT 6|7|NSUBJ 7|0|ROOT 8|9|DET-PREDET 9|7|OBJ 10|16|PUNCT 11|13|MARK 12|13|NSUBJ 13|7|ADVCL 14|13|PUNCT 15|16|NSUBJ 16|7|PARATAXIS 17|20|DET-PREDET 18|20|DET 19|20|COMPOUND 20|16|OBJ 21|20|ACL 22|23|CASE 23|21|OBL 24|26|PUNCT 25|26|CC 26|16|DISCOURSE 27|7|PUNCT 28|7|PUNCT
+*B:	and they're li- , they're , they're salesmen , and they've , they've , they've got something to hock . 688710_692580
+%mor:	cconj|and pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 intj|li cm|cm pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 cm|cm pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 noun|salesmen-Plur cm|cm cconj|and pron|they-Prs-Nom-P3~aux|have-Fin-Ind-Pres-P3 cm|cm pron|they-Prs-Nom-P3~aux|have-Fin-Ind-Pres-P3 cm|cm pron|they-Prs-Nom-P3~aux|have-Fin-Ind-Pres-P3 verb|get-Part-Past-S-irr pron|something-Ind-S1 part|to verb|hock-Inf-S .
+%gra:	1|11|CC 2|11|NSUBJ 3|11|REPARANDUM 4|11|REPARANDUM 5|4|PUNCT 6|7|NSUBJ 7|11|REPARANDUM 8|7|PUNCT 9|11|NSUBJ 10|11|COP 11|0|ROOT 12|13|PUNCT 13|22|CC 14|15|NSUBJ 15|22|REPARANDUM 16|15|PUNCT 17|18|NSUBJ 18|22|REPARANDUM 19|18|PUNCT 20|22|NSUBJ 21|22|AUX 22|11|CONJ 23|22|OBJ 24|25|MARK 25|23|ACL 26|11|PUNCT
+*A:	&=laughs . 692530_693490
+*B:	ah , some company that comes down and they've said , find us a buyer , and ah , &=clears:throat , it , it , ah , . 692900_701130
+%mor:	intj|ah cm|cm det|some-Def-Ind noun|company pron|that-Rel verb|come-Fin-Ind-Pres-S3 adp|down cconj|and pron|they-Prs-Nom-P3~aux|have-Fin-Ind-Pres-P3 verb|say-Part-Past-S-irr cm|cm verb|find-Fin-Imp-S pron|we-Prs-Acc-P1 det|a-Ind-Art noun|buyer-Acc cm|cm cconj|and intj|ah cm|cm cm|cm pron|it-Prs-Nom-S3 cm|cm pron|it-Prs-Nom-S3 cm|cm intj|ah cm|cm .
+%gra:	1|13|DISCOURSE 2|1|PUNCT 3|4|DET 4|13|NSUBJ 5|6|NSUBJ 6|4|ACL-RELCL 7|6|COMPOUND-PRT 8|11|CC 9|11|NSUBJ 10|11|AUX 11|6|CONJ 12|4|PUNCT 13|0|ROOT 14|13|IOBJ 15|16|DET 16|13|OBJ 17|18|PUNCT 18|19|CC 19|13|DISCOURSE 20|19|PUNCT 21|22|PUNCT 22|19|CONJ 23|22|PUNCT 24|22|CONJ 25|26|PUNCT 26|13|DISCOURSE 27|13|PUNCT 28|13|PUNCT
+*B:	it really can get on your nerves . 701550_704100
+%mor:	pron|it-Prs-Nom-S3 adv|really aux|can-Fin-S verb|get-Inf-S adp|on pron|your-Prs-Gen-S2 noun|nerve-Plur .
+%gra:	1|4|NSUBJ 2|4|ADVMOD 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|NMOD-POSS 7|4|OBL 8|4|PUNCT
+*A:	Gosh .
+%mor:	intj|gosh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	So what were you going to go to Tokyo +/. 705160_706890
+%mor:	adv|so pron|what-Int-S1 aux|be-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|go-Part-Pres-S part|to verb|go-Inf-S adp|to propn|Tokyo +/.
+%gra:	1|5|ADVMOD 2|7|OBJ 3|5|AUX 4|5|NSUBJ 5|0|ROOT 6|7|MARK 7|5|XCOMP 8|9|CASE 9|7|OBL 10|5|PUNCT
+*B:	&=clears:throat . 706560_707090
+*A:	+, for ?
+%mor:	adp|for ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	For example .
+%mor:	adp|for noun|example .
+%gra:	1|2|CASE 2|0|ROOT 3|2|PUNCT
+*A:	Or what did you go to Hong_Kong for ? 706900_709690
+%mor:	cconj|or pron|what-Int-S1 aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|go-Inf-S adp|to propn|HongKong adp|for ?
+%gra:	1|5|CC 2|5|OBJ 3|5|AUX 4|5|NSUBJ 5|0|ROOT 6|7|CASE 7|5|OBL 8|5|OBL 9|5|PUNCT
+*B:	Well , those were ah , those were just consultations . 709790_713140
+%mor:	intj|well cm|cm pron|that-Dem-P1 aux|be-Fin-Ind-Past-P3-irr intj|ah cm|cm pron|that-Dem-P1 aux|be-Fin-Ind-Past-P3-irr adv|just noun|consultation-Plur .
+%gra:	1|10|DISCOURSE 2|1|PUNCT 3|10|NSUBJ-OUTER 4|10|COP 5|10|DISCOURSE 6|5|PUNCT 7|10|NSUBJ 8|10|COP 9|10|ADVMOD 10|0|ROOT 11|10|PUNCT
+*A:	With ? 714920_715720
+%mor:	adp|with ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	um , &=laugh , ah . 714930_717620
+%mor:	intj|um cm|cm cm|cm intj|ah .
+%gra:	1|0|ROOT 2|1|PUNCT 3|4|PUNCT 4|1|DISCOURSE 5|1|PUNCT
+*A:	Not with whom , but like with , pe- , with companies that you might invest in . 717230_720160
+%mor:	part|not adp|with pron|whom-Int-S1 cm|cm cconj|but intj|like adp|with cm|cm intj|pe cm|cm adp|with noun|company-Plur pron|that-Rel pron|you-Prs-Nom-S2 aux|might-Fin-S verb|invest-Inf-S adp|in .
+%gra:	1|3|ADVMOD 2|3|CASE 3|0|ROOT 4|5|PUNCT 5|12|CC 6|12|DISCOURSE 7|9|CASE 8|7|PUNCT 9|12|REPARANDUM 10|9|PUNCT 11|12|CASE 12|3|CONJ 13|16|OBJ 14|16|NSUBJ 15|16|AUX 16|12|ACL-RELCL 17|13|CASE 18|3|PUNCT
+*B:	With , with investment banks , with . 721010_722980
+%mor:	adp|with cm|cm adp|with noun|investment noun|bank-Plur cm|cm adp|with .
+%gra:	1|5|CASE 2|1|PUNCT 3|5|CASE 4|5|COMPOUND 5|0|ROOT 6|5|PUNCT 7|5|CASE 8|5|PUNCT
+*A:	mhm . 723000_723310
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	Companies . 723240_723760
+%mor:	noun|company-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	huh . 724630_724940
+%mor:	intj|huh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	yeah . 725650_726000
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	Gosh , I didn't know you were into such , the ah , financial market area . 726590_730970
+%mor:	intj|gosh cm|cm pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr~part|not verb|know-Inf-S pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Past-S2-irr adp|into adj|such-S1 cm|cm det|the-Def-Art intj|ah cm|cm adj|financial-S1 noun|market noun|area .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|17|NSUBJ 8|17|COP 9|17|CASE 10|17|AMOD 11|12|PUNCT 12|17|DET 13|17|DISCOURSE 14|13|PUNCT 15|17|AMOD 16|17|COMPOUND 17|6|CCOMP 18|6|PUNCT
+*B:	Well it's , yeah , that's , I mean unfortunat- , ah it's actually been quite good , it's been quite interesting , . 730930_735360
+%mor:	intj|well pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 cm|cm intj|yeah cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 cm|cm pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 intj|unfortunat cm|cm intj|ah pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|actually aux|be-Part-Past-S-irr adv|quite adj|good-S1 cm|cm pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 aux|be-Part-Past-S-irr adv|quite adj|interesting-S1 cm|cm .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|20|REPARANDUM 4|1|PUNCT 5|20|DISCOURSE 6|5|PUNCT 7|8|NSUBJ 8|20|REPARANDUM 9|8|PUNCT 10|11|NSUBJ 11|20|PARATAXIS 12|20|DISCOURSE 13|12|PUNCT 14|20|DISCOURSE 15|20|NSUBJ 16|20|COP 17|20|ADVMOD 18|20|COP 19|20|ADVMOD 20|0|ROOT 21|26|PUNCT 22|26|NSUBJ 23|26|COP 24|26|COP 25|26|ADVMOD 26|20|PARATAXIS 27|20|PUNCT 28|20|PUNCT
+*A:	mhm . 735260_735650
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	ah , I never knew anything about , really , that area before .
+%mor:	intj|ah cm|cm pron|I-Prs-Nom-S1 adv|never verb|know-Fin-Ind-Past-S1-irr pron|anything-Ind-S1 adp|about cm|cm adv|really cm|cm det|that-Def-Dem-Sing noun|area adv|before .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|ADVMOD 5|0|ROOT 6|5|OBJ 7|12|CASE 8|7|PUNCT 9|5|ADVMOD 10|9|PUNCT 11|12|DET 12|5|PARATAXIS 13|12|ADVMOD 14|5|PUNCT
+*B:	I mean I've taken Cordon's [?] financial markets , kind_of a class . 735420_742800
+%mor:	pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 verb|take-Part-Past-S-irr propn|Cordon~part|s adj|financial-S1 noun|market-Plur-Acc cm|cm verb|kindof-Inf-S det|a-Ind-Art noun|class-Acc .
+%gra:	1|2|NSUBJ 2|5|PARATAXIS 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|9|NMOD-POSS 7|6|CASE 8|9|AMOD 9|5|OBJ 10|11|PUNCT 11|5|PARATAXIS 12|13|DET 13|11|OBJ 14|5|PUNCT
+*A:	Really ? 743040_743390
+%mor:	adv|really ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	mm , mm , ah , xxx . 743710_745250
+%mor:	intj|mm cm|cm intj|mm cm|cm intj|ah cm|cm .
+%gra:	1|0|ROOT 2|1|PUNCT 3|1|DISCOURSE 4|5|PUNCT 5|1|DISCOURSE 6|1|PUNCT 7|1|PUNCT
+*A:	But you hadn't taken it ? 744830_745890
+%mor:	cconj|but pron|you-Prs-Nom-S2 aux|have-Fin-Ind-Past-S2-irr~part|not verb|take-Part-Past-S-irr pron|it-Prs-Acc-S3 ?
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*B:	No , I hadn't taken anything like that , . 745830_747110
+%mor:	intj|no cm|cm pron|I-Prs-Nom-S1 aux|have-Fin-Ind-Past-S1-irr~part|not verb|take-Part-Past-S-irr pron|anything-Ind-S1 adp|like pron|that-Dem cm|cm .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|6|OBJ 8|9|CASE 9|7|NMOD 10|6|PUNCT 11|6|PUNCT
+*A:	<that's bizarre> [?] . 747140_747820
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|bizarre-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*B:	so I never knew really , you know , ah what , ah , how to , you know , how you ah , what , what you were . 747160_756110
+%mor:	adv|so pron|I-Prs-Nom-S1 adv|never verb|know-Fin-Ind-Past-S1-irr adv|really cm|cm pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 cm|cm intj|ah pron|what-Int-S1 cm|cm intj|ah cm|cm adv|how part|to cm|cm pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 cm|cm adv|how pron|you-Prs-Nom-S2 intj|ah cm|cm pron|what-Int-S1 cm|cm pron|what-Int-S1 pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Past-S2-irr .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|4|ADVMOD 6|8|PUNCT 7|8|NSUBJ 8|4|PARATAXIS 9|8|PUNCT 10|4|DISCOURSE 11|4|PARATAXIS 12|13|PUNCT 13|11|DISCOURSE 14|13|PUNCT 15|11|ADVMOD 16|15|REPARANDUM 17|16|PUNCT 18|19|NSUBJ 19|21|PARATAXIS 20|19|PUNCT 21|4|PARATAXIS 22|23|NSUBJ 23|25|DISCOURSE 24|23|PUNCT 25|21|PARATAXIS 26|27|PUNCT 27|25|NSUBJ 28|29|NSUBJ 29|27|ACL-RELCL 30|4|PUNCT
+*B:	you know , what a strategic sale was , what . 756440_758550
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 cm|cm pron|what-Int-S1 det|a-Ind-Art adj|strategic-S1 noun|sale aux|be-Fin-Ind-Past-S3-irr cm|cm pron|what-Int-S1 .
+%gra:	1|2|NSUBJ 2|4|PARATAXIS 3|2|PUNCT 4|0|ROOT 5|7|DET 6|7|AMOD 7|8|NSUBJ 8|4|COP 9|10|PUNCT 10|4|PARATAXIS 11|4|PUNCT
+*A:	mhm . 758460_758850
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	investment banks do , and so I'm new , and that's actually quite interesting learning that &-um . 758780_764430
+%mor:	noun|investment noun|bank-Plur aux|do-Fin-Ind-Pres-P3 cm|cm cconj|and adv|so pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|new-S1 cm|cm cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|actually adv|quite adj|interesting-S1 verb|learn-Part-Pres-S pron|that-Dem .
+%gra:	1|2|COMPOUND 2|3|NSUBJ 3|0|ROOT 4|9|PUNCT 5|9|CC 6|9|ADVMOD 7|9|NSUBJ 8|9|COP 9|3|CONJ 10|16|PUNCT 11|16|CC 12|16|NSUBJ 13|16|COP 14|16|ADVMOD 15|16|ADVMOD 16|9|CONJ 17|16|XCOMP 18|17|OBJ 19|3|PUNCT
+@End

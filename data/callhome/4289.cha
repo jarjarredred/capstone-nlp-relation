@@ -1,0 +1,307 @@
+@UTF8
+@PID:	11312/a-00004937-1
+@Begin
+@Languages:	eng
+@Participants:	A Subject, B Subject
+@ID:	eng|eng|A|||||Subject|||
+@ID:	eng|eng|B|||||Subject|||
+@Media:	4289, audio
+*B:	you can do &+any . 1200450_1201120
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|do-Inf-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*A:	and &-uh . 1200540_1201420
+%mor:	cconj|and .
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	how do you know you're going to get this money ? 1202700_1204170
+%mor:	adv|how aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|know-Inf-S pron|your-Prs-Acc-S2 verb|go-Part-Pres-S part|to verb|get-Inf-S det|this-Def-Dem-Sing noun|money-Acc ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|6|NSUBJ 6|4|CCOMP 7|8|MARK 8|6|XCOMP 9|10|DET 10|8|OBJ 11|4|PUNCT
+*B:	well . 1205310_1205830
+%mor:	intj|well .
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	how legitimate is this ? 1205660_1206760
+%mor:	adv|how adj|legitimate-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|COP 4|2|NSUBJ 5|2|PUNCT
+*B:	well &-eh people are getting checks . 1207230_1209280
+%mor:	intj|well noun|person-Plur aux|be-Fin-Ind-Pres-P3 verb|get-Part-Pres-S noun|check-Plur-Acc .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*A:	who is ? 1209690_1210030
+%mor:	pron|who-Int aux|be-Fin-Ind-Pres-S3 ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*B:	mark is , people above him they're . 1210580_1212670
+%mor:	noun|mark aux|be-Fin-Ind-Pres-S3 cm|cm noun|person-Plur adp|above pron|he-Prs-Acc-S3 adv|their .
+%gra:	1|4|NSUBJ 2|4|COP 3|2|PUNCT 4|0|ROOT 5|6|CASE 6|4|NMOD 7|4|ADVMOD 8|4|PUNCT
+*A:	yeah , but mark's selling to you , of course he's going to tell you he's getting them . 1212180_1215170
+%mor:	intj|yeah cm|cm cconj|but noun|mark-Plur verb|sell-Part-Pres-S adp|to pron|you-Prs-Acc-S2 cm|cm adp|of noun|course aux|he-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|tell-Inf-S pron|you-Prs-Acc-S2 noun|he-Plur verb|get-Part-Pres-S pron|they-Prs-Acc-P3 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|CC 4|5|NSUBJ 5|0|ROOT 6|7|CASE 7|5|OBL 8|12|PUNCT 9|12|ADVMOD 10|9|FIXED 11|12|AUX 12|5|PARATAXIS 13|14|MARK 14|12|XCOMP 15|14|IOBJ 16|17|NSUBJ 17|14|ADVCL 18|17|OBJ 19|5|PUNCT
+*B:	well , I don't know , I mean somebody must be seeing them . 1216500_1220050
+%mor:	intj|well cm|cm pron|I-Prs-Nom-S1 adv|dont verb|know-Fin-Ind-Pres-S1 cm|cm pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 pron|somebody-Ind-S1 aux|must-Fin-S aux|be-Inf-S verb|see-Part-Pres-S pron|they-Prs-Acc-P3 .
+%gra:	1|12|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|ADVMOD 5|12|PARATAXIS 6|5|PUNCT 7|8|NSUBJ 8|12|PARATAXIS 9|12|NSUBJ 10|12|AUX 11|12|AUX 12|0|ROOT 13|12|OBJ 14|12|PUNCT
+*A:	there are a lot of scams out there too . 1219980_1221610
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 det|a-Ind-Art noun|lot adp|of noun|scam-Plur adv|out adv|there adv|too .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|6|CASE 6|4|NMOD 7|8|ADVMOD 8|2|ADVMOD 9|2|ADVMOD 10|2|PUNCT
+*B:	well I know , but people , okay people are buying in and . 1221710_1226400
+%mor:	intj|well pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 cm|cm cconj|but noun|person-Plur cm|cm intj|okay noun|person-Plur aux|be-Fin-Ind-Pres-P3 verb|buy-Part-Pres-S adp|in cconj|and .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|11|PUNCT 5|11|CC 6|11|VOCATIVE 7|6|PUNCT 8|11|DISCOURSE 9|11|NSUBJ 10|11|AUX 11|3|CONJ 12|11|ADVMOD 13|11|CONJ 14|3|PUNCT
+*B:	if the people above them were not getting their checks , they wouldn't do it . 1226970_1230930
+%mor:	sconj|if det|the-Def-Art noun|person-Plur adp|above pron|they-Prs-Acc-P3 aux|be-Fin-Ind-Past-P3-irr part|not verb|get-Part-Pres-S pron|their-Prs-Gen-P3 noun|check-Plur-Acc cm|cm pron|they-Prs-Nom-P3 aux|wouldnt-Fin-S verb|do-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|8|MARK 2|3|DET 3|8|NSUBJ 4|5|CASE 5|3|NMOD 6|8|AUX 7|8|ADVMOD 8|14|ADVCL 9|10|NMOD-POSS 10|8|OBJ 11|8|PUNCT 12|14|NSUBJ 13|14|AUX 14|0|ROOT 15|14|OBJ 16|14|PUNCT
+*A:	how do you know ? 1232030_1232740
+%mor:	adv|how aux|do-Fin-Ind-Pres-S2 pron|you-Prs-S2 verb|know-Inf-S ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+*B:	how do I know ? 1233930_1234620
+%mor:	adv|how aux|do-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|know-Inf-S ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+*A:	how do you know they're getting their checks ? 1235040_1236180
+%mor:	adv|how aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|know-Inf-S sconj|their verb|get-Part-Pres-S pron|their-Prs-Gen-P3 noun|check-Plur-Acc ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|6|MARK 6|4|ADVCL 7|8|NMOD-POSS 8|6|OBJ 9|4|PUNCT
+*B:	well why would they , why would they &-um . 1238210_1240930
+%mor:	intj|well adv|why aux|would-Fin-S pron|they-Prs-Nom-P3 cm|cm adv|why aux|would-Fin-S pron|they-Prs-Nom-P3 .
+%gra:	1|3|DISCOURSE 2|3|ADVMOD 3|7|REPARANDUM 4|3|NSUBJ 5|7|PUNCT 6|7|ADVMOD 7|0|ROOT 8|7|NSUBJ 9|7|PUNCT
+*B:	why would they do it ?
+%mor:	adv|why aux|would-Fin-S pron|they-Prs-Nom-P3 verb|do-Inf-S pron|it-Prs-Acc-S3 ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*B:	because you make the checks out to the company , you don't make the checks out to them . 1241190_1245500
+%mor:	sconj|because pron|you-Prs-Nom-S2 verb|make-Fin-Ind-Pres-S2 det|the-Def-Art noun|check-Plur-Acc adp|out adp|to det|the-Def-Art noun|company cm|cm pron|you-Prs-Nom-S2 aux|dont-Fin-S verb|make-Inf-S det|the-Def-Art noun|check-Plur-Acc adp|out adp|to pron|they-Prs-Acc-P3 .
+%gra:	1|3|MARK 2|3|NSUBJ 3|13|ADVCL 4|5|DET 5|3|OBJ 6|3|COMPOUND-PRT 7|9|CASE 8|9|DET 9|3|OBL 10|3|PUNCT 11|13|NSUBJ 12|13|AUX 13|0|ROOT 14|15|DET 15|13|OBJ 16|13|COMPOUND-PRT 17|18|CASE 18|13|OBL 19|13|PUNCT
+*A:	what check ? 1247420_1247840
+%mor:	det|what-Def-Int noun|check ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*B:	when you go in , you make your money order out , you send it to the company . 1248650_1252160
+%mor:	adv|when pron|you-Prs-Nom-S2 verb|go-Fin-Ind-Pres-S2 adv|in cm|cm pron|you-Prs-Nom-S2 verb|make-Fin-Ind-Pres-S2 pron|your-Prs-Gen-S2 noun|money noun|order-Acc adp|out cm|cm pron|you-Prs-Nom-S2 verb|send-Fin-Ind-Pres-S2 pron|it-Prs-Acc-S3 adp|to det|the-Def-Art noun|company .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|7|ADVCL 4|3|ADVMOD 5|3|PUNCT 6|7|NSUBJ 7|0|ROOT 8|10|NMOD-POSS 9|10|COMPOUND 10|7|OBJ 11|7|COMPOUND-PRT 12|14|PUNCT 13|14|NSUBJ 14|7|PARATAXIS 15|14|OBJ 16|18|CASE 17|18|DET 18|14|OBL 19|7|PUNCT
+*A:	right . 1252240_1252640
+%mor:	adj|right-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	you don't send it to the people above you . 1252730_1254700
+%mor:	pron|you-Prs-Nom-S2 aux|dont-Fin-S verb|send-Inf-S pron|it-Prs-Acc-S3 adp|to det|the-Def-Art noun|person-Plur adp|above pron|you-Prs-Acc-S2 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|7|CASE 6|7|DET 7|3|OBL 8|9|CASE 9|7|NMOD 10|3|PUNCT
+*B:	so why would the people above you be doing it if they they weren't getting xxx . 1254980_1258100
+%mor:	adv|so adv|why aux|would-Fin-S det|the-Def-Art noun|person-Plur adp|above pron|you-Prs-Nom-S2 aux|be-Inf-S verb|do-Part-Pres-S pron|it-Prs-Acc-S3 sconj|if pron|they-Prs-Nom-P3 pron|they-Prs-Nom-P3 aux|werent-Fin-Ind-Pres-P3 verb|get-Part-Pres-S .
+%gra:	1|9|ADVMOD 2|9|ADVMOD 3|9|AUX 4|5|DET 5|9|NSUBJ 6|7|CASE 7|5|NMOD 8|9|AUX 9|0|ROOT 10|9|OBJ 11|15|MARK 12|15|NSUBJ 13|15|NSUBJ 14|15|AUX 15|9|ADVCL 16|9|PUNCT
+*A:	right . 1255130_1255410
+%mor:	adj|right-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	how do you know they're doing it ? 1257390_1258500
+%mor:	adv|how aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|know-Inf-S sconj|their verb|do-Part-Pres-S pron|it-Prs-Acc-S3 ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|6|MARK 6|4|ADVCL 7|6|OBJ 8|4|PUNCT
+*B:	well because , they're spending time &+t showing us . 1259750_1262560
+%mor:	intj|well sconj|because cm|cm sconj|their verb|spend-Part-Pres-S noun|time-Acc verb|show-Part-Pres-S pron|we-Prs-Acc-P1 .
+%gra:	1|5|DISCOURSE 2|5|MARK 3|2|PUNCT 4|5|MARK 5|0|ROOT 6|5|OBJ 7|5|ADVCL 8|7|OBJ 9|5|PUNCT
+*B:	and having seminars , why would they even . 1262780_1264760
+%mor:	cconj|and verb|have-Part-Pres-S noun|seminar-Plur-Acc cm|cm adv|why aux|would-Fin-S pron|they-Prs-Nom-P3 adv|even .
+%gra:	1|2|CC 2|0|ROOT 3|2|OBJ 4|2|PUNCT 5|2|ADVMOD 6|8|AUX 7|8|NSUBJ 8|2|ADVMOD 9|2|PUNCT
+*A:	just mark you said is doing the seminars . 1264160_1266050
+%mor:	adv|just verb|mark-Fin-Imp-S pron|you-Prs-Nom-S2 verb|say-Fin-Ind-Past-S2-irr aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S det|the-Def-Art noun|seminar-Plur-Acc .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|6|AUX 6|4|CCOMP 7|8|DET 8|6|OBJ 9|2|PUNCT
+*B:	yeah , mark is , and . 1266670_1268930
+%mor:	intj|yeah cm|cm noun|mark aux|be-Fin-Ind-Pres-S3 cm|cm cconj|and .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|0|ROOT 5|6|PUNCT 6|4|CONJ 7|4|PUNCT
+*B:	why would he even do the seminars if he weren't getting &+th his checks that he's supposed to ? 1269320_1272960
+%mor:	adv|why aux|would-Fin-S pron|he-Prs-Nom-S3 adv|even verb|do-Inf-S det|the-Def-Art noun|seminar-Plur-Acc sconj|if pron|he-Prs-Nom-S3 aux|werent-Fin-Ind-Pres-S3 verb|get-Part-Pres-S pron|his-Prs-Gen-S3 noun|check-Plur-Acc pron|that-Rel aux|he-Fin-Ind-Pres-S3 verb|suppose-Part-Past-S part|to ?
+%gra:	1|5|ADVMOD 2|5|AUX 3|5|NSUBJ 4|5|ADVMOD 5|0|ROOT 6|7|DET 7|5|OBJ 8|11|MARK 9|11|NSUBJ 10|11|AUX 11|5|ADVCL 12|13|NMOD-POSS 13|11|OBJ 14|16|NSUBJ-PASS 15|16|AUX-PASS 16|13|ACL-RELCL 17|16|XCOMP 18|5|PUNCT
+*A:	because he's getting the money . 1273260_1274240
+%mor:	sconj|because noun|he-Plur verb|get-Part-Pres-S det|the-Def-Art noun|money-Acc .
+%gra:	1|3|MARK 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*B:	no you don't send them to him , you . 1274630_1276660
+%mor:	intj|no pron|you-Prs-Nom-S2 aux|dont-Fin-S verb|send-Inf-S pron|they-Prs-Acc-P3 adp|to pron|he-Prs-Acc-S3 cm|cm pron|you-Prs-Nom-S2 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|CASE 7|4|OBL 8|9|PUNCT 9|4|PARATAXIS 10|4|PUNCT
+*A:	oh well it's a scam , he gets it back . 1276300_1278690
+%mor:	intj|oh intj|well pron|its-Prs-Gen-S3 det|a-Ind-Art noun|scam cm|cm pron|he-Prs-Nom-S3 verb|get-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 adv|back .
+%gra:	1|8|DISCOURSE 2|5|DISCOURSE 3|5|NMOD-POSS 4|5|DET 5|8|DISLOCATED 6|5|PUNCT 7|8|NSUBJ 8|0|ROOT 9|8|OBJ 10|8|ADVMOD 11|8|PUNCT
+*B:	well I don't think so .
+%mor:	intj|well pron|I-Prs-Nom-S1 adv|dont verb|think-Fin-Ind-Pres-S1 adv|so .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*B:	he he does another one too , he does . 1280150_1284130
+%mor:	pron|he-Prs-Nom-S3 pron|he-Prs-Nom-S3 verb|do-Fin-Ind-Pres-S3 det|another-Def-Ind noun|one-Acc adv|too cm|cm pron|he-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3 .
+%gra:	1|3|NSUBJ 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|ADVMOD 7|9|PUNCT 8|9|NSUBJ 9|3|PARATAXIS 10|3|PUNCT
+*B:	two different ones and he's focusing on this one now . 1284170_1286770
+%mor:	num|two adj|different-S1 noun|one-Plur cconj|and noun|he-Plur verb|focus-Ger-S adp|on det|this-Def-Dem-Sing noun|one adv|now .
+%gra:	1|3|NUMMOD 2|3|AMOD 3|0|ROOT 4|5|CC 5|3|CONJ 6|5|ACL 7|9|CASE 8|9|DET 9|6|OBL 10|6|ADVMOD 11|3|PUNCT
+*A:	all right . 1287080_1287530
+%mor:	det|all-Def-Tot adj|right-S1 .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*B:	I mean you send it to some other state it's out in &-um . 1288440_1291570
+%mor:	pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 pron|you-Prs-Nom-S2 verb|send-Fin-Ind-Pres-S2 pron|it-Prs-Acc-S3 adp|to det|some-Def-Ind adj|other-S1 noun|state pron|its-Prs-Gen-S3 adv|out adp|in .
+%gra:	1|2|NSUBJ 2|4|PARATAXIS 3|4|NSUBJ 4|0|ROOT 5|4|OBJ 6|9|CASE 7|9|DET 8|9|AMOD 9|4|OBL 10|9|NMOD-POSS 11|4|ADVMOD 12|4|OBL 13|4|PUNCT
+*B:	it's Kansas or something , I don't know . 1291880_1293960
+%mor:	pron|its-Prs-Gen-S3 propn|Kansas cconj|or pron|something-Ind-S1 cm|cm pron|I-Prs-Nom-S1 adv|dont verb|know-Fin-Ind-Pres-S1 .
+%gra:	1|2|NMOD-POSS 2|0|ROOT 3|4|CC 4|2|CONJ 5|8|PUNCT 6|8|NSUBJ 7|8|ADVMOD 8|2|PARATAXIS 9|2|PUNCT
+*B:	I forget where it is , Oklahoma , I forget . 1295910_1298580
+%mor:	pron|I-Prs-Nom-S1 verb|forget-Fin-Ind-Pres-S1 adv|where pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 cm|cm propn|Oklahoma cm|cm pron|I-Prs-Nom-S1 verb|forget-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|CCOMP 4|5|NSUBJ 5|3|COP 6|7|PUNCT 7|2|VOCATIVE 8|10|PUNCT 9|10|NSUBJ 10|2|PARATAXIS 11|2|PUNCT
+*B:	but it's &-um . 1299420_1300500
+%mor:	cconj|but pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*B:	it's a different state you know . 1301810_1304060
+%mor:	pron|its-Prs-Gen-S3 det|a-Ind-Art adj|different-S1 noun|state pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 .
+%gra:	1|4|NMOD-POSS 2|4|DET 3|4|AMOD 4|0|ROOT 5|6|NSUBJ 6|4|ACL-RELCL 7|4|PUNCT
+*B:	and it makes sense you know , &+y if you figure out how much &=breathes money . 1305130_1309570
+%mor:	cconj|and pron|it-Prs-Nom-S3 verb|make-Fin-Ind-Pres-S3 noun|sense-Acc pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 cm|cm sconj|if pron|you-Prs-Nom-S2 verb|figure-Fin-Ind-Pres-S2 adp|out adv|how adj|much-S1 noun|money-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|6|NSUBJ 6|3|PARATAXIS 7|10|PUNCT 8|10|MARK 9|10|NSUBJ 10|3|ADVCL 11|10|COMPOUND-PRT 12|13|ADVMOD 13|14|AMOD 14|10|OBJ 15|3|PUNCT
+*B:	if you figure out how much money , &-um . 1309930_1312220
+%mor:	sconj|if pron|you-Prs-Nom-S2 verb|figure-Fin-Ind-Pres-S2 adp|out adv|how adj|much-S1 noun|money-Acc cm|cm .
+%gra:	1|3|MARK 2|3|NSUBJ 3|0|ROOT 4|3|COMPOUND-PRT 5|6|ADVMOD 6|7|AMOD 7|3|OBJ 8|3|PUNCT 9|3|PUNCT
+*B:	&-um what do you call it . 1314680_1316520
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|call-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*B:	I mean dick already got his free &+car cards , he's been using his free calling card . 1317620_1322190
+%mor:	pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 noun|dick adv|already verb|get-Fin-Ind-Past-S-irr pron|his-Prs-Gen-S3 adj|free-S1 noun|card-Plur-Acc cm|cm aux|he-Fin-Ind-Pres-S3 aux|be-Part-Past-S-irr verb|use-Part-Pres-S pron|his-Prs-Gen-S3 adj|free-S1 noun|calling-Ger noun|card-Acc .
+%gra:	1|2|NSUBJ 2|5|PARATAXIS 3|5|NSUBJ 4|5|ADVMOD 5|0|ROOT 6|8|NMOD-POSS 7|8|AMOD 8|5|OBJ 9|12|PUNCT 10|12|AUX 11|12|AUX 12|5|PARATAXIS 13|16|NMOD-POSS 14|16|AMOD 15|16|COMPOUND 16|12|OBJ 17|5|PUNCT
+*A:	mhm . 1322810_1323330
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	and &-um , if you figure out how much money the company has by &=breathes when you put in the money , . 1323380_1329530
+%mor:	cconj|and cm|cm sconj|if pron|you-Prs-Nom-S2 verb|figure-Fin-Ind-Pres-S2 adp|out adv|how adj|much-S1 noun|money-Acc det|the-Def-Art noun|company verb|have-Fin-Ind-Pres-S3 adp|by adv|when pron|you-Prs-Nom-S2 verb|put-Fin-Ind-Pres-S2 adp|in det|the-Def-Art noun|money-Acc cm|cm .
+%gra:	1|5|CC 2|1|PUNCT 3|5|MARK 4|5|NSUBJ 5|0|ROOT 6|5|COMPOUND-PRT 7|8|ADVMOD 8|9|AMOD 9|12|OBJ 10|11|DET 11|12|NSUBJ 12|5|CCOMP 13|16|MARK 14|16|ADVMOD 15|16|NSUBJ 16|12|ADVCL 17|16|COMPOUND-PRT 18|19|DET 19|16|OBJ 20|5|PUNCT 21|5|PUNCT
+*B:	and you know , like you three thousand in each leg , &=clears:throat . 1330470_1333360
+%mor:	cconj|and pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 cm|cm adp|like pron|you-Prs-Acc-S2 num|three num|thousand adp|in det|each-Def-Tot noun|leg cm|cm .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT 5|6|CASE 6|8|NMOD 7|8|COMPOUND 8|3|PARATAXIS 9|11|CASE 10|11|DET 11|8|NMOD 12|3|PUNCT 13|3|PUNCT
+*B:	&=channel_noise it really only costs for long distance like about &=breathes I don't know , if it's five cents a minute . 1333540_1338650
+%mor:	pron|it-Prs-Nom-S3 adv|really adv|only verb|cost-Fin-Ind-Pres-S3 adp|for adj|long-S1 noun|distance intj|like sconj|about pron|I-Prs-Nom-S1 adv|dont verb|know-Fin-Ind-Pres-S1 cm|cm sconj|if pron|its-Prs-Gen-S3 num|five noun|cent-Plur det|a-Ind-Art noun|minute .
+%gra:	1|4|NSUBJ 2|4|ADVMOD 3|4|ADVMOD 4|0|ROOT 5|7|CASE 6|7|AMOD 7|4|OBL 8|12|DISCOURSE 9|12|MARK 10|12|NSUBJ 11|12|ADVMOD 12|4|ADVCL 13|17|PUNCT 14|17|MARK 15|17|NMOD-POSS 16|17|NUMMOD 17|12|OBL-UNMARKED 18|19|DET 19|17|NMOD-UNMARKED 20|4|PUNCT
+*B:	&+a and you get three &+se six thousand dollars and you've only made twelve hundred of it . 1340120_1344580
+%mor:	cconj|and pron|you-Prs-Nom-S2 verb|get-Fin-Ind-Pres-S2 num|three num|six num|thousand noun|dollar-Plur-Acc cconj|and noun|youve adv|only verb|make-Part-Past-S-irr num|twelve num|hundred adp|of pron|it-Prs-Acc-S3 .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|7|NUMMOD 5|6|COMPOUND 6|7|NUMMOD 7|3|OBJ 8|11|CC 9|11|NSUBJ 10|11|ADVMOD 11|3|CONJ 12|13|NUMMOD 13|11|OBJ 14|15|CASE 15|13|NMOD 16|3|PUNCT
+*B:	you know , so they make enough money . 1345630_1347320
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 cm|cm adv|so pron|they-Prs-Nom-P3 verb|make-Fin-Ind-Pres-P3 adj|enough-S1 noun|money-Acc .
+%gra:	1|2|NSUBJ 2|6|PARATAXIS 3|2|PUNCT 4|6|ADVMOD 5|6|NSUBJ 6|0|ROOT 7|8|AMOD 8|6|OBJ 9|6|PUNCT
+*B:	to pay you , they're glad to do that . 1349270_1351040
+%mor:	part|to verb|pay-Inf-S pron|you-Prs-Acc-S2 cm|cm adv|their adj|glad-S1 part|to verb|do-Inf-S pron|that-Dem .
+%gra:	1|2|MARK 2|6|ADVCL 3|2|IOBJ 4|2|PUNCT 5|6|ADVMOD 6|0|ROOT 7|8|MARK 8|6|XCOMP 9|8|OBJ 10|6|PUNCT
+*B:	right ? 1352860_1353240
+%mor:	adj|right-S1 ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	yeah . 1353370_1353750
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	so . 1354340_1354830
+%mor:	adv|so .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	that . 1355930_1356310
+%mor:	pron|that-Dem .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	I mean , it's it's a good deal for everybody . 1357180_1359690
+%mor:	pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 cm|cm pron|its-Prs-Nom-S3 aux|its-Fin-Ind-Pres-S3 det|a-Ind-Art adj|good-S1 noun|deal adp|for pron|everybody-Tot-S1 .
+%gra:	1|2|NSUBJ 2|8|PARATAXIS 3|2|PUNCT 4|8|NSUBJ 5|8|COP 6|8|DET 7|8|AMOD 8|0|ROOT 9|10|CASE 10|8|NMOD 11|8|PUNCT
+*B:	&-eh I mean &+f &-uh four &+ce , five cents a minute . 1361800_1364950
+%mor:	pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 num|four cm|cm num|five noun|cent-Plur det|a-Ind-Art noun|minute .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|6|PUNCT 5|6|NUMMOD 6|2|OBL-UNMARKED 7|8|DET 8|6|NMOD-UNMARKED 9|2|PUNCT
+*B:	nine hundred , of of say , &=breathes five cents a minute times three hundred thirty minutes . 1366670_1372740
+%mor:	num|nine num|hundred cm|cm adp|of adp|of intj|say cm|cm num|five noun|cent-Plur det|a-Ind-Art noun|minute noun|time-Plur num|three num|hundred num|thirty noun|minute-Plur .
+%gra:	1|2|NUMMOD 2|0|ROOT 3|9|PUNCT 4|9|CASE 5|4|FIXED 6|9|DISCOURSE 7|6|PUNCT 8|9|NUMMOD 9|2|NMOD 10|11|DET 11|12|NMOD-UNMARKED 12|14|NMOD-UNMARKED 13|14|COMPOUND 14|9|NUMMOD 15|16|NUMMOD 16|14|NMOD-UNMARKED 17|2|PUNCT
+*B:	is what ? 1374010_1374620
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|what-Int-S1 ?
+%gra:	1|2|COP 2|0|ROOT 3|2|PUNCT
+*B:	sixteen dollars , seventeen dollars . 1376190_1378190
+%mor:	num|sixteen noun|dollar-Plur cm|cm num|seventeen noun|dollar-Plur .
+%gra:	1|2|NUMMOD 2|0|ROOT 3|5|PUNCT 4|5|NUMMOD 5|2|APPOS 6|2|PUNCT
+*B:	at minimum , that's that's trivial . 1380820_1383090
+%mor:	adp|at noun|minimum cm|cm pron|that-Prs-S1 adv|that adj|trivial-S1 .
+%gra:	1|2|CASE 2|6|OBL 3|2|PUNCT 4|6|NSUBJ 5|6|ADVMOD 6|0|ROOT 7|6|PUNCT
+*A:	yeah . 1383560_1383980
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	I guess , is that seventeen dollars ? 1385900_1387650
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 cm|cm aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing num|seventeen noun|dollar-Plur ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT 4|7|COP 5|7|DET 6|7|NUMMOD 7|2|CCOMP 8|2|PUNCT
+*B:	that's nothing . 1389140_1389920
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|nothing-Neg-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*B:	and then you got the . 1391450_1392770
+%mor:	cconj|and adv|then pron|you-Prs-Nom-S2 verb|get-Fin-Ind-Past-S2-irr det|the-Def-Art .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*A:	who says it's five cents a minute ? 1392480_1393830
+%mor:	pron|who-Rel verb|say-Fin-Ind-Pres-S3 pron|its-Prs-Gen-S3 num|five noun|cent-Plur-Acc det|a-Ind-Art noun|minute ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|NMOD-POSS 4|5|NUMMOD 5|2|OBJ 6|7|DET 7|5|NMOD-UNMARKED 8|2|PUNCT
+*B:	yeah , is that seventeen dollars ? 1394800_1396540
+%mor:	intj|yeah cm|cm aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing num|seventeen noun|dollar-Plur ?
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|COP 4|6|DET 5|6|NUMMOD 6|0|ROOT 7|6|PUNCT
+*A:	yeah , but who says it's five cents a minute ? 1396900_1398410
+%mor:	intj|yeah cm|cm cconj|but pron|who-Int verb|say-Fin-Ind-Pres-S3 pron|its-Prs-Gen-S3 num|five noun|cent-Plur-Acc det|a-Ind-Art noun|minute ?
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|CC 4|5|NSUBJ 5|0|ROOT 6|8|NMOD-POSS 7|8|NUMMOD 8|5|OBJ 9|10|DET 10|8|NMOD-UNMARKED 11|5|PUNCT
+*B:	excuse me ? 1397030_1397620
+%mor:	verb|excuse-Fin-Imp-S pron|I-Prs-Acc-S1 ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*B:	I don't know , it must cost them like so little , because it only costs sprint , if it only costs the customer ten cents a minute on sprint . 1399370_1406600
+%mor:	pron|I-Prs-Nom-S1 adv|dont verb|know-Fin-Ind-Pres-S1 cm|cm pron|it-Prs-Nom-S3 aux|must-Fin-S verb|cost-Inf-S pron|they-Prs-Acc-P3 adp|like adv|so adj|little-S1 cm|cm sconj|because pron|it-Prs-Nom-S3 adv|only verb|cost-Fin-Ind-Pres-S3 noun|sprint-Acc cm|cm sconj|if pron|it-Prs-Nom-S3 adv|only verb|cost-Fin-Ind-Pres-S3 det|the-Def-Art noun|customer-Acc num|ten noun|cent-Plur det|a-Ind-Art noun|minute adp|on noun|sprint .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|7|PARATAXIS 4|3|PUNCT 5|7|NSUBJ 6|7|AUX 7|0|ROOT 8|7|OBJ 9|11|CASE 10|11|ADVMOD 11|7|OBL 12|16|PUNCT 13|16|MARK 14|16|NSUBJ 15|16|ADVMOD 16|7|ADVCL 17|16|OBJ 18|22|PUNCT 19|22|MARK 20|22|NSUBJ 21|22|ADVMOD 22|16|ADVCL 23|24|DET 24|22|OBJ 25|26|NUMMOD 26|22|OBL-UNMARKED 27|28|DET 28|22|OBL-UNMARKED 29|30|CASE 30|22|OBL 31|7|PUNCT
+*B:	so they must &-mm . 1407610_1408560
+%mor:	adv|so pron|they-Prs-Nom-P3 aux|must-Fin-S .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*B:	&+co it must cost them only like five cents a minute .
+%mor:	pron|it-Prs-Nom-S3 aux|must-Fin-S verb|cost-Inf-S pron|they-Prs-Acc-P3 adv|only intj|like num|five noun|cent-Plur det|a-Ind-Art noun|minute .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|8|ADVMOD 6|8|DISCOURSE 7|8|NUMMOD 8|3|OBL-UNMARKED 9|10|DET 10|8|NMOD-UNMARKED 11|3|PUNCT
+*B:	dick said it costs anywhere from four and a half to six cents a minute for them . 1409120_1415030
+%mor:	noun|dick verb|say-Fin-Ind-Past-S3-irr pron|it-Prs-Nom-S3 verb|cost-Fin-Ind-Pres-S3 adv|anywhere adp|from num|four cconj|and det|a-Ind-Art noun|half adp|to num|six noun|cent-Plur det|a-Ind-Art noun|minute adp|for pron|they-Prs-Acc-P3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NSUBJ 4|2|CCOMP 5|4|ADVMOD 6|13|CASE 7|13|NUMMOD 8|10|CC 9|10|DET 10|7|CONJ 11|12|CASE 12|7|NMOD 13|4|OBL 14|15|DET 15|4|OBL-UNMARKED 16|17|CASE 17|15|NMOD 18|2|PUNCT
+*B:	I don't know where he got that number . 1415600_1417120
+%mor:	pron|I-Prs-Nom-S1 adv|dont verb|know-Fin-Ind-Pres-S1 adv|where pron|he-Prs-Nom-S3 verb|get-Fin-Ind-Past-S3-irr det|that-Def-Dem-Sing noun|number-Acc .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|6|ADVMOD 5|6|NSUBJ 6|3|CCOMP 7|8|DET 8|6|OBJ 9|3|PUNCT
+*A:	&-hm . 1417960_1418360
+*B:	but &-um , this guy mark , he put his &-um . 1419900_1423540
+%mor:	cconj|but cm|cm det|this-Def-Dem-Sing noun|guy noun|mark cm|cm pron|he-Prs-Nom-S3 verb|put-Fin-Ind-Past-S3-irr pron|his-Prs-S3 .
+%gra:	1|8|CC 2|1|PUNCT 3|5|DET 4|5|COMPOUND 5|8|DISLOCATED 6|5|PUNCT 7|8|NSUBJ 8|0|ROOT 9|8|OBJ 10|8|PUNCT
+*B:	mark put his , you know , his daughter under him , and then his . 1424680_1429020
+%mor:	verb|mark-Fin-Imp-S verb|put-Fin-Imp-S pron|his-Prs-Gen-S3 cm|cm pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 cm|cm pron|his-Prs-Gen-S3 noun|daughter-Acc adp|under pron|he-Prs-Acc-S3 cm|cm cconj|and adv|then pron|his-Prs-S3 .
+%gra:	1|0|ROOT 2|1|XCOMP 3|9|REPARANDUM 4|3|PUNCT 5|6|NSUBJ 6|1|PARATAXIS 7|6|PUNCT 8|9|NMOD-POSS 9|2|OBJ 10|11|CASE 11|9|NMOD 12|15|PUNCT 13|15|CC 14|15|ADVMOD 15|9|CONJ 16|1|PUNCT
+*B:	girlfriend's under him , on another one and . 1429890_1432710
+%mor:	noun|girlfriend-Plur adp|under pron|he-Prs-Acc-S3 cm|cm adp|on det|another-Def-Ind noun|one cconj|and .
+%gra:	1|0|ROOT 2|3|CASE 3|1|NMOD 4|7|PUNCT 5|7|CASE 6|7|DET 7|1|NMOD 8|1|CONJ 9|1|PUNCT
+*B:	you know he's got all these people that he knows so that they can make money , but I don't know , you know . 1433430_1439480
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 aux|he-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr det|all-Def-Tot det|this-Def-Dem-Plur noun|person-Plur-Acc pron|that-Rel pron|he-Prs-Nom-S3 verb|know-Fin-Ind-Pres-S3 sconj|so sconj|that pron|they-Prs-Nom-P3 aux|can-Fin-S verb|make-Inf-S noun|money-Acc cm|cm cconj|but pron|I-Prs-Nom-S1 adv|dont verb|know-Fin-Ind-Pres-S1 cm|cm pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 .
+%gra:	1|2|NSUBJ 2|4|PARATAXIS 3|4|AUX 4|0|ROOT 5|7|DET-PREDET 6|7|DET 7|4|OBJ 8|10|OBJ 9|10|NSUBJ 10|7|ACL-RELCL 11|15|MARK 12|11|FIXED 13|15|NSUBJ 14|15|AUX 15|4|ADVCL 16|15|OBJ 17|21|PUNCT 18|21|CC 19|21|NSUBJ 20|21|ADVMOD 21|4|CONJ 22|24|PUNCT 23|24|NSUBJ 24|21|PARATAXIS 25|4|PUNCT
+*A:	mhm . 1439790_1440310
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	I'm I'm &+alr already getting a few people to go to the meeting , so . 1440830_1445070
+%mor:	pron|im-Prs-Nom-S1 aux|be-Fin-Ind-Pres-S3 adv|already verb|get-Part-Pres-S det|a-Ind-Art adj|few-S1 noun|person-Plur-Acc part|to verb|go-Inf-S adp|to det|the-Def-Art noun|meeting-Ger cm|cm adv|so .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|7|DET 6|7|AMOD 7|4|OBJ 8|9|MARK 9|4|ADVCL 10|12|CASE 11|12|DET 12|9|OBL 13|14|PUNCT 14|4|ADVMOD 15|4|PUNCT
+*A:	so that's good . 1445400_1446000
+%mor:	adv|so pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|good-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*B:	yeah , and &-um , let's see &=breathes that guy I talked to yesterday , Michael . 1447200_1452740
+%mor:	intj|yeah cm|cm cconj|and cm|cm intj|let verb|see-Fin-Imp-S det|that-Def-Dem-Sing noun|guy-Acc pron|I-Prs-Nom-S1 verb|talk-Fin-Ind-Past-S1 adp|to noun|yesterday cm|cm propn|Michael .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|CC 4|3|PUNCT 5|6|DISCOURSE 6|0|ROOT 7|8|DET 8|6|OBJ 9|10|NSUBJ 10|6|CCOMP 11|12|CASE 12|10|OBL 13|14|PUNCT 14|12|APPOS 15|6|PUNCT
+*B:	he's real religious , but he's going to &-um . 1453790_1456540
+%mor:	verb|he-Fin-Ind-Pres-P3 adj|real-S1 adj|religious-S1 cm|cm cconj|but adv|hes verb|go-Part-Pres-S part|to .
+%gra:	1|0|ROOT 2|3|AMOD 3|1|XCOMP 4|7|PUNCT 5|7|CC 6|7|ADVMOD 7|1|CONJ 8|7|XCOMP 9|1|PUNCT
+*B:	he &+s he said he'll go .
+%mor:	pron|he-Prs-Nom-S3 pron|he-Prs-Nom-S3 verb|say-Fin-Ind-Past-S3-irr noun|hell verb|go-Inf-S .
+%gra:	1|3|NSUBJ 2|3|NSUBJ 3|0|ROOT 4|5|COMPOUND 5|3|CCOMP 6|3|PUNCT
+*B:	he has to get some friends to go too so . 1457390_1460610
+%mor:	pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 part|to verb|get-Inf-S det|some-Def-Ind noun|friend-Plur-Acc part|to verb|go-Inf-S adv|too adv|so .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|MARK 4|2|XCOMP 5|6|DET 6|4|OBJ 7|8|MARK 8|4|ADVCL 9|10|ADVMOD 10|8|ADVMOD 11|2|PUNCT
+*B:	you know , it seems like it's a it's a great great deal it's like . 1461310_1465130
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 cm|cm pron|it-Prs-Nom-S3 verb|seem-Fin-Ind-Pres-S3 adp|like pron|its-Prs-Gen-S3 det|a-Ind-Art pron|its-Prs-Gen-S3 det|a-Ind-Art adj|great-S1 adj|great-S1 noun|deal pron|its-Prs-Gen-S3 intj|like .
+%gra:	1|2|NSUBJ 2|5|PARATAXIS 3|2|PUNCT 4|5|EXPL 5|0|ROOT 6|13|CASE 7|13|NMOD-POSS 8|13|DET 9|13|REPARANDUM 10|13|DET 11|13|AMOD 12|13|AMOD 13|5|OBL 14|13|NMOD-POSS 15|5|DISCOURSE 16|5|PUNCT
+*B:	it's like Mary Kay , how Mary Kay works or anything else , so why wouldn't it be legal ? 1465880_1469990
+%mor:	pron|its-Prs-Gen-S3 adp|like propn|Mary propn|Kay cm|cm adv|how propn|Mary propn|Kay verb|work-Fin-Ind-Pres-S3 cconj|or pron|anything-Ind-S1 adj|else-S1 cm|cm adv|so adv|why aux|wouldnt-Fin-S pron|it-Prs-Nom-S3 aux|be-Inf-S adj|legal-S1 ?
+%gra:	1|3|NMOD-POSS 2|3|CASE 3|0|ROOT 4|3|FLAT 5|9|PUNCT 6|9|ADVMOD 7|9|NSUBJ 8|7|FLAT 9|3|ACL-RELCL 10|11|CC 11|9|CONJ 12|11|AMOD 13|19|PUNCT 14|19|ADVMOD 15|19|ADVMOD 16|19|AUX 17|19|NSUBJ 18|19|COP 19|9|PARATAXIS 20|3|PUNCT
+*A:	I didn't say it wasn't legal , I just I just want to make sure that it's legitimate , that's all . 1471140_1476190
+%mor:	pron|I-Prs-Nom-S1 aux|didnt-Fin-S verb|say-Inf-S pron|it-Prs-Nom-S3 aux|wasnt-Fin-Ind-Pres-S3 adj|legal-S1 cm|cm pron|I-Prs-Nom-S1 adv|just pron|I-Prs-Nom-S1 adv|just verb|want-Fin-Ind-Pres-S1 part|to verb|make-Inf-S adj|sure-S1 sconj|that pron|its-Prs-Gen-S3 adj|legitimate-S1 cm|cm noun|that det|all-Def-Tot .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|NSUBJ 5|6|COP 6|3|CCOMP 7|12|PUNCT 8|12|NSUBJ 9|12|ADVMOD 10|12|NSUBJ 11|12|ADVMOD 12|3|PARATAXIS 13|14|MARK 14|12|XCOMP 15|14|XCOMP 16|18|MARK 17|18|NMOD-POSS 18|15|CCOMP 19|20|PUNCT 20|21|COMPOUND 21|18|PARATAXIS 22|3|PUNCT
+*B:	well , it's only been around for not even three months and there are seventeen hundred people in it already . 1475830_1481740
+%mor:	intj|well cm|cm pron|its-Prs-Nom-S3 adv|only aux|be-Part-Past-S-irr adv|around adp|for part|not adv|even num|three noun|month-Plur cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 num|seventeen num|hundred noun|person-Plur adp|in pron|it-Prs-Acc-S3 adv|already .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|ADVMOD 5|6|COP 6|0|ROOT 7|11|CASE 8|11|ADVMOD 9|10|ADVMOD 10|11|NUMMOD 11|6|OBL 12|14|CC 13|14|EXPL 14|6|CONJ 15|16|COMPOUND 16|17|NUMMOD 17|14|NSUBJ 18|19|CASE 19|17|NMOD 20|14|ADVMOD 21|6|PUNCT
+*A:	well I would &+w , I would want to know &-um how they . 1481870_1485910
+%mor:	intj|well pron|I-Prs-Nom-S1 aux|would-Fin-S cm|cm pron|I-Prs-Nom-S1 aux|would-Fin-S verb|want-Inf-S part|to verb|know-Inf-S adv|how pron|they-Prs-Nom-P3 .
+%gra:	1|7|DISCOURSE 2|3|NSUBJ 3|7|REPARANDUM 4|3|PUNCT 5|7|NSUBJ 6|7|AUX 7|0|ROOT 8|9|MARK 9|7|XCOMP 10|9|OBJ 11|9|CCOMP 12|7|PUNCT
+*A:	how they do the calls because &=breathes &-um . 1487970_1491140
+%mor:	adv|how pron|they-Prs-Nom-P3 verb|do-Fin-Ind-Pres-P3 det|the-Def-Art noun|call-Plur-Acc adv|because .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|ADVMOD 7|3|PUNCT
+*B:	what calls . 1491360_1491860
+%mor:	det|what-Def-Int noun|call-Plur .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*A:	I don't think MCL and sprint and and A_T_And_T are paying them . 1491470_1495310
+%mor:	pron|I-Prs-Nom-S1 adv|dont verb|think-Inf-S propn|MCL cconj|and propn|sprint cconj|and cconj|and propn|ATAndT aux|be-Fin-Ind-Pres-P3 verb|pay-Part-Pres-S pron|they-Prs-Acc-P3 .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|11|NSUBJ 5|6|CC 6|4|CONJ 7|9|CC 8|9|CC 9|4|CONJ 10|11|AUX 11|3|CCOMP 12|11|OBJ 13|3|PUNCT
+*A:	because they're using their networks you know . 1496300_1498270
+%mor:	sconj|because sconj|their verb|use-Part-Pres-S pron|their-Prs-Gen-P3 noun|network-Plur-Acc pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 .
+%gra:	1|3|MARK 2|3|MARK 3|7|ADVCL 4|5|NMOD-POSS 5|3|OBJ 6|7|NSUBJ 7|0|ROOT 8|7|PUNCT
+*B:	uhhuh . 1496450_1497420
+%mor:	intj|uhhuh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	how are they getting how's the call being completed and how are they getting their money ? 1498670_1501910
+%mor:	adv|how aux|be-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 verb|get-Part-Pres-S noun|how-Plur-Acc det|the-Def-Art noun|call-Acc aux|be-Part-Pres-S verb|complete-Part-Past-S cconj|and adv|how aux|be-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 verb|get-Part-Pres-S pron|their-Prs-Gen-P3 noun|money-Acc ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|OBJ 6|7|DET 7|4|OBJ 8|9|AUX-PASS 9|7|ACL 10|14|CC 11|14|ADVMOD 12|14|AUX 13|14|NSUBJ 14|4|CONJ 15|16|NMOD-POSS 16|14|OBJ 17|4|PUNCT
+@End

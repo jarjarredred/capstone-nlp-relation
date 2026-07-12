@@ -1,0 +1,8 @@
+# Dependencies (pylangacq, pandas/polars, numpy, skl, spacy, earn, nltk, spacy, gensim, matplotlib, seaborn)
+pylangacq>=0.7.0
+pandas>=2.0.0
+polars>=0.20.0
+spacy>=3.5.0
+scikit-learn>=1.2.0
+matplotlib>=3.7.0
+seaborn>=0.12.0

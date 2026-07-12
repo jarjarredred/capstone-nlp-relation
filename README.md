@@ -6,7 +6,17 @@
 
 ### Updates
 
-#### Deleted source files from copied "streaming project" which uses the most recent vs code organization and python build
+Deleted source files from copied "streaming project".
+Uses the most recent vs code organization and python build
+
+Install pylangacq via pip
+
+Updated organization and starter files.
+
+Created parser.py and script to extract and clean the data from the .cha files.
+The script declined 3 of the 176 files due to unique formatting likely due to a foreign language.
+This loss in data will be considered adaquate due to the large sample size provided.
+Columns include: file_id, turn_index, speaker_encounded, text, start_ms, end_ms, and word_count.
 
 [![Workflow Guide](https://img.shields.io/badge/Pro--Guide-pro--analytics--02-green)](https://denisecase.github.io/pro-analytics-02/workflow-b-apply-example-project/)
 [![Python 3.14](https://img.shields.io/badge/python-3.14%2B-blue?logo=python)](./pyproject.toml)

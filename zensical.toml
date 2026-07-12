@@ -8,9 +8,9 @@
 
 [project]
 site_name = "Streaming Data"
-site_url = "https://jarjarredred.github.io/streaming-01-foundations/"
-repo_url = "https://github.com/jarjarredred/streaming-01-foundations"
-repo_name = "jarjarredred/streaming-01-foundations"
+site_url = "https://jarjarredred.github.io/capstone-nlp-relation/"
+repo_url = "https://github.com/jarjarredred/capstone-nlp-relation"
+repo_name = "jarjarredred/capstone-nlp-relation"
 site_description = "Project documentation"
 docs_dir = "docs" # source directory for documentation markdown files
 site_dir = "site" # output directory for generated site (ignored by Git; not in repo)

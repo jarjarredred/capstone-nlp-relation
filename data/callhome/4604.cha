@@ -1,0 +1,301 @@
+@UTF8
+@PID:	11312/a-00077149-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant, PAR1 Participant
+@ID:	eng|eng|PAR0|||||Participant|||
+@ID:	eng|eng|PAR1|||||Participant|||
+@Media:	4604, audio
+@Comment:	ASR from Rev-AI
+*PAR0:	are you in New Jersey . 105_845
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 adp|in adj|New-S1 propn|Jersey .
+%gra:	1|5|COP 2|5|NSUBJ 3|5|CASE 4|5|AMOD 5|0|ROOT 6|5|PUNCT
+*PAR1:	I'm in northern New Jersey in Berkeley Heights . 1545_3485
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adp|in adj|northern-S1 adj|New-S1 propn|Jersey adp|in propn|Berkeley propn|Height .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|CASE 4|6|AMOD 5|6|AMOD 6|0|ROOT 7|9|CASE 8|9|COMPOUND 9|6|NMOD 10|6|PUNCT
+*PAR0:	okay . 3715_4005
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	yeah . 4005_4205
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	I'm a little bit north of you in Morristown oh . 4225_6485
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 det|a-Ind-Art adj|little-S1 noun|bit adv|north adp|of pron|you-Prs-Acc-S2 adp|in propn|Morristown intj|oh .
+%gra:	1|6|NSUBJ 2|6|COP 3|5|DET 4|5|AMOD 5|6|OBL-UNMARKED 6|0|ROOT 7|8|CASE 8|6|OBL 9|10|CASE 10|6|OBL 11|6|DISCOURSE 12|6|PUNCT
+*PAR1:	really . 6485_6725
+%mor:	adv|really .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	yeah . 6875_7165
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	yeah . 7275_7565
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	wow . 9365_9585
+%mor:	intj|wow .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	so in general how do you feel . 10005_11385
+%mor:	adv|so adp|in adj|general-S1 adv|how aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|feel-Inf-S .
+%gra:	1|7|DISCOURSE 2|3|CASE 3|7|OBL 4|7|ADVMOD 5|7|AUX 6|7|NSUBJ 7|0|ROOT 8|7|PUNCT
+*PAR1:	well I feel my real estate taxes are exorbitant . 12375_15065
+%mor:	intj|well pron|I-Prs-Nom-S1 verb|feel-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 adj|real-S1 noun|estate noun|tax-Plur aux|be-Fin-Ind-Pres-P3 adj|exorbitant-S1 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|7|NMOD-POSS 5|6|AMOD 6|7|COMPOUND 7|9|NSUBJ 8|9|COP 9|3|CCOMP 10|3|PUNCT
+*PAR1:	mhm . 15065_15385
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	and &-uh I think a lot of that is due to &-uh school taxes . 16005_19665
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 det|a-Ind-Art noun|lot adp|of pron|that-Dem aux|be-Fin-Ind-Pres-S3 adj|due-S1 adp|to noun|school noun|tax-Plur .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|12|NSUBJ 6|7|CASE 7|5|NMOD 8|12|COP 9|12|CASE 10|9|FIXED 11|12|COMPOUND 12|3|CCOMP 13|3|PUNCT
+*PAR1:	&-uh from what I understand New Jersey has the &-uh highest education cost per pupil &-uh over the entire United States I think even including Alaska where you might expect cost to be higher . 20925_32495
+%mor:	adp|from pron|what-Rel-S1 pron|I-Prs-Nom-S1 verb|understand-Fin-Ind-Pres-S1 adj|New-S1 propn|Jersey verb|have-Fin-Ind-Pres-S3 det|the-Def-Art adj|high-Sup-S1 noun|education noun|cost-Acc adp|per noun|pupil adp|over det|the-Def-Art adj|entire-S1 verb|Unite-Part-Past-S propn|State-Plur pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 adv|even verb|include-Part-Pres-S propn|Alaska adv|where pron|you-Prs-Nom-S2 aux|might-Fin-S verb|expect-Inf-S noun|cost-Acc part|to aux|be-Inf-S adj|high-Cmp-S1 .
+%gra:	1|2|CASE 2|20|OBL 3|4|NSUBJ 4|2|ACL-RELCL 5|6|AMOD 6|4|NSUBJ 7|20|CCOMP 8|11|DET 9|11|AMOD 10|11|COMPOUND 11|7|OBJ 12|13|CASE 13|11|NMOD 14|18|CASE 15|18|DET 16|18|AMOD 17|18|AMOD 18|11|NMOD 19|20|NSUBJ 20|0|ROOT 21|23|ADVMOD 22|23|CASE 23|20|OBL 24|27|ADVMOD 25|27|NSUBJ 26|27|AUX 27|23|ACL-RELCL 28|27|OBJ 29|31|MARK 30|31|COP 31|27|XCOMP 32|20|PUNCT
+*PAR1:	mm . 32755_32975
+%mor:	intj|mm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	and I'm not exactly sure what that can be attributed to . 34365_37225
+%mor:	cconj|and pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|not adv|exactly adj|sure-S1 pron|what-Int-S1 pron|that-Dem aux|can-Fin-S aux|be-Inf-S verb|attribute-Part-Past-S adp|to .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|COP 4|6|ADVMOD 5|6|ADVMOD 6|0|ROOT 7|6|OBJ 8|11|NSUBJ-PASS 9|11|AUX 10|11|AUX-PASS 11|7|ACL-RELCL 12|6|PUNCT 13|6|PUNCT
+*PAR1:	I think it's a lot of it is &-um &-uh administrative costs because &-uh teachers don't really get paid any more than &-um other you know states in the Northeast yeah . 37265_50545
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|lot adp|of pron|it-Prs-Acc-S3 aux|be-Fin-Ind-Pres-S3 adj|administrative-S1 noun|cost-Plur sconj|because noun|teacher-Plur aux|do-Fin-Ind-Pres-P3~part|not adv|really aux|get-Inf-S verb|pay-Part-Past-S-irr det|any-Def-Ind adj|more-Cmp-S1 adp|than adj|other-S1 pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 noun|state-Plur-Acc adp|in det|the-Def-Art propn|Northeast intj|yeah .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|11|NSUBJ 4|11|COP 5|6|DET 6|11|NSUBJ 7|8|CASE 8|6|NMOD 9|11|COP 10|11|AMOD 11|2|CCOMP 12|18|MARK 13|18|NSUBJ-PASS 14|18|AUX 15|18|ADVMOD 16|18|ADVMOD 17|18|AUX-PASS 18|11|ADVCL 19|20|DET 20|18|OBJ 21|22|CASE 22|20|OBL 23|24|NSUBJ 24|20|ADVCL 25|24|OBJ 26|28|CASE 27|28|DET 28|24|OBL 29|2|DISCOURSE 30|2|PUNCT
+*PAR1:	but I think the administrators I think we're overloaded with administrators . 50725_53665
+%mor:	cconj|but pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 det|the-Def-Art noun|administrator-Plur-Acc pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 verb|overload-Part-Past-S adp|with noun|administrator-Plur .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|7|OBJ 6|7|NSUBJ 7|3|CCOMP 8|10|NSUBJ-PASS 9|10|AUX-PASS 10|7|CCOMP 11|12|CASE 12|10|OBL 13|3|PUNCT
+*PAR1:	so I think education costs are really one of the big expenses in New Jersey . 54165_58445
+%mor:	adv|so pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 noun|education noun|cost-Plur aux|be-Fin-Ind-Pres-P3 adv|really num|one adp|of det|the-Def-Art adj|big-S1 noun|expense-Plur adp|in adj|New-S1 propn|Jersey .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|5|COMPOUND 5|8|NSUBJ 6|8|COP 7|8|ADVMOD 8|3|CCOMP 9|12|CASE 10|12|DET 11|12|AMOD 12|8|NMOD 13|15|CASE 14|15|AMOD 15|12|NMOD 16|3|PUNCT
+*PAR0:	and yeah we just voted on our &-uh school board budget . 58505_61005
+%mor:	cconj|and intj|yeah pron|we-Prs-Nom-P1 adv|just verb|vote-Fin-Ind-Past-P1 adp|on pron|our-Prs-Gen-P1 noun|school noun|board noun|budget .
+%gra:	1|5|CC 2|5|DISCOURSE 3|5|NSUBJ 4|5|ADVMOD 5|0|ROOT 6|10|CASE 7|10|NMOD-POSS 8|9|COMPOUND 9|10|COMPOUND 10|5|OBL 11|5|PUNCT
+*PAR0:	yesterday . 61005_61565
+%mor:	noun|yesterday .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	&-uh it passed it had a two percent increase . 62025_64445
+%mor:	pron|it-Prs-Nom-S3 verb|pass-Fin-Ind-Past-S3 pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Past-S3-irr det|a-Ind-Art num|two noun|percent noun|increase-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NSUBJ 4|2|CCOMP 5|8|DET 6|7|NUMMOD 7|8|COMPOUND 8|4|OBJ 9|2|PUNCT
+*PAR0:	yeah . 64595_64885
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	which was &-uh you know pretty modest . 64975_66565
+%mor:	pron|which-Rel-S1 aux|be-Fin-Ind-Past-S3-irr pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 adv|pretty adj|modest-S1 .
+%gra:	1|4|NSUBJ-OUTER 2|4|COP 3|4|NSUBJ 4|0|ROOT 5|6|ADVMOD 6|4|XCOMP 7|4|PUNCT
+*PAR0:	&-um compared to the &-uh municipal budget that went up eleven percent . 67145_71565
+%mor:	verb|compare-Part-Past-S adp|to det|the-Def-Art adj|municipal-S1 noun|budget pron|that-Rel verb|go-Fin-Ind-Past-S3-irr adp|up num|eleven noun|percent .
+%gra:	1|0|ROOT 2|5|CASE 3|5|DET 4|5|AMOD 5|1|OBL 6|7|NSUBJ 7|5|ACL-RELCL 8|7|COMPOUND-PRT 9|10|NUMMOD 10|7|OBL-UNMARKED 11|1|PUNCT
+*PAR0:	oh really no increase in services . 71745_73405
+%mor:	intj|oh adv|really det|no-Def-Neg noun|increase adp|in noun|service-Plur .
+%gra:	1|4|DISCOURSE 2|4|ADVMOD 3|4|DET 4|0|ROOT 5|6|CASE 6|4|NMOD 7|4|PUNCT
+*PAR0:	so yeah . 73585_74165
+%mor:	adv|so intj|yeah .
+%gra:	1|0|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*PAR0:	school board is doing a little bit better job this year than &-um the Township administration . 74265_79205
+%mor:	noun|school noun|board aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S det|a-Ind-Art adj|little-S1 noun|bit adj|good-Cmp-S1 noun|job-Acc det|this-Def-Dem-Sing noun|year adp|than det|the-Def-Art propn|Township noun|administration .
+%gra:	1|2|COMPOUND 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|9|DET 6|7|AMOD 7|8|OBL-UNMARKED 8|9|AMOD 9|4|OBJ 10|11|DET 11|4|OBL-UNMARKED 12|15|CASE 13|15|DET 14|15|COMPOUND 15|4|OBL 16|4|PUNCT
+*PAR1:	yeah . 79355_79645
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	I [/] I think that's true . 79725_80565
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|true-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|NSUBJ 4|5|COP 5|2|CCOMP 6|2|PUNCT
+*PAR1:	I think the &-uh they have stabilized the &-um the school board costs . 80765_84845
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 det|the-Def-Art pron|they-Prs-Nom-P3 aux|have-Fin-Ind-Pres-P3 verb|stabilize-Part-Past-S det|the-Def-Art det|the-Def-Art noun|school noun|board verb|cost-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|6|NSUBJ 5|6|AUX 6|2|CCOMP 7|10|DET 8|10|DET 9|10|COMPOUND 10|11|COMPOUND 11|6|XCOMP 12|2|PUNCT
+*PAR1:	&-um our municipal costs have stabilized too . 85385_88165
+%mor:	pron|our-Prs-Gen-P1 adj|municipal-S1 noun|cost-Plur aux|have-Fin-Ind-Pres-P3 verb|stabilize-Part-Past-S adv|too .
+%gra:	1|3|NMOD-POSS 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|ADVMOD 7|5|PUNCT
+*PAR1:	but I think they're just enormous to start out from . 88185_90165
+%mor:	cconj|but pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 adv|just adj|enormous-S1 part|to verb|start-Inf-S adp|out adp|from .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|7|NSUBJ 5|7|COP 6|7|ADVMOD 7|3|CCOMP 8|9|MARK 9|7|XCOMP 10|9|COMPOUND-PRT 11|9|OBL 12|3|PUNCT
+*PAR1:	hmm . 90485_90565
+%mor:	intj|hmm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	yeah . 91155_91445
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	&-um we have &-um one of the highest I'm in the Morris School district . 91665_96365
+%mor:	pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 num|one adp|of det|the-Def-Art adj|high-Sup-S1 pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adp|in det|the-Def-Art propn|Morris propn|School noun|district .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|6|CASE 5|6|DET 6|3|NMOD 7|13|NSUBJ 8|13|COP 9|13|CASE 10|13|DET 11|12|COMPOUND 12|13|COMPOUND 13|6|ACL-RELCL 14|2|PUNCT
+*PAR0:	and we have about seventy five hundred dollars per pupil expenditure . 96785_100205
+%mor:	cconj|and pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 adv|about num|seventy num|five num|hundred noun|dollar-Plur-Acc adp|per noun|pupil noun|expenditure .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|ADVMOD 5|7|COMPOUND 6|7|COMPOUND 7|8|NUMMOD 8|3|OBJ 9|11|CASE 10|11|COMPOUND 11|8|NMOD 12|3|PUNCT
+*PAR0:	which is I think &-uh about two thousand dollars more per pupil than the state average . 100205_105805
+%mor:	pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 adv|about num|two num|thousand noun|dollar-Plur adj|more-Cmp-S1 adp|per noun|pupil adp|than det|the-Def-Art noun|state noun|average .
+%gra:	1|4|NSUBJ-OUTER 2|4|COP 3|4|NSUBJ 4|0|ROOT 5|6|ADVMOD 6|7|COMPOUND 7|8|NUMMOD 8|9|OBL-UNMARKED 9|4|OBJ 10|11|CASE 11|9|OBL 12|15|CASE 13|15|DET 14|15|COMPOUND 15|9|OBL 16|4|PUNCT
+*PAR0:	really . 106065_106485
+%mor:	adv|really .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	&-um but &-uh I have several friends in school business administration . 106705_112645
+%mor:	cconj|but pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 adj|several-S1 noun|friend-Plur-Acc adp|in noun|school noun|business noun|administration .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|AMOD 5|3|OBJ 6|9|CASE 7|9|COMPOUND 8|9|COMPOUND 9|5|NMOD 10|3|PUNCT
+*PAR0:	and they all you know tell me that &-uh that seventy five hundred is not outta line considering the size of the district and the diversity of the population and the richness of the programs and everything . 112705_122125
+%mor:	cconj|and pron|they-Prs-Nom-P3 det|all-Def-Tot pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 sconj|that sconj|that num|seventy num|five num|hundred aux|be-Fin-Ind-Pres-S3 part|not adp|outta noun|line verb|consider-Part-Pres-S det|the-Def-Art noun|size-Acc adp|of det|the-Def-Art noun|district cconj|and det|the-Def-Art noun|diversity adp|of det|the-Def-Art noun|population cconj|and det|the-Def-Art noun|richness adp|of det|the-Def-Art noun|program-Plur cconj|and pron|everything-Tot-S1 .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|NSUBJ 4|5|NSUBJ 5|3|ACL-RELCL 6|0|ROOT 7|6|IOBJ 8|16|MARK 9|16|MARK 10|12|NUMMOD 11|12|NUMMOD 12|16|NSUBJ 13|16|COP 14|16|ADVMOD 15|16|CASE 16|6|CCOMP 17|16|ACL 18|19|DET 19|17|OBJ 20|22|CASE 21|22|DET 22|19|NMOD 23|25|CC 24|25|DET 25|19|CONJ 26|28|CASE 27|28|DET 28|25|NMOD 29|31|CC 30|31|DET 31|19|CONJ 32|34|CASE 33|34|DET 34|31|NMOD 35|36|CC 36|34|CONJ 37|6|PUNCT
+*PAR0:	mm . 122305_122525
+%mor:	intj|mm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	in fact one in particular is &-uh was the business administrator for Randolph District which was listed by one of the &-um by Magazine as one of the top districts in the country . 122825_132765
+%mor:	adp|in noun|fact num|one adp|in adj|particular-S1 aux|be-Fin-Ind-Pres-S3 aux|be-Fin-Ind-Past-S3-irr det|the-Def-Art noun|business noun|administrator adp|for propn|Randolph propn|District pron|which-Rel-S1 aux|be-Fin-Ind-Past-S3-irr verb|list-Part-Past-S adp|by num|one adp|of det|the-Def-Art adp|by propn|Magazine adp|as num|one adp|of det|the-Def-Art adj|top-S1 noun|district-Plur adp|in det|the-Def-Art noun|country .
+%gra:	1|2|CASE 2|10|OBL 3|10|NSUBJ 4|5|CASE 5|3|NMOD 6|10|COP 7|10|COP 8|10|DET 9|10|COMPOUND 10|0|ROOT 11|13|CASE 12|13|COMPOUND 13|10|NMOD 14|16|NSUBJ-PASS 15|16|AUX-PASS 16|13|ACL-RELCL 17|18|CASE 18|16|OBL-AGENT 19|22|CASE 20|22|DET 21|22|CASE 22|18|NMOD 23|24|CASE 24|16|OBL 25|28|CASE 26|28|DET 27|28|AMOD 28|24|NMOD 29|31|CASE 30|31|DET 31|28|NMOD 32|10|PUNCT
+*PAR0:	and &-um but he chose to live in Moore School districts so he could have his child go there . 133745_138125
+%mor:	cconj|and cconj|but pron|he-Prs-Nom-S3 verb|choose-Fin-Ind-Past-S3-irr part|to verb|live-Inf-S adp|in propn|Moore propn|School noun|district-Plur sconj|so pron|he-Prs-Nom-S3 aux|could-Fin-S verb|have-Inf-S pron|his-Prs-Gen-S3 noun|child-Acc verb|go-Inf-S adv|there .
+%gra:	1|4|CC 2|4|CC 3|4|NSUBJ 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|10|CASE 8|9|COMPOUND 9|10|COMPOUND 10|6|OBL 11|14|MARK 12|14|NSUBJ 13|14|AUX 14|4|PARATAXIS 15|16|NMOD-POSS 16|14|OBJ 17|14|XCOMP 18|17|ADVMOD 19|4|PUNCT
+*PAR0:	uhhuh . 138525_138845
+%mor:	intj|uhhuh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	so that was a pretty [/] pretty strong boat in favor . 139025_141005
+%mor:	adv|so pron|that-Dem aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art adv|pretty adj|strong-S1 noun|boat adp|in noun|favor .
+%gra:	1|7|DISCOURSE 2|7|NSUBJ 3|7|COP 4|7|DET 5|6|ADVMOD 6|7|AMOD 7|0|ROOT 8|9|CASE 9|7|NMOD 10|7|PUNCT
+*PAR0:	yeah . 141195_141485
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	well I . 141755_142125
+%mor:	intj|well noun|I .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*PAR0:	have nothing at least that portion of our money . 142125_143645
+%mor:	verb|have-Fin-Imp-S pron|nothing-Neg-S1 adp|at adj|least-Sup-S1 det|that-Def-Dem-Sing noun|portion-Acc adp|of pron|our-Prs-Gen-P1 noun|money .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|CASE 4|6|NMOD 5|6|DET 6|1|OBJ 7|9|CASE 8|9|NMOD-POSS 9|6|NMOD 10|1|PUNCT
+*PAR1:	right . 143815_144165
+%mor:	adj|right-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	the quality education I think is [/] is reasonably good . 144185_146485
+%mor:	det|the-Def-Art noun|quality noun|education pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 aux|be-Fin-Ind-Pres-S3 adv|reasonably adj|good-S1 .
+%gra:	1|3|DET 2|3|COMPOUND 3|8|NSUBJ 4|5|NSUBJ 5|3|ACL-RELCL 6|8|COP 7|8|ADVMOD 8|0|ROOT 9|8|PUNCT
+*PAR1:	I just think we're paying too much for it . 146605_148005
+%mor:	pron|I-Prs-Nom-S1 adv|just verb|think-Fin-Ind-Pres-S1 pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 verb|pay-Part-Pres-S adv|too adj|much-S1 adp|for pron|it-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|6|NSUBJ 5|6|AUX 6|3|CCOMP 7|8|ADVMOD 8|6|ADVMOD 9|10|CASE 10|6|OBL 11|3|PUNCT
+*PAR1:	my wife happens to be a &-um a learning disabilities consultant . 148345_152725
+%mor:	pron|my-Prs-Gen-S1 noun|wife verb|happen-Fin-Ind-Pres-S3 part|to aux|be-Inf-S det|a-Ind-Art det|a-Ind-Art noun|learning-Ger noun|disability-Plur noun|consultant .
+%gra:	1|2|NMOD-POSS 2|3|NSUBJ 3|0|ROOT 4|10|MARK 5|10|COP 6|10|DET 7|10|DET 8|9|COMPOUND 9|10|COMPOUND 10|3|XCOMP 11|3|PUNCT
+*PAR1:	mhm . 152825_153245
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	and &-um I give her a lot of grief because it's [/] it's one of these programs that are mandated by the state . 153985_160405
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|give-Fin-Ind-Pres-S1 pron|her-Prs-Acc-S3 det|a-Ind-Art noun|lot-Acc adp|of noun|grief sconj|because pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 num|one adp|of det|this-Def-Dem-Plur noun|program-Plur pron|that-Rel aux|be-Fin-Ind-Pres-P3 verb|mandate-Part-Past-S adp|by det|the-Def-Art noun|state .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|IOBJ 5|6|DET 6|3|OBJ 7|8|CASE 8|6|NMOD 9|12|MARK 10|12|NSUBJ 11|12|COP 12|3|ADVCL 13|15|CASE 14|15|DET 15|12|NMOD 16|18|NSUBJ-PASS 17|18|AUX-PASS 18|15|ACL-RELCL 19|21|CASE 20|21|DET 21|18|OBL-AGENT 22|3|PUNCT
+*PAR1:	mhm . 160425_160845
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	&-uh she does no teaching . 161385_162845
+%mor:	pron|she-Prs-Nom-S3 verb|do-Fin-Ind-Pres-S3 det|no-Def-Neg noun|teaching-Acc-Ger .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR1:	she &-uh does a lot of paperwork and trying to screen pupils who need extra help . 162985_167645
+%mor:	pron|she-Prs-Nom-S3 verb|do-Fin-Ind-Pres-S3 det|a-Ind-Art noun|lot-Acc adp|of noun|paperwork cconj|and verb|try-Part-Pres-S part|to verb|screen-Inf-S noun|pupil-Plur-Acc pron|who-Rel verb|need-Fin-Ind-Pres-P3 adj|extra-S1 noun|help-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|CASE 6|4|NMOD 7|8|CC 8|2|CONJ 9|10|MARK 10|8|XCOMP 11|10|OBJ 12|13|NSUBJ 13|11|ACL-RELCL 14|15|AMOD 15|13|OBJ 16|2|PUNCT
+*PAR1:	mhm . 167665_168085
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	and it's [/] it's very labor intensive and a lot of paperwork . 168945_172085
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|very noun|labor adj|intensive-S1 cconj|and det|a-Ind-Art noun|lot adp|of noun|paperwork .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|COP 4|6|ADVMOD 5|6|OBL-UNMARKED 6|0|ROOT 7|9|CC 8|9|DET 9|6|CONJ 10|11|CASE 11|9|NMOD 12|6|PUNCT
+*PAR1:	and I [/] I [/] I often wonder whether we're [/] we're really getting our money's worth for helping these students . 172145_179405
+%mor:	cconj|and pron|I-Prs-Nom-S1 adv|often verb|wonder-Fin-Ind-Pres-S1 sconj|whether pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 adv|really verb|get-Part-Pres-S pron|our-Prs-Gen-P1 noun|money~part|s noun|worth-Acc sconj|for verb|help-Ger-S det|this-Def-Dem-Plur noun|student-Plur-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|9|MARK 6|9|NSUBJ 7|9|AUX 8|9|ADVMOD 9|4|CCOMP 10|11|NMOD-POSS 11|13|NMOD-POSS 12|11|CASE 13|9|OBJ 14|15|MARK 15|9|ADVCL 16|17|DET 17|15|OBJ 18|4|PUNCT
+*PAR1:	I think they have to be helped in some way . 179685_181125
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Pres-P3 part|to aux|be-Inf-S verb|help-Part-Past-S adp|in det|some-Def-Ind noun|way .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NSUBJ 4|2|CCOMP 5|7|MARK 6|7|AUX-PASS 7|4|XCOMP 8|10|CASE 9|10|DET 10|7|OBL 11|2|PUNCT
+*PAR1:	but I'm [/] I'm just wondering whether the process is really efficient . 181145_184245
+%mor:	cconj|but pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|just verb|wonder-Part-Pres-S sconj|whether det|the-Def-Art noun|process aux|be-Fin-Ind-Pres-S3 adv|really adj|efficient-S1 .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|11|MARK 7|8|DET 8|11|NSUBJ 9|11|COP 10|11|ADVMOD 11|5|CCOMP 12|5|PUNCT
+*PAR1:	and that's just one of the kinds of &-uh services that we're really paying for . 184245_188325
+%mor:	cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|just num|one adp|of det|the-Def-Art noun|kind-Plur adp|of noun|service-Plur pron|that-Rel pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 adv|really verb|pay-Part-Pres-S adp|for .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|0|ROOT 6|8|CASE 7|8|DET 8|5|NMOD 9|10|CASE 10|8|NMOD 11|15|OBJ 12|15|NSUBJ 13|15|AUX 14|15|ADVMOD 15|10|ACL-RELCL 16|11|CASE 17|5|PUNCT
+*PAR0:	yeah that's [/] that's part of the frustrating &-uh areas of [/] of this topic is &-uh I don't have a whole lot of problem with the total amount of tax I pay . 188755_198445
+%mor:	intj|yeah pron|that-Dem~aux|be-Fin-Ind-Pres-S3 noun|part adp|of det|the-Def-Art adj|frustrating-S1 noun|area-Plur adp|of det|this-Def-Dem-Sing noun|topic aux|be-Fin-Ind-Pres-S3 pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|have-Inf-S det|a-Ind-Art adj|whole-S1 noun|lot-Acc adp|of noun|problem adp|with det|the-Def-Art adj|total-S1 noun|amount adp|of noun|tax pron|I-Prs-Nom-S1 verb|pay-Fin-Ind-Pres-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|16|NSUBJ-OUTER 5|8|CASE 6|8|DET 7|8|AMOD 8|4|NMOD 9|11|CASE 10|11|DET 11|8|NMOD 12|16|COP 13|16|NSUBJ 14|16|AUX 15|16|ADVMOD 16|0|ROOT 17|19|DET 18|19|AMOD 19|16|OBJ 20|21|CASE 21|19|NMOD 22|25|CASE 23|25|DET 24|25|AMOD 25|16|OBL 26|27|CASE 27|25|NMOD 28|29|NSUBJ 29|27|ACL-RELCL 30|16|PUNCT
+*PAR0:	and I have no idea what that is . 198785_200365
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 det|no-Def-Neg noun|idea-Acc pron|what-Int-S1 pron|that-Dem aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|ACL 7|8|NSUBJ 8|6|COP 9|3|PUNCT
+*PAR0:	by the way as I'm sitting here thinking about it I have no idea . 201225_204445
+%mor:	adp|by det|the-Def-Art noun|way sconj|as pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|sit-Part-Pres-S adv|here verb|think-Part-Pres-S adp|about pron|it-Prs-Acc-S3 pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 det|no-Def-Neg noun|idea-Acc .
+%gra:	1|3|CASE 2|3|DET 3|13|OBL 4|7|MARK 5|7|NSUBJ 6|7|AUX 7|3|ACL 8|7|ADVMOD 9|7|ADVCL 10|11|CASE 11|9|OBL 12|13|NSUBJ 13|0|ROOT 14|15|DET 15|13|OBJ 16|13|PUNCT
+*PAR0:	I don't know whether I end up paying thirty percent or fifty percent of my total wages and taxes . 204565_210685
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S sconj|whether pron|I-Prs-Nom-S1 verb|end-Fin-Ind-Pres-S1 adp|up verb|pay-Ger-S num|thirty noun|percent-Acc cconj|or num|fifty noun|percent adp|of pron|my-Prs-Gen-S1 adj|total-S1 noun|wage-Plur cconj|and noun|tax-Plur .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|7|MARK 6|7|NSUBJ 7|4|CCOMP 8|7|COMPOUND-PRT 9|7|XCOMP 10|11|NUMMOD 11|9|OBJ 12|14|CC 13|14|NUMMOD 14|11|CONJ 15|18|CASE 16|18|NMOD-POSS 17|18|AMOD 18|14|NMOD 19|20|CC 20|18|CONJ 21|4|PUNCT
+*PAR0:	<when you> [/] when you think of income and social security and state tax and [/] and local tax and then sales tax . 210875_219125
+%mor:	adv|when pron|you-Prs-Nom-S2 verb|think-Fin-Ind-Pres-S2 adp|of noun|income cconj|and adj|social-S1 noun|security cconj|and noun|state noun|tax cconj|and adj|local-S1 noun|tax cconj|and adv|then noun|sale-Plur noun|tax .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|5|CASE 5|3|OBL 6|8|CC 7|8|AMOD 8|5|CONJ 9|11|CC 10|11|COMPOUND 11|5|CONJ 12|14|CC 13|14|AMOD 14|5|CONJ 15|18|CC 16|18|ADVMOD 17|18|COMPOUND 18|5|CONJ 19|3|PUNCT
+*PAR0:	&-uh I suspect it's &-uh you know pretty [/] pretty high up there . 219865_223085
+%mor:	pron|I-Prs-Nom-S1 verb|suspect-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 adv|pretty adj|high-S1 adp|up adv|there .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|6|NSUBJ-OUTER 4|6|COP 5|6|NSUBJ 6|2|CCOMP 7|8|ADVMOD 8|6|XCOMP 9|6|COMPOUND-PRT 10|6|ADVMOD 11|2|PUNCT
+*PAR0:	forty fifty percent . 223085_224045
+%mor:	num|forty num|fifty noun|percent .
+%gra:	1|3|NUMMOD 2|3|NUMMOD 3|0|ROOT 4|3|PUNCT
+*PAR0:	I'm sure it's but I mean my standard of living is high . 224305_227125
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|sure-S1 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 cconj|but pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 noun|standard adp|of noun|living-Ger aux|be-Fin-Ind-Pres-S3 adj|high-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|5|NSUBJ 5|3|CCOMP 6|14|CC 7|8|NSUBJ 8|14|PARATAXIS 9|10|NMOD-POSS 10|14|NSUBJ 11|12|CASE 12|10|NMOD 13|14|COP 14|3|CONJ 15|3|PUNCT
+*PAR0:	and I &-uh you know I get police protection and garbage pickup . 227125_230005
+%mor:	cconj|and pron|I-Prs-Nom-S1 pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Pres-S1 noun|police noun|protection-Acc cconj|and noun|garbage noun|pickup .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|NSUBJ 4|0|ROOT 5|6|NSUBJ 6|4|CCOMP 7|8|COMPOUND 8|6|OBJ 9|11|CC 10|11|COMPOUND 11|8|CONJ 12|4|PUNCT
+*PAR0:	and you know what else do I need . 230145_231365
+%mor:	cconj|and pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|what-Int-S1 adj|else-S1 aux|do-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|need-Inf-S .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|4|AMOD 6|8|AUX 7|8|NSUBJ 8|4|ACL-RELCL 9|3|PUNCT
+*PAR0:	&-uh what I don't know though is if that tax money is being spent efficiently and effectively . 232065_236885
+%mor:	pron|what-Int-S1 pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S adv|though aux|be-Fin-Ind-Pres-S3 sconj|if det|that-Def-Dem-Sing noun|tax noun|money aux|be-Fin-Ind-Pres-S3 aux|be-Part-Pres-S verb|spend-Part-Past-S-irr adv|efficiently cconj|and adv|effectively .
+%gra:	1|14|NSUBJ-OUTER 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|1|ACL-RELCL 6|5|ADVMOD 7|14|COP 8|14|MARK 9|11|DET 10|11|COMPOUND 11|14|NSUBJ-PASS 12|14|AUX 13|14|AUX-PASS 14|0|ROOT 15|14|ADVMOD 16|17|CC 17|15|CONJ 18|14|PUNCT
+*PAR0:	&-uh and I'm [/] I'm sure as in any business things could improve . 237665_242045
+%mor:	cconj|and pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|sure-S1 sconj|as adp|in det|any-Def-Ind noun|business noun|thing-Plur aux|could-Fin-S verb|improve-Inf-S .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|11|MARK 6|8|CASE 7|9|DET 8|9|COMPOUND 9|11|NSUBJ 10|11|AUX 11|4|ADVCL 12|4|PUNCT
+*PAR0:	but I don't know overall whether &-uh I'm getting full value for that &-uh tax dollar . 242425_248005
+%mor:	cconj|but pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S adv|overall sconj|whether pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|get-Part-Pres-S adj|full-S1 noun|value-Acc adp|for det|that-Def-Dem-Sing noun|tax noun|dollar .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|5|ADVMOD 7|10|MARK 8|10|NSUBJ 9|10|AUX 10|5|CCOMP 11|12|AMOD 12|10|OBJ 13|16|CASE 14|16|DET 15|16|COMPOUND 16|10|OBL 17|5|PUNCT
+*PAR0:	&-um I [/] I just I don't have any way of [/] of really determining that unless you get into the nitty gritty of a budget and see where every dollar goes . 248695_258355
+%mor:	pron|I-Prs-Nom-S1 adv|just pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|have-Inf-S det|any-Def-Ind noun|way-Acc sconj|of adv|really verb|determine-Ger-S pron|that-Dem sconj|unless pron|you-Prs-Nom-S2 verb|get-Fin-Ind-Pres-S2 adp|into det|the-Def-Art adj|nitty-S1 noun|gritty adp|of det|a-Ind-Art noun|budget cconj|and verb|see-Fin-Ind-Pres-S1 adv|where det|every-Def-Tot noun|dollar verb|go-Fin-Ind-Pres-S3 .
+%gra:	1|6|NSUBJ 2|6|ADVMOD 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|8|DET 8|6|OBJ 9|11|MARK 10|11|ADVMOD 11|8|ACL 12|11|OBJ 13|15|MARK 14|15|NSUBJ 15|11|ADVCL 16|19|CASE 17|19|DET 18|19|AMOD 19|15|OBL 20|22|CASE 21|22|DET 22|19|NMOD 23|24|CC 24|6|CONJ 25|28|ADVMOD 26|27|DET 27|28|NSUBJ 28|24|CCOMP 29|6|PUNCT
+*PAR0:	right . 258405_258755
+%mor:	adj|right-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	well [/] well lay people . 258755_259475
+%mor:	intj|well verb|lay-Fin-Imp-S noun|person-Plur-Acc .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR0:	how are you gonna know . 259495_259955
+%mor:	adv|how aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|go-Part-Pres-S~part|to verb|know-Inf-S .
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|4|PUNCT
+*PAR1:	and we really don't know . 260295_261195
+%mor:	cconj|and pron|we-Prs-Nom-P1 adv|really aux|do-Fin-Ind-Pres-P1~part|not verb|know-Inf-S .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|ADVMOD 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|6|PUNCT
+*PAR1:	and I think &-um school boards &-um sort of have inertia too . 261495_266595
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 noun|school noun|board-Plur noun|sort adp|of verb|have-Fin-Ind-Pres-P3 noun|inertia-Acc adv|too .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|COMPOUND 5|8|NSUBJ 6|8|ADVMOD 7|6|FIXED 8|3|CCOMP 9|8|OBJ 10|8|ADVMOD 11|3|PUNCT
+*PAR1:	they [/] they accept what's given to them too . 266595_268435
+%mor:	pron|they-Prs-Nom-P3 verb|accept-Fin-Ind-Pres-P3 pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|give-Part-Past-S-irr adp|to pron|they-Prs-Acc-P3 adv|too .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|AUX-PASS 5|3|ACL-RELCL 6|7|CASE 7|5|OBL 8|5|ADVMOD 9|2|PUNCT
+*PAR1:	but they're experts . 268575_269555
+%mor:	cconj|but pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 noun|expert-Plur .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR1:	they're administrators . 269705_270835
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 noun|administrator-Plur .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*PAR1:	and just pass it on . 270855_271955
+%mor:	cconj|and adv|just verb|pass-Fin-Imp-S pron|it-Prs-Acc-S3 adp|on .
+%gra:	1|3|CC 2|3|ADVMOD 3|0|ROOT 4|3|OBJ 5|3|COMPOUND-PRT 6|3|PUNCT
+*PAR1:	I mean I don't think anyone's really gone into depth to try to &-uh suggest what can be done to make it more . 272395_278155
+%mor:	pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|think-Inf-S pron|anyone-Ind-S1~aux|be-Fin-Ind-Pres-S3 adv|really verb|go-Part-Past-S-irr adp|into noun|depth part|to verb|try-Inf-S part|to verb|suggest-Inf-S pron|what-Int-S1 aux|can-Fin-S aux|be-Inf-S verb|do-Part-Past-S-irr part|to verb|make-Inf-S pron|it-Prs-Acc-S3 adv|more .
+%gra:	1|2|NSUBJ 2|6|PARATAXIS 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|10|NSUBJ 8|10|AUX 9|10|ADVMOD 10|6|CCOMP 11|12|CASE 12|10|OBL 13|14|MARK 14|10|ADVCL 15|16|MARK 16|14|XCOMP 17|20|NSUBJ-PASS 18|20|AUX 19|20|AUX-PASS 20|16|CCOMP 21|22|MARK 22|20|ADVCL 23|22|OBJ 24|22|ADVMOD 25|6|PUNCT
+*PAR0:	efficient . 278355_278555
+%mor:	adj|efficient-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	yeah . 278745_279035
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	just [/] just &-uh you know a couple of almost anecdotal things . 279105_284335
+%mor:	adv|just pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 det|a-Ind-Art noun|couple-Acc adp|of adv|almost adj|anecdotal-S1 noun|thing-Plur .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|9|CASE 7|8|ADVMOD 8|9|AMOD 9|5|NMOD 10|3|PUNCT
+*PAR0:	I know New Jersey has more school districts than any other state . 284575_287735
+%mor:	pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 adj|New-S1 propn|Jersey verb|have-Fin-Ind-Pres-S3 adj|more-Cmp-S1 noun|school noun|district-Plur-Acc adp|than det|any-Def-Ind adj|other-S1 noun|state .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|AMOD 4|5|NSUBJ 5|2|CCOMP 6|8|AMOD 7|8|COMPOUND 8|5|OBJ 9|12|CASE 10|12|DET 11|12|AMOD 12|5|OBL 13|2|PUNCT
+*PAR0:	which is incredible . 289315_290305
+%mor:	pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 adj|incredible-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*PAR0:	given our size . 290305_291185
+%mor:	verb|give-Part-Past-S-irr pron|our-Prs-Gen-P1 noun|size-Acc .
+%gra:	1|0|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|1|PUNCT
+*PAR0:	mhm . 291205_291625
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	not only the population but the density and [/] and the territory . 291885_295545
+%mor:	part|not adv|only det|the-Def-Art noun|population cconj|but det|the-Def-Art noun|density cconj|and det|the-Def-Art noun|territory .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|DET 4|0|ROOT 5|7|CC 6|7|DET 7|4|CONJ 8|10|CC 9|10|DET 10|7|CONJ 11|4|PUNCT
+*PAR0:	but we have more school districts than any other . 295965_298265
+%mor:	cconj|but pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 adj|more-Cmp-S1 noun|school noun|district-Plur-Acc adp|than det|any-Def-Ind adj|other-S1 .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|AMOD 5|6|COMPOUND 6|3|OBJ 7|9|CASE 8|9|DET 9|3|OBL 10|3|PUNCT
+@End

@@ -1,0 +1,653 @@
+@UTF8
+@PID:	11312/t-00001082-1
+@Begin
+@Languages:	eng
+@Participants:	A Subject, B Subject
+@ID:	eng|eng|A|||||Subject|||
+@ID:	eng|eng|B|||||Subject|||
+@Media:	5495, audio
+*A:	In um , oh , in the in the &-uh envelope that I sent to you , . 348960_352440
+%mor:	adp|in intj|um cm|cm intj|oh cm|cm adp|in det|the-Def-Art adp|in det|the-Def-Art noun|envelope pron|that-Rel pron|I-Prs-Nom-S1 verb|send-Fin-Ind-Past-S1-irr adp|to pron|you-Prs-Acc-S2 cm|cm .
+%gra:	1|10|CASE 2|10|DISCOURSE 3|2|PUNCT 4|10|DISCOURSE 5|4|PUNCT 6|10|CASE 7|10|REPARANDUM 8|10|CASE 9|10|DET 10|0|ROOT 11|13|OBJ 12|13|NSUBJ 13|10|ACL-RELCL 14|15|CASE 15|13|OBL 16|10|PUNCT 17|10|PUNCT
+*A:	uh , there is your map , I'm returning it . 354160_356050
+%mor:	intj|uh cm|cm pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 pron|your-Prs-Gen-S2 noun|map cm|cm pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|return-Part-Pres-S pron|it-Prs-Acc-S3 .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|EXPL 4|0|ROOT 5|6|NMOD-POSS 6|4|NSUBJ 7|10|PUNCT 8|10|NSUBJ 9|10|AUX 10|4|PARATAXIS 11|10|OBJ 12|4|PUNCT
+*B:	xxx . 356420_357030
+*A:	and then , there's a book called something about azaleas . 356560_361120
+%mor:	cconj|and adv|then cm|cm pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|book verb|call-Part-Past-S pron|something-Ind-S1 adp|about noun|azalea-Plur .
+%gra:	1|5|CC 2|5|ADVMOD 3|2|PUNCT 4|5|EXPL 5|0|ROOT 6|7|DET 7|5|NSUBJ 8|7|ACL 9|8|XCOMP 10|11|CASE 11|9|NMOD 12|5|PUNCT
+*A:	and it is really interesting .
+%mor:	cconj|and pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adv|really adj|interesting-S1 .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|0|ROOT 6|5|PUNCT
+*A:	I never knew it had been written , . 362080_365670
+%mor:	pron|I-Prs-Nom-S1 adv|never verb|know-Fin-Ind-Past-S1-irr pron|it-Prs-Nom-S3 aux|have-Fin-Ind-Past-S3-irr aux|be-Part-Past-S-irr verb|write-Part-Past-S-irr cm|cm .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|7|NSUBJ-PASS 5|7|AUX 6|7|AUX-PASS 7|3|CCOMP 8|3|PUNCT 9|3|PUNCT
+*A:	it's written by one of the German Notre Dame sisters , . 366120_369210
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|write-Part-Past-S-irr adp|by num|one adp|of det|the-Def-Art adj|German-S1 propn|Notre propn|Dame noun|sister-Plur cm|cm .
+%gra:	1|3|NSUBJ-PASS 2|3|AUX-PASS 3|0|ROOT 4|5|CASE 5|3|OBL-AGENT 6|11|CASE 7|11|DET 8|11|AMOD 9|11|COMPOUND 10|9|FLAT 11|5|NMOD 12|3|PUNCT 13|3|PUNCT
+*B:	no kidding . 369570_370190
+%mor:	det|no-Def-Neg adj|kid-S1 .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*A:	who went to Dachau every week . 370370_374110
+%mor:	pron|who-Rel verb|go-Fin-Ind-Past-S3-irr adp|to propn|Dachau det|every-Def-Tot noun|week .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|CASE 4|2|OBL 5|6|DET 6|2|OBL-UNMARKED 7|2|PUNCT
+*A:	to take food , and to take all kinds of messages . 375380_379080
+%mor:	part|to verb|take-Inf-S noun|food-Acc cm|cm cconj|and part|to verb|take-Inf-S det|all-Def-Tot noun|kind-Plur-Acc adp|of noun|message-Plur .
+%gra:	1|2|MARK 2|0|ROOT 3|2|OBJ 4|7|PUNCT 5|7|CC 6|7|MARK 7|2|CONJ 8|9|DET 9|7|OBJ 10|11|CASE 11|9|NMOD 12|2|PUNCT
+*B:	oh+my+god . 379680_380440
+%mor:	propn|ohmygod .
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	and I think maybe she's still living . 380360_382340
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 adv|maybe pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|still verb|live-Part-Pres-S .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|8|ADVMOD 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|3|CCOMP 9|3|PUNCT
+*A:	anyway , ah the name azaleas &=breath . 383260_386600
+%mor:	intj|anyway cm|cm intj|ah det|the-Def-Art noun|name noun|azalea-Plur .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|DISCOURSE 4|6|DET 5|6|COMPOUND 6|0|ROOT 7|6|PUNCT
+*A:	attracted me , and then when I read it , I thought , gee this is really interesting . 387450_392050
+%mor:	verb|attract-Fin-Ind-Past-S3 pron|I-Prs-Acc-S1 cm|cm cconj|and adv|then adv|when pron|I-Prs-Nom-S1 verb|read-Fin-Ind-Past-S1-irr pron|it-Prs-Acc-S3 cm|cm pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Past-S1-irr cm|cm intj|gee pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 adv|really adj|interesting-S1 .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|PUNCT 4|12|CC 5|12|ADVMOD 6|8|ADVMOD 7|8|NSUBJ 8|12|ADVCL 9|8|OBJ 10|8|PUNCT 11|12|NSUBJ 12|1|CONJ 13|18|PUNCT 14|18|DISCOURSE 15|18|NSUBJ 16|18|COP 17|18|ADVMOD 18|12|CCOMP 19|1|PUNCT
+*A:	so I thought you'd like to read it , and if you want to send it on to the Dequeens . 392790_396260
+%mor:	adv|so pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Past-S1-irr pron|you-Prs-Nom-S2~aux|would-Fin-S verb|like-Inf-S part|to verb|read-Inf-S pron|it-Prs-Acc-S3 cm|cm cconj|and sconj|if pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 part|to verb|send-Inf-S pron|it-Prs-Acc-S3 adp|on adp|to det|the-Def-Art propn|Dequeens-Plur .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|6|NSUBJ 5|6|AUX 6|3|CCOMP 7|8|MARK 8|6|XCOMP 9|8|OBJ 10|14|PUNCT 11|14|CC 12|14|MARK 13|14|NSUBJ 14|6|ADVCL 15|16|MARK 16|14|XCOMP 17|16|OBJ 18|16|COMPOUND-PRT 19|21|CASE 20|21|DET 21|16|OBL 22|3|PUNCT
+*B:	okay . 396770_397220
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	you know that's fine .
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|NSUBJ 4|5|COP 5|2|CCOMP 6|2|PUNCT
+*A:	but it was really really interesting , I couldn't hardly believe it [=! whispered] .
+%mor:	cconj|but pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adv|really adv|really adj|interesting-S1 cm|cm pron|I-Prs-Nom-S1 aux|could-Fin-S~part|not adv|hardly verb|believe-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|COP 4|6|ADVMOD 5|6|ADVMOD 6|0|ROOT 7|12|PUNCT 8|12|NSUBJ 9|12|AUX 10|12|ADVMOD 11|12|ADVMOD 12|6|PARATAXIS 13|12|OBJ 14|6|PUNCT
+*A:	&=laughs . 397260_403460
+*B:	hm &=breath . 403800_404740
+%mor:	intj|hm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	&=breath . 404330_405060
+*B:	oh , I did finally send the package to them . 405300_407950
+%mor:	intj|oh cm|cm pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr adv|finally verb|send-Inf-S det|the-Def-Art noun|package-Acc adp|to pron|they-Prs-Acc-P3 .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|8|DET 8|6|OBJ 9|10|CASE 10|6|OBL 11|6|PUNCT
+*A:	oh , did you ? 407440_408520
+%mor:	intj|oh cm|cm aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 ?
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|0|ROOT 4|3|NSUBJ 5|3|PUNCT
+*B:	yeah , but I haven't heard from them , so I don't know . 408410_411220
+%mor:	intj|yeah cm|cm cconj|but pron|I-Prs-Nom-S1 aux|have-Fin-Ind-Pres-S1~part|not verb|hear-Part-Past-S-irr adp|from pron|they-Prs-Acc-P3 cm|cm adv|so pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|CC 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|0|ROOT 8|9|CASE 9|7|OBL 10|15|PUNCT 11|15|ADVMOD 12|15|NSUBJ 13|15|AUX 14|15|ADVMOD 15|7|PARATAXIS 16|7|PUNCT
+*A:	mhm . 411410_411990
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	presume it got there okay and everything . 412100_414350
+%mor:	verb|presume-Fin-Imp-S pron|it-Prs-Nom-S3 verb|get-Fin-Ind-Past-S3-irr adv|there adj|okay-S1 cconj|and pron|everything-Tot-S1 .
+%gra:	1|0|ROOT 2|3|NSUBJ 3|1|CCOMP 4|3|ADVMOD 5|3|XCOMP 6|7|CC 7|5|CONJ 8|1|PUNCT
+*A:	yeah , yeah . 413780_415120
+%mor:	intj|yeah cm|cm intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT 3|1|DISCOURSE 4|1|PUNCT
+*A:	well , I haven't heard anything from Frank , &=breath whom I wrote to uh in Florida . 416800_421850
+%mor:	intj|well cm|cm pron|I-Prs-Nom-S1 aux|have-Fin-Ind-Pres-S1~part|not verb|hear-Part-Past-S-irr pron|anything-Ind-S1 adp|from propn|Frank cm|cm pron|whom-Rel-S1 pron|I-Prs-Nom-S1 verb|write-Fin-Ind-Past-S1-irr adp|to intj|uh adp|in propn|Florida .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|6|OBJ 8|9|CASE 9|7|NMOD 10|13|PUNCT 11|13|OBJ 12|13|NSUBJ 13|9|ACL-RELCL 14|17|CASE 15|17|DISCOURSE 16|17|CASE 17|13|OBL 18|6|PUNCT
+*A:	I did hear from Betty , who is the person in near Green Bay Luxembourg &=breath . 422740_428230
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr verb|hear-Inf-S adp|from propn|Betty cm|cm pron|who-Rel aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|person adp|in adp|near adj|Green-S1 propn|Bay propn|Luxembourg .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|CASE 5|3|OBL 6|10|PUNCT 7|10|NSUBJ 8|10|COP 9|10|DET 10|5|ACL-RELCL 11|14|CASE 12|14|CASE 13|14|AMOD 14|10|NMOD 15|10|NMOD 16|3|PUNCT
+*A:	who is married to a Declean , &-uh connected with the Father Decleans . 428570_433260
+%mor:	pron|who-Rel aux|be-Fin-Ind-Pres-S3 verb|marry-Part-Past-S adp|to det|a-Ind-Art propn|Declean cm|cm verb|connect-Part-Past-S adp|with det|the-Def-Art propn|Father propn|Declean .
+%gra:	1|3|NSUBJ-PASS 2|3|AUX-PASS 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|8|PUNCT 8|3|CONJ 9|11|CASE 10|11|DET 11|8|OBL 12|11|FLAT 13|3|PUNCT
+*A:	and she's the one that gave me a_lot_of this information , and I told her . 433900_437510
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|one pron|that-Rel verb|give-Fin-Ind-Past-S3-irr pron|I-Prs-Acc-S1 propn|alotof det|this-Def-Dem-Sing noun|information-Acc cm|cm cconj|and pron|I-Prs-Nom-S1 verb|tell-Fin-Ind-Past-S1-irr pron|her-Prs-Acc-S3 .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|DET 5|0|ROOT 6|7|NSUBJ 7|5|ACL-RELCL 8|7|IOBJ 9|7|IOBJ 10|11|DET 11|7|OBJ 12|15|PUNCT 13|15|CC 14|15|NSUBJ 15|5|CONJ 16|15|IOBJ 17|5|PUNCT
+*A:	that now we found this &=laughs Robert and Marie , and we didn't know his connection . 438060_441920
+%mor:	sconj|that adv|now pron|we-Prs-Nom-P1 verb|find-Fin-Ind-Past-P1-irr det|this-Def-Dem-Sing propn|Robert-Acc cconj|and propn|Marie cm|cm cconj|and pron|we-Prs-Nom-P1 aux|do-Fin-Ind-Past-P1-irr~part|not verb|know-Inf-S pron|his-Prs-Gen-S3 noun|connection-Acc .
+%gra:	1|4|MARK 2|4|ADVMOD 3|4|NSUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|CC 8|6|CONJ 9|14|PUNCT 10|14|CC 11|14|NSUBJ 12|14|AUX 13|14|ADVMOD 14|4|CONJ 15|16|NMOD-POSS 16|14|OBJ 17|4|PUNCT
+*A:	so I gave her his father's name and his grandfather's name and dates . 442940_448110
+%mor:	adv|so pron|I-Prs-Nom-S1 verb|give-Fin-Ind-Past-S1-irr pron|her-Prs-Acc-S3 pron|his-Prs-Gen-S3 noun|father~part|s noun|name-Acc cconj|and pron|his-Prs-Gen-S3 noun|grandfather~part|s noun|name cconj|and noun|date-Plur .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|3|IOBJ 5|6|NMOD-POSS 6|8|NMOD-POSS 7|6|CASE 8|3|OBJ 9|13|CC 10|11|NMOD-POSS 11|13|NMOD-POSS 12|11|CASE 13|8|CONJ 14|15|CC 15|13|CONJ 16|3|PUNCT
+*A:	and I said you know if there's any way you can figure this out , . 448940_452000
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 sconj|if pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|any-Def-Ind noun|way pron|you-Prs-Nom-S2 aux|can-Fin-S verb|figure-Inf-S pron|this-Dem-S1 adp|out cm|cm .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|NSUBJ 5|3|CCOMP 6|8|MARK 7|8|EXPL 8|5|CCOMP 9|10|DET 10|8|NSUBJ 11|13|NSUBJ 12|13|AUX 13|10|ACL-RELCL 14|13|OBJ 15|13|COMPOUND-PRT 16|3|PUNCT 17|3|PUNCT
+*A:	and so she said they were going to have some kind_of a reunion . 452850_455940
+%mor:	cconj|and adv|so pron|she-Prs-Nom-S3 verb|say-Fin-Ind-Past-S3-irr pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Past-P3-irr verb|go-Part-Pres-S part|to verb|have-Inf-S det|some-Def-Ind noun|kindof-Acc det|a-Ind-Art noun|reunion-Acc .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|0|ROOT 5|7|NSUBJ 6|7|AUX 7|4|CCOMP 8|9|MARK 9|7|XCOMP 10|11|DET 11|9|OBJ 12|13|DET 13|9|OBJ 14|4|PUNCT
+*A:	with their immediate family and she would ask , you know , whether anyone knew anything .
+%mor:	adp|with pron|their-Prs-Gen-P3 adj|immediate-S1 noun|family cconj|and pron|she-Prs-Nom-S3 aux|would-Fin-S verb|ask-Inf-S cm|cm pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 cm|cm sconj|whether pron|anyone-Ind-S1 verb|know-Fin-Ind-Past-S3-irr pron|anything-Ind-S1 .
+%gra:	1|4|CASE 2|4|NMOD-POSS 3|4|AMOD 4|8|OBL 5|8|CC 6|8|NSUBJ 7|8|AUX 8|0|ROOT 9|11|PUNCT 10|11|NSUBJ 11|8|PARATAXIS 12|11|PUNCT 13|15|MARK 14|15|NSUBJ 15|8|CCOMP 16|15|OBJ 17|8|PUNCT
+*A:	so , I haven't heard . 457350_464070
+%mor:	adv|so cm|cm pron|I-Prs-Nom-S1 aux|have-Fin-Ind-Pres-S1~part|not verb|hear-Part-Past-S-irr .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|6|PUNCT
+*B:	hm . 464700_464880
+%mor:	intj|hm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	&=lipsmack you know . 464930_465450
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*B:	&=breath and where is she from again ? 465920_467930
+%mor:	cconj|and adv|where aux|be-Fin-Ind-Pres-S3 pron|she-Prs-Nom-S3 adp|from adv|again ?
+%gra:	1|2|CC 2|0|ROOT 3|2|COP 4|2|NSUBJ 5|6|CASE 6|2|OBL 7|2|PUNCT
+*A:	she's from Luxembourg . 468050_469450
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|from propn|Luxembourg .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|0|ROOT 5|4|PUNCT
+*B:	mhm . 469810_470210
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	but she's not natively a Declean , it's her husband &=breath and he's connected with the Father Decleans . 470820_477330
+%mor:	cconj|but pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not adv|natively det|a-Ind-Art propn|Declean cm|cm pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|husband cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|connect-Part-Past-S adp|with det|the-Def-Art propn|Father propn|Declean .
+%gra:	1|7|CC 2|7|NSUBJ 3|7|COP 4|7|ADVMOD 5|7|ADVMOD 6|7|DET 7|0|ROOT 8|12|PUNCT 9|12|NSUBJ 10|12|COP 11|12|NMOD-POSS 12|7|PARATAXIS 13|16|CC 14|16|NSUBJ-PASS 15|16|AUX-PASS 16|12|CONJ 17|19|CASE 18|19|DET 19|16|OBL 20|19|FLAT 21|7|PUNCT
+*B:	oh I see , okay . 477950_479090
+%mor:	intj|oh pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 cm|cm intj|okay .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|5|PUNCT 5|3|DISCOURSE 6|3|PUNCT
+*A:	either the Father Decleans or Jack and maybe it's the same one , I can't remember . 478500_483030
+%mor:	cconj|either det|the-Def-Art propn|Father propn|Declean cconj|or propn|Jack cconj|and adv|maybe pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|same-S1 noun|one cm|cm pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|remember-Inf-S .
+%gra:	1|4|CC-PRECONJ 2|4|DET 3|4|COMPOUND 4|13|NSUBJ 5|6|CC 6|4|CONJ 7|13|CC 8|13|ADVMOD 9|13|NSUBJ 10|13|COP 11|13|DET 12|13|AMOD 13|0|ROOT 14|18|PUNCT 15|18|NSUBJ 16|18|AUX 17|18|ADVMOD 18|13|PARATAXIS 19|13|PUNCT
+*A:	you know the Jack shoe shoe person ? 483740_486220
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 det|the-Def-Art propn|Jack noun|shoe noun|shoe noun|person-Acc ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|7|DET 4|7|COMPOUND 5|7|COMPOUND 6|7|COMPOUND 7|2|OBJ 8|2|PUNCT
+*B:	&=mouth:smacks oh yeah , mhm . 486650_487890
+%mor:	intj|oh intj|yeah cm|cm intj|mhm .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|4|PUNCT 4|2|DISCOURSE 5|2|PUNCT
+*A:	in the shoe place in Green Bay it's either that Jack's family . 487490_491030
+%mor:	adp|in det|the-Def-Art noun|shoe noun|place adp|in adj|Green-S1 propn|Bay pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 cconj|either sconj|that propn|Jack~part|s noun|family .
+%gra:	1|4|CASE 2|4|DET 3|4|COMPOUND 4|14|OBL 5|7|CASE 6|7|AMOD 7|4|NMOD 8|14|NSUBJ 9|14|COP 10|14|CC-PRECONJ 11|14|MARK 12|14|NMOD-POSS 13|12|CASE 14|0|ROOT 15|14|PUNCT
+*A:	or it's the two Father Decleans and I don't know which one . 491760_494790
+%mor:	cconj|or pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art num|two propn|Father propn|Declean-Plur cconj|and pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S det|which-Def-Int noun|one-Acc .
+%gra:	1|7|CC 2|7|NSUBJ 3|7|COP 4|7|DET 5|7|NUMMOD 6|7|COMPOUND 7|0|ROOT 8|12|CC 9|12|NSUBJ 10|12|AUX 11|12|ADVMOD 12|7|CONJ 13|14|DET 14|12|OBJ 15|7|PUNCT
+*B:	mm . 495140_495410
+%mor:	intj|mm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	well I have greetings from a whole bunch of people , . 498490_502430
+%mor:	intj|well pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 noun|greeting-Plur-Acc adp|from det|a-Ind-Art adj|whole-S1 noun|bunch adp|of noun|person-Plur cm|cm .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|8|CASE 6|8|DET 7|8|AMOD 8|3|OBL 9|10|CASE 10|8|NMOD 11|3|PUNCT 12|3|PUNCT
+*A:	when I went to a Chicago meeting . 503220_505510
+%mor:	adv|when pron|I-Prs-Nom-S1 verb|go-Fin-Ind-Past-S1-irr adp|to det|a-Ind-Art propn|Chicago noun|meeting-Ger .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|7|CASE 5|7|DET 6|7|COMPOUND 7|3|OBL 8|3|PUNCT
+*B:	who ? 506520_507170
+%mor:	pron|who-Int ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	um , we're doing something called Nama North Ameri- . 507480_511770
+%mor:	intj|um cm|cm pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 verb|do-Part-Pres-S pron|something-Ind-S1 verb|call-Part-Past-S propn|Nama propn|North propn|Ameri .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|6|ACL 8|7|XCOMP 9|10|COMPOUND 10|7|XCOMP 11|5|PUNCT
+*B:	yes , right I think . 511610_512870
+%mor:	intj|yes cm|cm adj|right-S1 pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|DISCOURSE 4|5|NSUBJ 5|0|ROOT 6|5|PUNCT
+*A:	Major Area okay &=breath So I went to the Chicago meeting instead of going to the Milwaukee meeting . 511980_516830
+%mor:	adj|major-S1 propn|Area intj|okay adv|so pron|I-Prs-Nom-S1 verb|go-Fin-Ind-Past-S1-irr adp|to det|the-Def-Art propn|Chicago noun|meeting-Ger adv|instead sconj|of verb|go-Part-Pres-S adp|to det|the-Def-Art propn|Milwaukee noun|meeting-Ger .
+%gra:	1|2|AMOD 2|6|VOCATIVE 3|6|DISCOURSE 4|6|ADVMOD 5|6|NSUBJ 6|0|ROOT 7|10|CASE 8|10|DET 9|10|COMPOUND 10|6|OBL 11|13|MARK 12|11|FIXED 13|6|ADVCL 14|17|CASE 15|17|DET 16|17|COMPOUND 17|13|OBL 18|6|PUNCT
+*A:	so Joanna from Saint <Anne's> [?] asked about you . 517520_521310
+%mor:	adv|so propn|Joanna adp|from propn|Saint propn|Anne~part|s verb|ask-Part-Past-S adp|about pron|you-Prs-Acc-S2 .
+%gra:	1|7|ADVMOD 2|7|NSUBJ 3|5|CASE 4|2|NMOD 5|4|FLAT 6|4|CASE 7|0|ROOT 8|9|CASE 9|7|OBL 10|7|PUNCT
+*B:	oh , no kidding ! 521210_522370
+%mor:	intj|oh cm|cm det|no-Def-Neg noun|kidding-Ger !
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|DET 4|0|ROOT 5|4|PUNCT
+*A:	yes . 522240_523370
+%mor:	intj|yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	yeah , oh+my+gosh . 522659_524410
+%mor:	intj|yeah cm|cm propn|ohmygosh .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|0|ROOT 4|3|PUNCT
+*A:	&=breath and Sister Anna Marie . 524180_526390
+%mor:	cconj|and propn|Sister propn|Anna propn|Marie .
+%gra:	1|2|CC 2|0|ROOT 3|2|FLAT 4|2|FLAT 5|2|PUNCT
+*B:	oh yeah , xxx . 526590_527980
+%mor:	intj|oh intj|yeah cm|cm .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT 4|2|PUNCT
+*A:	she a classmate ? 527570_528380
+%mor:	pron|she-Prs-Nom-S3 det|a-Ind-Art noun|classmate ?
+%gra:	1|3|NSUBJ 2|3|DET 3|0|ROOT 4|3|PUNCT
+*B:	yes . 528570_529090
+%mor:	intj|yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	and Sister Claire . 529570_530690
+%mor:	cconj|and propn|Sister propn|Claire .
+%gra:	1|2|CC 2|0|ROOT 3|2|FLAT 4|2|PUNCT
+*B:	&=breath classmate too yeah . 530870_532710
+%mor:	noun|classmate adv|too intj|yeah .
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|DISCOURSE 4|1|PUNCT
+*A:	and Sister Margaret Rose . 532420_534010
+%mor:	cconj|and propn|Sister propn|Margaret propn|Rose .
+%gra:	1|2|CC 2|0|ROOT 3|2|FLAT 4|2|FLAT 5|2|PUNCT
+*B:	&=breath yes classmate . 533930_536120
+%mor:	intj|yes noun|classmate .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*A:	and Charles Marie from Alfonse's . 536290_538850
+%mor:	cconj|and propn|Charles propn|Marie adp|from propn|Alfonse~part|s .
+%gra:	1|2|CC 2|0|ROOT 3|2|FLAT 4|5|CASE 5|2|NMOD 6|5|CASE 7|2|PUNCT
+*B:	Charles Marie . 539920_541360
+%mor:	propn|Charles propn|Marie .
+%gra:	1|0|ROOT 2|1|FLAT 3|1|PUNCT
+*A:	I thought that's what she said . 541990_543320
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Past-S1-irr pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|what-Rel-S1 pron|she-Prs-Nom-S3 verb|say-Fin-Ind-Past-S3-irr .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|NSUBJ 4|5|COP 5|2|CCOMP 6|7|NSUBJ 7|5|ACL-RELCL 8|2|PUNCT
+*B:	mhm . 543600_544120
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	&=sniff but I'm not sure . 544520_546530
+%mor:	cconj|but pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|not adj|sure-S1 .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|0|ROOT 6|5|PUNCT
+*B:	okay , that I can't place immediately . 549150_551750
+%mor:	intj|okay cm|cm sconj|that pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|place-Inf-S adv|immediately .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|MARK 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|0|ROOT 8|7|ADVMOD 9|7|PUNCT
+*A:	mhm . 551750_552350
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	I mean , I was at Alfonse's but &=yawn I'm trying to think Charles Marie . 553090_557990
+%mor:	pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 cm|cm pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr adp|at propn|Alfonse~part|s cconj|but pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|try-Part-Pres-S part|to verb|think-Inf-S propn|Charles-Acc propn|Marie .
+%gra:	1|2|NSUBJ 2|7|PARATAXIS 3|2|PUNCT 4|7|NSUBJ 5|7|COP 6|7|CASE 7|0|ROOT 8|7|CASE 9|12|CC 10|12|NSUBJ 11|12|AUX 12|7|CONJ 13|14|MARK 14|12|XCOMP 15|14|OBJ 16|15|FLAT 17|7|PUNCT
+*B:	or she may have changed her name or something . 560160_562490
+%mor:	cconj|or pron|she-Prs-Nom-S3 aux|may-Fin-S aux|have-Inf-S verb|change-Part-Past-S pron|her-Prs-Gen-S3 noun|name-Acc cconj|or pron|something-Ind-S1 .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|AUX 5|0|ROOT 6|7|NMOD-POSS 7|5|OBJ 8|9|CC 9|7|CONJ 10|5|PUNCT
+*A:	yeah , that could be . 562450_563510
+%mor:	intj|yeah cm|cm pron|that-Dem aux|could-Fin-S aux|be-Inf-S .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*B:	&=distortion xxx . 562720_564070
+*A:	that could be . 563870_564640
+%mor:	pron|that-Dem aux|could-Fin-S aux|be-Inf-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*A:	she just said Alfonse's and I thought oh well . 565910_568140
+%mor:	pron|she-Prs-Nom-S3 adv|just verb|say-Fin-Ind-Past-S3-irr propn|Alfonse-Acc~part|s cconj|and pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Past-S1-irr intj|oh intj|well .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|3|OBJ 5|4|CASE 6|8|CC 7|8|NSUBJ 8|3|CONJ 9|8|DISCOURSE 10|3|DISCOURSE 11|3|PUNCT
+*B:	mhm . 567630_568090
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	we'll know what that is &=laughs . 569610_571050
+%mor:	pron|we-Prs-Nom-P1~aux|will-Fin-S verb|know-Inf-S pron|what-Int-S1 pron|that-Dem aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|6|NSUBJ 6|4|ACL-RELCL 7|3|PUNCT
+*B:	mhm . 570880_571430
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	&=breath yeah , she could certainly have changed her name . 571470_574220
+%mor:	intj|yeah cm|cm pron|she-Prs-Nom-S3 aux|could-Fin-S adv|certainly aux|have-Inf-S verb|change-Part-Past-S pron|her-Prs-Gen-S3 noun|name-Acc .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|NSUBJ 4|7|AUX 5|7|ADVMOD 6|7|AUX 7|0|ROOT 8|9|NMOD-POSS 9|7|OBJ 10|7|PUNCT
+*A:	and then this weekend I saw Sandy , &-um . 575310_578400
+%mor:	cconj|and adv|then det|this-Def-Dem-Sing noun|weekend pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Past-S1-irr propn|Sandy-Acc cm|cm .
+%gra:	1|6|CC 2|6|ADVMOD 3|4|DET 4|6|OBL-UNMARKED 5|6|NSUBJ 6|0|ROOT 7|6|OBJ 8|6|PUNCT 9|6|PUNCT
+*A:	and she had talked about their meeting this summer . 578950_582040
+%mor:	cconj|and pron|she-Prs-Nom-S3 aux|have-Fin-Ind-Past-S3-irr verb|talk-Part-Past-S adp|about pron|their-Prs-Gen-P3 noun|meeting-Ger det|this-Def-Dem-Sing noun|summer .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|NMOD-POSS 7|4|OBL 8|9|DET 9|4|OBL-UNMARKED 10|4|PUNCT
+*A:	and I said well Joyce wanted to make that . 582740_584940
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr adv|well propn|Joyce verb|want-Fin-Ind-Past-S3 part|to verb|make-Inf-S pron|that-Dem .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|ADVMOD 5|6|NSUBJ 6|3|CCOMP 7|8|MARK 8|6|XCOMP 9|8|OBJ 10|3|PUNCT
+*B:	mhm &=breath what um , . 585650_587960
+%mor:	intj|mhm pron|what-Int-S1 intj|um cm|cm .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|DISCOURSE 4|2|PUNCT 5|2|PUNCT
+*B:	what did she happen to say or maybe you didn't think to ask her , but &=breathdid they manage to get together before Rosario died , or . 588430_595980
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Past-S3-irr pron|she-Prs-Nom-S3 verb|happen-Inf-S part|to verb|say-Inf-S cconj|or adv|maybe pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Past-S2-irr~part|not verb|think-Inf-S part|to verb|ask-Inf-S pron|her-Prs-Acc-S3 cm|cm cconj|but pron|they-Prs-Nom-P3 verb|manage-Fin-Ind-Pres-P3 part|to verb|get-Inf-S adv|together sconj|before propn|Rosario verb|die-Fin-Ind-Past-S3 cm|cm cconj|or .
+%gra:	1|6|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|12|CC 8|12|ADVMOD 9|12|NSUBJ 10|12|AUX 11|12|ADVMOD 12|4|CONJ 13|14|MARK 14|12|XCOMP 15|14|IOBJ 16|19|PUNCT 17|19|CC 18|19|NSUBJ 19|4|CONJ 20|21|MARK 21|19|XCOMP 22|21|ADVMOD 23|25|MARK 24|25|NSUBJ 25|21|ADVCL 26|27|PUNCT 27|4|CONJ 28|4|PUNCT
+*A:	no , I think Rosario died before . 597700_600860
+%mor:	intj|no cm|cm pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 propn|Rosario verb|die-Fin-Ind-Past-S3 adv|before .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|0|ROOT 5|6|NSUBJ 6|4|CCOMP 7|6|ADVMOD 8|4|PUNCT
+*A:	I think Rosario died before , I had asked someone else that . 602960_606190
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 propn|Rosario verb|die-Fin-Ind-Past-S3 adv|before cm|cm pron|I-Prs-Nom-S1 aux|have-Fin-Ind-Past-S1-irr verb|ask-Part-Past-S pron|someone-Ind-S1 adj|else-S1 pron|that-Dem .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NSUBJ 4|2|CCOMP 5|4|ADVMOD 6|9|PUNCT 7|9|NSUBJ 8|9|AUX 9|2|PARATAXIS 10|9|OBJ 11|10|AMOD 12|9|OBL-UNMARKED 13|2|PUNCT
+*A:	ah I don't know who I asked . 608150_609760
+%mor:	intj|ah pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|who-Rel pron|I-Prs-Nom-S1 verb|ask-Fin-Ind-Past-S1 .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|8|OBJ 7|8|NSUBJ 8|5|CCOMP 9|5|PUNCT
+*B:	&=breath . 609680_610150
+*A:	but I'm quite sure it was before . 610450_612030
+%mor:	cconj|but pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|quite adj|sure-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adv|before .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|0|ROOT 6|8|NSUBJ 7|8|COP 8|5|CCOMP 9|5|PUNCT
+*B:	oh , okay . 612460_613500
+%mor:	intj|oh cm|cm intj|okay .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|0|ROOT 4|3|PUNCT
+*A:	but she said they went out to Macquan . 613490_615120
+%mor:	cconj|but pron|she-Prs-Nom-S3 verb|say-Fin-Ind-Past-S3-irr pron|they-Prs-Nom-P3 verb|go-Fin-Ind-Past-P3-irr adp|out adp|to propn|Macquan .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|NSUBJ 5|3|CCOMP 6|5|COMPOUND-PRT 7|8|CASE 8|5|OBL 9|3|PUNCT
+*A:	and they had a tour . 616300_617580
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Past-P3-irr det|a-Ind-Art noun|tour-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*B:	mhm . 618030_618420
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	and she said it was really interesting . 618610_620270
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|say-Fin-Ind-Past-S3-irr pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adv|really adj|interesting-S1 .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|7|NSUBJ 5|7|COP 6|7|ADVMOD 7|3|CCOMP 8|3|PUNCT
+*B:	mm . 620760_621040
+%mor:	intj|mm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	we have a thing going at um , at the college there . 623080_626810
+%mor:	pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 det|a-Ind-Art noun|thing-Acc-Ger verb|go-Ger-S adp|at intj|um cm|cm adp|at det|the-Def-Art noun|college adv|there .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|ACL 6|11|CASE 7|11|DISCOURSE 8|7|PUNCT 9|11|CASE 10|11|DET 11|5|OBL 12|11|ADVMOD 13|2|PUNCT
+*A:	and it's all about sister Sister six toes . 627660_630870
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot adp|about noun|sister noun|sister num|six noun|toe-Plur .
+%gra:	1|7|CC 2|7|NSUBJ 3|7|COP 4|7|ADVMOD 5|7|CASE 6|7|COMPOUND 7|0|ROOT 8|9|NUMMOD 9|7|NMOD-UNMARKED 10|7|PUNCT
+*A:	they opened this one room in the basement , and there was something that looked like a casket . 632820_638230
+%mor:	pron|they-Prs-Nom-P3 verb|open-Fin-Ind-Past-P3 det|this-Def-Dem-Sing num|one noun|room-Acc adp|in det|the-Def-Art noun|basement cm|cm cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Past-S3-irr pron|something-Ind-S1 pron|that-Rel verb|look-Fin-Ind-Past-S3 adp|like det|a-Ind-Art noun|casket .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|DET 4|5|NUMMOD 5|2|OBJ 6|8|CASE 7|8|DET 8|2|OBL 9|12|PUNCT 10|12|CC 11|12|EXPL 12|2|CONJ 13|12|NSUBJ 14|15|NSUBJ 15|13|ACL-RELCL 16|18|CASE 17|18|DET 18|15|OBL 19|2|PUNCT
+*A:	and so they just named it Sister six toe . 638830_641740
+%mor:	cconj|and adv|so pron|they-Prs-Nom-P3 adv|just verb|name-Fin-Ind-Past-P3 pron|it-Prs-Acc-S3 propn|Sister-Acc num|six noun|toe .
+%gra:	1|5|CC 2|5|ADVMOD 3|5|NSUBJ 4|5|ADVMOD 5|0|ROOT 6|5|OBJ 7|5|OBJ 8|9|NUMMOD 9|5|OBL-UNMARKED 10|5|PUNCT
+*B:	&=laughs . 642790_643080
+*A:	&=breath and so when the freshmen come , they tell them about sister six toes and they'd better be good or she's going to get after them .
+%mor:	cconj|and adv|so adv|when det|the-Def-Art noun|freshmen-Plur verb|come-Fin-Ind-Pres-P3 cm|cm pron|they-Prs-Nom-P3 verb|tell-Fin-Ind-Pres-P3 pron|they-Prs-Acc-P3 adp|about noun|sister num|six noun|toe-Plur cconj|and pron|they-Prs-Nom-P3~aux|would-Fin-S adv|well aux|be-Inf-S adj|good-S1 cconj|or pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|get-Inf-S adp|after pron|they-Prs-Acc-P3 .
+%gra:	1|9|CC 2|9|ADVMOD 3|6|ADVMOD 4|5|DET 5|6|NSUBJ 6|9|ADVCL 7|6|PUNCT 8|9|NSUBJ 9|0|ROOT 10|9|IOBJ 11|14|CASE 12|14|COMPOUND 13|14|NUMMOD 14|9|OBL 15|20|CC 16|20|NSUBJ 17|20|AUX 18|20|ADVMOD 19|20|COP 20|9|CONJ 21|24|CC 22|24|NSUBJ 23|24|AUX 24|20|CONJ 25|26|MARK 26|24|XCOMP 27|28|CASE 28|26|OBL 29|9|PUNCT
+*A:	&=laughs . 643050_650450
+*A:	is that crazy ? 651430_652440
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|that-Dem adj|crazy-S1 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*B:	&=breath . 652490_653690
+*B:	&=laughs xxx . 653980_654480
+*A:	&=breath . 654970_655610
+*B:	&=laughs just one other rumor we have to overcome . 655240_659260
+%mor:	adv|just num|one adj|other-S1 noun|rumor pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 part|to verb|overcome-Inf-S .
+%gra:	1|4|ADVMOD 2|4|NUMMOD 3|4|AMOD 4|0|ROOT 5|6|NSUBJ 6|4|ACL-RELCL 7|8|MARK 8|6|XCOMP 9|4|PUNCT
+*A:	right . 659160_659860
+%mor:	adj|right-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	&=laughs . 659720_660150
+*A:	right &=breath . 660160_661610
+%mor:	adj|right-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	&=breath . 661450_661970
+*A:	it's funny because one time , &-um . 661740_663650
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|funny-S1 adp|because num|one noun|time cm|cm .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|6|CASE 5|6|NUMMOD 6|3|OBL 7|3|PUNCT 8|3|PUNCT
+*B:	0 . 663050_664280
+%com:	sound of rubber phone cord stretching .
+*A:	I have several workers I had last year , several students from . 664210_669260
+%mor:	pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 adj|several-S1 noun|worker-Plur-Acc pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Past-S1-irr adj|last-S1 noun|year cm|cm adj|several-S1 noun|student-Plur adp|from .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|AMOD 4|2|OBJ 5|6|NSUBJ 6|4|ACL-RELCL 7|8|AMOD 8|6|OBL-UNMARKED 9|11|PUNCT 10|11|AMOD 11|4|APPOS 12|11|NMOD 13|2|PUNCT
+*A:	Concordia who came and worked . 669630_671080
+%mor:	propn|Concordia pron|who-Rel verb|come-Fin-Ind-Past-S3-irr cconj|and verb|work-Fin-Ind-Past-S3 .
+%gra:	1|0|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|5|CC 5|3|CONJ 6|1|PUNCT
+*A:	and worked worked with students with me .
+%mor:	cconj|and verb|work-Fin-Ind-Past-S1 verb|work-Fin-Ind-Past-S adp|with noun|student-Plur adp|with pron|I-Prs-Acc-S1 .
+%gra:	1|2|CC 2|0|ROOT 3|2|XCOMP 4|5|CASE 5|3|OBL 6|7|CASE 7|3|OBL 8|2|PUNCT
+*A:	and so one day I said well would you give me a tour . 671620_677740
+%mor:	cconj|and adv|so num|one noun|day pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr adv|well aux|would-Fin-S pron|you-Prs-Nom-S2 verb|give-Inf-S pron|I-Prs-Acc-S1 det|a-Ind-Art noun|tour-Acc .
+%gra:	1|6|CC 2|6|ADVMOD 3|4|NUMMOD 4|6|OBL-UNMARKED 5|6|NSUBJ 6|0|ROOT 7|6|ADVMOD 8|10|AUX 9|10|NSUBJ 10|6|CCOMP 11|10|IOBJ 12|13|DET 13|10|OBJ 14|6|PUNCT
+*A:	and so they took me out and showed me you know . 678470_681050
+%mor:	cconj|and adv|so pron|they-Prs-Nom-P3 verb|take-Fin-Ind-Past-P3-irr pron|I-Prs-Acc-S1 adp|out cconj|and verb|show-Fin-Ind-Past-P3 pron|I-Prs-Acc-S1 pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|0|ROOT 5|4|OBJ 6|4|COMPOUND-PRT 7|8|CC 8|4|CONJ 9|8|IOBJ 10|11|NSUBJ 11|8|CCOMP 12|4|PUNCT
+*A:	all the things that were different , and all the things that were the same . 681880_684420
+%mor:	det|all-Def-Tot det|the-Def-Art noun|thing-Plur pron|that-Rel aux|be-Fin-Ind-Past-P3-irr adj|different-S1 cm|cm cconj|and det|all-Def-Tot det|the-Def-Art noun|thing-Plur pron|that-Rel aux|be-Fin-Ind-Past-P3-irr det|the-Def-Art adj|same-S1 .
+%gra:	1|3|DET-PREDET 2|3|DET 3|0|ROOT 4|6|NSUBJ 5|6|COP 6|3|ACL-RELCL 7|11|PUNCT 8|11|CC 9|11|DET-PREDET 10|11|DET 11|3|CONJ 12|15|NSUBJ 13|15|COP 14|15|DET 15|11|ACL-RELCL 16|3|PUNCT
+*A:	then we went over to the guest house , um , we were way over on the lake . 684870_688650
+%mor:	adv|then pron|we-Prs-Nom-P1 verb|go-Fin-Ind-Past-P1-irr adv|over adp|to det|the-Def-Art noun|guest noun|house cm|cm intj|um cm|cm pron|we-Prs-Nom-P1 aux|be-Fin-Ind-Past-P1-irr adv|way adv|over adp|on det|the-Def-Art noun|lake .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|3|ADVMOD 5|8|CASE 6|8|DET 7|8|COMPOUND 8|3|OBL 9|10|PUNCT 10|18|DISCOURSE 11|10|PUNCT 12|15|NSUBJ 13|15|COP 14|15|ADVMOD 15|18|ADVMOD 16|18|CASE 17|18|DET 18|3|PARATAXIS 19|3|PUNCT
+*B:	mhm . 689080_689500
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	and they had like forty or fifty boys in that one little place . 689230_694300
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Past-P3-irr intj|like num|forty cconj|or num|fifty noun|boy-Plur-Acc adp|in det|that-Def-Dem-Sing num|one adj|little-S1 noun|place .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|8|DISCOURSE 5|8|NUMMOD 6|7|CC 7|5|CONJ 8|3|OBJ 9|13|CASE 10|13|DET 11|13|NUMMOD 12|13|AMOD 13|3|OBL 14|3|PUNCT
+*A:	like four in a room and double bunks , you know , . 695340_697750
+%mor:	intj|like num|four adp|in det|a-Ind-Art noun|room cconj|and adj|double-S1 noun|bunk-Plur cm|cm pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 cm|cm .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|5|CASE 4|5|DET 5|2|NMOD 6|8|CC 7|8|AMOD 8|5|CONJ 9|11|PUNCT 10|11|NSUBJ 11|2|PARATAXIS 12|2|PUNCT 13|2|PUNCT
+*A:	anyway , we were coming up to the door , and I looked down at the mat . 698430_702190
+%mor:	intj|anyway cm|cm pron|we-Prs-Nom-P1 aux|be-Fin-Ind-Past-P1-irr verb|come-Part-Pres-S adp|up adp|to det|the-Def-Art noun|door cm|cm cconj|and pron|I-Prs-Nom-S1 verb|look-Fin-Ind-Past-S1 adp|down adp|at det|the-Def-Art noun|mat .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|13|PUNCT 11|13|CC 12|13|NSUBJ 13|5|CONJ 14|13|COMPOUND-PRT 15|17|CASE 16|17|DET 17|13|OBL 18|5|PUNCT
+*B:	&=distortion . 698580_698780
+*A:	and there it said F F N D and I said [=! whispering] . 702900_707390
+%mor:	cconj|and pron|there-Int-S1 pron|it-Prs-Nom-S3 verb|say-Fin-Ind-Past-S3-irr propn|F-Acc propn|F propn|N propn|D cconj|and pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr .
+%gra:	1|4|CC 2|4|EXPL 3|4|NSUBJ 4|0|ROOT 5|4|OBJ 6|5|FLAT 7|5|FLAT 8|5|FLAT 9|10|CC 10|5|CONJ 11|4|CCOMP 12|4|PUNCT
+*A:	wow , and the boy said , well we don't know what that is , it's been there a while , and we don't know what that means . 708390_714700
+%mor:	intj|wow cm|cm cconj|and det|the-Def-Art noun|boy verb|say-Fin-Ind-Past-S3-irr cm|cm intj|well pron|we-Prs-Nom-P1 aux|do-Fin-Ind-Pres-P1~part|not verb|know-Inf-S pron|what-Rel-S1 pron|that-Dem aux|be-Fin-Ind-Pres-S3 cm|cm pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 aux|be-Part-Past-S-irr adv|there det|a-Ind-Art noun|while cm|cm cconj|and pron|we-Prs-Nom-P1 aux|do-Fin-Ind-Pres-P1~part|not verb|know-Inf-S pron|what-Int-S1 pron|that-Dem verb|mean-Fin-Ind-Pres-S3 .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|CC 4|5|DET 5|6|NSUBJ 6|0|ROOT 7|12|PUNCT 8|12|DISCOURSE 9|12|NSUBJ 10|12|AUX 11|12|ADVMOD 12|6|CCOMP 13|12|OBJ 14|15|NSUBJ 15|13|COP 16|20|PUNCT 17|20|NSUBJ 18|20|COP 19|20|COP 20|12|PARATAXIS 21|22|DET 22|20|OBL-UNMARKED 23|28|PUNCT 24|28|CC 25|28|NSUBJ 26|28|AUX 27|28|ADVMOD 28|12|CONJ 29|28|OBJ 30|31|NSUBJ 31|29|ACL-RELCL 32|6|PUNCT
+*A:	and I said well , I know what it means &=laughs . 715850_719050
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr intj|well cm|cm pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 pron|what-Rel-S1 pron|it-Prs-Nom-S3 verb|mean-Fin-Ind-Pres-S3 .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|DISCOURSE 5|7|PUNCT 6|7|NSUBJ 7|3|PARATAXIS 8|7|OBJ 9|10|NSUBJ 10|8|ACL-RELCL 11|3|PUNCT
+*B:	huh . 718960_719280
+%mor:	intj|huh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	you know it means School Sister of Notre Dame . 719300_722010
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|it-Prs-Nom-S3 verb|mean-Fin-Ind-Pres-S3 propn|School propn|Sister-Acc adp|of propn|Notre propn|Dame .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NSUBJ 4|2|CCOMP 5|6|COMPOUND 6|4|OBJ 7|8|CASE 8|9|COMPOUND 9|6|NMOD 10|2|PUNCT
+*A:	and so then on our way out , he said , do you want to take that with you I said no , I don't . 723260_726960
+%mor:	cconj|and adv|so adv|then adp|on pron|our-Prs-Gen-P1 noun|way adp|out cm|cm pron|he-Prs-Nom-S3 verb|say-Fin-Ind-Past-S3-irr cm|cm aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S part|to verb|take-Inf-S pron|that-Dem adp|with pron|you-Prs-Acc-S2 pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr intj|no cm|cm pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not .
+%gra:	1|10|CC 2|10|ADVMOD 3|10|ADVMOD 4|6|CASE 5|6|NMOD-POSS 6|10|OBL 7|6|CASE 8|6|PUNCT 9|10|NSUBJ 10|0|ROOT 11|14|PUNCT 12|14|AUX 13|14|NSUBJ 14|10|CCOMP 15|16|MARK 16|14|XCOMP 17|16|OBJ 18|19|CASE 19|16|OBL 20|21|NSUBJ 21|14|PARATAXIS 22|21|DISCOURSE 23|25|PUNCT 24|25|NSUBJ 25|21|PARATAXIS 26|25|ADVMOD 27|10|PUNCT
+*A:	I want it to stay right here , &=breath , so you remember us . 727290_731080
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 part|to verb|stay-Inf-S adv|right adv|here cm|cm cm|cm adv|so pron|you-Prs-Nom-S2 verb|remember-Fin-Ind-Pres-S2 pron|we-Prs-Acc-P1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|7|ADVMOD 7|5|ADVMOD 8|12|PUNCT 9|12|PUNCT 10|12|ADVMOD 11|12|NSUBJ 12|2|PARATAXIS 13|12|OBJ 14|2|PUNCT
+*A:	&=breath so it was kind of interesting &=breath . 731760_734600
+%mor:	adv|so pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr noun|kind adp|of adj|interesting-S1 .
+%gra:	1|6|DISCOURSE 2|6|NSUBJ 3|6|COP 4|6|ADVMOD 5|4|FIXED 6|0|ROOT 7|6|PUNCT
+*B:	party boys . 734430_735750
+%mor:	noun|party noun|boy-Plur .
+%gra:	1|2|COMPOUND 2|0|ROOT 3|2|PUNCT
+*A:	yes &=breath do you remember how big that building is ? 736350_739070
+%mor:	intj|yes aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|remember-Inf-S adv|how adj|big-S1 det|that-Def-Dem-Sing noun|building-Ger aux|be-Fin-Ind-Pres-S3 ?
+%gra:	1|4|DISCOURSE 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|6|ADVMOD 6|4|CCOMP 7|8|DET 8|6|NSUBJ 9|6|COP 10|4|PUNCT
+*B:	no , but &-um . 739260_740570
+%mor:	intj|no cm|cm cconj|but .
+%gra:	1|0|ROOT 2|1|PUNCT 3|1|CONJ 4|1|PUNCT
+*A:	how small it is &=distortion &=echo . 739660_741270
+%mor:	adv|how adj|small-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|NSUBJ 4|2|COP 5|2|PUNCT
+*B:	isn't that big , I can remember . 741160_743020
+%mor:	aux|be-Fin-Ind-Pres-S3~part|not adv|that adj|big-S1 cm|cm pron|I-Prs-Nom-S1 aux|can-Fin-S verb|remember-Inf-S .
+%gra:	1|4|COP 2|4|ADVMOD 3|4|ADVMOD 4|0|ROOT 5|8|PUNCT 6|8|NSUBJ 7|8|AUX 8|4|PARATAXIS 9|4|PUNCT
+*A:	I know it , it's awful . 741770_744590
+%mor:	pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 cm|cm pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|awful-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|7|PUNCT 5|7|NSUBJ 6|7|COP 7|2|PARATAXIS 8|2|PUNCT
+*A:	I just saw one of the rooms , and I mean it was just body to body and bed to bed .
+%mor:	pron|I-Prs-Nom-S1 adv|just verb|see-Fin-Ind-Past-S1-irr num|one adp|of det|the-Def-Art noun|room-Plur cm|cm cconj|and pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adv|just noun|body adp|to noun|body cconj|and noun|bed adp|to verb|bed-Inf-S .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|3|OBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|15|PUNCT 9|15|CC 10|11|NSUBJ 11|15|PARATAXIS 12|15|NSUBJ 13|15|COP 14|15|ADVMOD 15|3|CONJ 16|17|CASE 17|15|NMOD 18|19|CC 19|17|CONJ 20|21|CASE 21|15|ADVCL 22|3|PUNCT
+*A:	I don't know how they can do it . 746200_754400
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S adv|how pron|they-Prs-Nom-P3 aux|can-Fin-S verb|do-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|8|NSUBJ 7|8|AUX 8|5|ADVCL-RELCL 9|8|OBJ 10|4|PUNCT
+*A:	they'd have to go to the library to study , because they surely couldn't study there . 756790_760040
+%mor:	pron|they-Prs-Nom-P3~aux|would-Fin-S verb|have-Inf-S part|to verb|go-Inf-S adp|to det|the-Def-Art noun|library part|to verb|study-Inf-S cm|cm sconj|because pron|they-Prs-Nom-P3 adv|surely aux|could-Fin-S~part|not verb|study-Inf-S adv|there .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|10|MARK 10|5|ADVCL 11|17|PUNCT 12|17|MARK 13|17|NSUBJ 14|17|ADVMOD 15|17|AUX 16|17|ADVMOD 17|5|ADVCL 18|17|ADVMOD 19|3|PUNCT
+*A:	&=lipsmack &=breath anyway . 761680_763410
+%mor:	intj|anyway .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	that was the patron for visitors , right , of . 763780_766720
+%mor:	pron|that-Dem aux|be-Fin-Ind-Past-S3-irr det|the-Def-Art noun|patron adp|for noun|visitor-Plur cm|cm adj|right-S1 cm|cm adp|of .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|0|ROOT 5|6|CASE 6|4|NMOD 7|8|PUNCT 8|4|DISCOURSE 9|8|PUNCT 10|4|DISCOURSE 11|4|PUNCT
+*A:	yeah , for yeah . 766660_767740
+%mor:	intj|yeah cm|cm adp|for intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT 3|4|CASE 4|1|DISCOURSE 5|1|PUNCT
+*B:	families of , yeah . 767350_768690
+%mor:	noun|family-Plur adp|of cm|cm intj|yeah .
+%gra:	1|0|ROOT 2|1|NMOD 3|2|PUNCT 4|1|DISCOURSE 5|1|PUNCT
+*A:	right , for guests . 768830_769610
+%mor:	adj|right-S1 cm|cm adp|for noun|guest-Plur .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|CASE 4|0|ROOT 5|4|PUNCT
+*B:	mhm , &=breath gosh . 770020_772660
+%mor:	intj|mhm cm|cm intj|gosh .
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|DISCOURSE 4|1|PUNCT
+*A:	mhm . 771110_771640
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	isn't that something ? 773390_774020
+%mor:	aux|be-Fin-Ind-Pres-S3~part|not pron|that-Dem pron|something-Ind-S1 ?
+%gra:	1|4|COP 2|4|ADVMOD 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+*B:	that is . 774370_775060
+%mor:	pron|that-Dem aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*A:	&=breath . 775050_775610
+*B:	&=breath so they have , I didn't know they had , &-uh . 776230_778850
+%mor:	adv|so pron|they-Prs-Nom-P3 aux|have-Fin-Ind-Pres-P3 cm|cm pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr~part|not verb|know-Inf-S pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Past-P3-irr cm|cm .
+%gra:	1|8|ADVMOD 2|3|NSUBJ 3|8|REPARANDUM 4|3|PUNCT 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|0|ROOT 9|10|NSUBJ 10|8|CCOMP 11|8|PUNCT 12|8|PUNCT
+*B:	residential &=yawning . 780190_781150
+%mor:	adj|residential-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	oh yes . 781900_783150
+%mor:	intj|oh intj|yes .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*B:	oh . 783780_784070
+%mor:	intj|oh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	we have changed all the dorms in the high school . 784310_788470
+%mor:	pron|we-Prs-Nom-P1 aux|have-Fin-Ind-Pres-P1 verb|change-Part-Past-S det|all-Def-Tot det|the-Def-Art noun|dorm-Plur-Acc adp|in det|the-Def-Art adj|high-S1 noun|school .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|DET-PREDET 5|6|DET 6|3|OBJ 7|10|CASE 8|10|DET 9|10|AMOD 10|3|OBL 11|3|PUNCT
+*A:	in the candidature , in the novitiate no , not the novitiate the novitiate I think they've kept like as a retreat center . 788950_796330
+%mor:	adp|in det|the-Def-Art noun|candidature cm|cm adp|in det|the-Def-Art noun|novitiate intj|no cm|cm part|not det|the-Def-Art noun|novitiate det|the-Def-Art noun|novitiate pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|they-Prs-Nom-P3~aux|have-Fin-Ind-Pres-P3 verb|keep-Part-Past-S-irr adp|like adp|as det|a-Ind-Art noun|retreat noun|center .
+%gra:	1|3|CASE 2|3|DET 3|12|OBL 4|3|PUNCT 5|7|CASE 6|7|DET 7|12|OBL 8|12|DISCOURSE 9|8|PUNCT 10|12|ADVMOD 11|12|DET 12|0|ROOT 13|14|DET 14|12|NSUBJ 15|16|NSUBJ 16|14|ACL-RELCL 17|19|NSUBJ 18|19|AUX 19|16|CCOMP 20|19|COMPOUND-PRT 21|24|CASE 22|24|DET 23|24|COMPOUND 24|19|OBL 25|12|PUNCT
+*A:	for couples , but &-um the candidature and the asyrinsure . 797070_802300
+%mor:	adp|for noun|couple-Plur cm|cm cconj|but det|the-Def-Art noun|candidature cconj|and det|the-Def-Art noun|asyrinsure .
+%gra:	1|2|CASE 2|0|ROOT 3|6|PUNCT 4|6|CC 5|6|DET 6|2|CONJ 7|9|CC 8|9|DET 9|6|CONJ 10|2|PUNCT
+*A:	all of the rooms have been converted . 802730_804760
+%mor:	det|all-Def-Tot adp|of det|the-Def-Art noun|room-Plur aux|have-Fin-Ind-Pres-P3 aux|be-Part-Past-S-irr verb|convert-Part-Past-S .
+%gra:	1|7|NSUBJ-PASS 2|4|CASE 3|4|DET 4|1|NMOD 5|7|AUX 6|7|AUX-PASS 7|0|ROOT 8|7|PUNCT
+*A:	all of the dorms have been converted to I I don't know , maybe six rooms . 805840_810410
+%mor:	det|all-Def-Tot adp|of det|the-Def-Art noun|dorm-Plur aux|have-Fin-Ind-Pres-P3 aux|be-Part-Past-S-irr verb|convert-Part-Past-S adp|to pron|I-Prs-Nom-S1 pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S cm|cm adv|maybe num|six noun|room-Plur .
+%gra:	1|7|NSUBJ-PASS 2|4|CASE 3|4|DET 4|1|NMOD 5|7|AUX 6|7|AUX-PASS 7|0|ROOT 8|9|CASE 9|7|OBL 10|13|NSUBJ 11|13|AUX 12|13|ADVMOD 13|7|PARATAXIS 14|17|PUNCT 15|17|ADVMOD 16|17|NUMMOD 17|7|PARATAXIS 18|7|PUNCT
+*A:	but real walls you know , and really complete . 811800_815240
+%mor:	cconj|but adj|real-S1 noun|wall-Plur pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 cm|cm cconj|and adv|really adj|complete-S1 .
+%gra:	1|3|CC 2|3|AMOD 3|0|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|9|PUNCT 7|9|CC 8|9|ADVMOD 9|3|CONJ 10|3|PUNCT
+*B:	hm . 816300_816580
+%mor:	intj|hm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	yeah , mhm . 817110_818150
+%mor:	intj|yeah cm|cm intj|mhm .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|0|ROOT 4|3|PUNCT
+*A:	and it's boys and girls , I think maybe certain wings are one sex or another , I don't know for sure . 819000_824030
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|boy-Plur cconj|and noun|girl-Plur cm|cm pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 adv|maybe adj|certain-S1 noun|wing-Plur aux|be-Fin-Ind-Pres-P3 num|one noun|sex cconj|or det|another-Def-Ind cm|cm pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S adp|for adj|sure-S1 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|6|CC 6|4|CONJ 7|9|PUNCT 8|9|NSUBJ 9|4|PARATAXIS 10|12|ADVMOD 11|12|AMOD 12|15|NSUBJ 13|15|COP 14|15|NUMMOD 15|9|CCOMP 16|17|CC 17|15|CONJ 18|22|PUNCT 19|22|NSUBJ 20|22|AUX 21|22|ADVMOD 22|15|PARATAXIS 23|24|CASE 24|22|OBL 25|4|PUNCT
+*A:	but both floors xxx and they have I think they've tripled their enrollment . 826050_832940
+%mor:	cconj|but det|both-Def-Tot noun|floor-Plur cconj|and pron|they-Prs-Nom-P3 aux|have-Fin-Ind-Pres-P3 pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|they-Prs-Nom-P3~aux|have-Fin-Ind-Pres-P3 verb|triple-Part-Past-S pron|their-Prs-Gen-P3 noun|enrollment-Acc .
+%gra:	1|8|CC 2|3|DET 3|8|NSUBJ 4|6|CC 5|6|NSUBJ 6|8|AUX 7|8|NSUBJ 8|0|ROOT 9|11|NSUBJ 10|11|AUX 11|8|CCOMP 12|13|NMOD-POSS 13|11|OBJ 14|8|PUNCT
+*B:	hm . 833660_833950
+%mor:	intj|hm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	since they moved out there . 834160_835130
+%mor:	sconj|since pron|they-Prs-Nom-P3 verb|move-Fin-Ind-Past-P3 adp|out adv|there .
+%gra:	1|3|MARK 2|3|NSUBJ 3|0|ROOT 4|3|COMPOUND-PRT 5|3|ADVMOD 6|3|PUNCT
+*B:	no kidding . 836090_836900
+%mor:	det|no-Def-Neg adj|kid-S1 .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*A:	and they thought they were going to lose . 836920_838350
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|think-Fin-Ind-Past-P3-irr pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Past-P3-irr verb|go-Part-Pres-S part|to verb|lose-Inf-S .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|NSUBJ 5|6|AUX 6|3|CCOMP 7|8|MARK 8|6|XCOMP 9|3|PUNCT
+*B:	aye yay yay . 839240_840340
+%mor:	intj|aye intj|yay intj|yay .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|DISCOURSE 4|2|PUNCT
+*A:	isn't that somethin- . 840410_841190
+%mor:	aux|be-Fin-Ind-Pres-S3~part|not pron|that-Dem adj|somethin-S1 .
+%gra:	1|4|COP 2|4|ADVMOD 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+*B:	yeah , I know they thought they were going to lose . 845180_847190
+%mor:	intj|yeah cm|cm pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 pron|they-Prs-Nom-P3 verb|think-Fin-Ind-Past-P3-irr pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Past-P3-irr verb|go-Part-Pres-S part|to verb|lose-Inf-S .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|0|ROOT 5|6|NSUBJ 6|4|CCOMP 7|9|NSUBJ 8|9|AUX 9|6|CCOMP 10|11|MARK 11|9|XCOMP 12|4|PUNCT
+*A:	yeah . 847100_847580
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	wow . 848860_849400
+%mor:	intj|wow .
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	yeah . 849570_849870
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	so it's been a good move for them . 851830_853290
+%mor:	adv|so pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 aux|be-Part-Past-S-irr det|a-Ind-Art adj|good-S1 noun|move adp|for pron|they-Prs-Acc-P3 .
+%gra:	1|7|DISCOURSE 2|7|NSUBJ 3|7|COP 4|7|COP 5|7|DET 6|7|AMOD 7|0|ROOT 8|9|CASE 9|7|NMOD 10|7|PUNCT
+*A:	for sure , for sure . 854990_856140
+%mor:	adp|for adj|sure-S1 cm|cm adp|for adj|sure-S1 .
+%gra:	1|2|CASE 2|0|ROOT 3|5|PUNCT 4|5|CASE 5|2|OBL 6|2|PUNCT
+*A:	and today I just got home from , &=breath I don't know if you know it but we're . 861070_865310
+%mor:	cconj|and noun|today pron|I-Prs-Nom-S1 adv|just verb|get-Fin-Ind-Past-S1-irr adv|home adp|from cm|cm pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S sconj|if pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|it-Prs-Acc-S3 cconj|but pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 .
+%gra:	1|5|CC 2|5|OBL-UNMARKED 3|5|NSUBJ 4|5|ADVMOD 5|0|ROOT 6|5|ADVMOD 7|12|MARK 8|7|PUNCT 9|12|NSUBJ 10|12|AUX 11|12|ADVMOD 12|5|PARATAXIS 13|15|MARK 14|15|NSUBJ 15|12|CCOMP 16|15|OBJ 17|19|CC 18|19|NSUBJ 19|12|CONJ 20|5|PUNCT
+*A:	&=clears:throat we're in the middle of a big fund drive . 866460_869450
+%mor:	pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 adp|in det|the-Def-Art noun|middle adp|of det|a-Ind-Art adj|big-S1 noun|fund noun|drive .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|CASE 4|5|DET 5|0|ROOT 6|10|CASE 7|10|DET 8|10|AMOD 9|10|COMPOUND 10|5|NMOD 11|5|PUNCT
+*A:	as always we're running out of money and &-um . 870930_875590
+%mor:	sconj|as adv|always pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 verb|run-Part-Pres-S adp|out adp|of noun|money cconj|and .
+%gra:	1|2|MARK 2|5|ADVMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|6|FIXED 8|5|OBL 9|5|CONJ 10|5|PUNCT
+*A:	&~Vic is one of the people who's asking people for money . 875970_878910
+%mor:	aux|be-Fin-Ind-Pres-S3 num|one adp|of det|the-Def-Art noun|person-Plur pron|who-Rel~aux|be-Fin-Ind-Pres-S3 verb|ask-Part-Pres-S noun|person-Plur adp|for noun|money .
+%gra:	1|2|COP 2|0|ROOT 3|5|CASE 4|5|DET 5|2|NMOD 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|8|IOBJ 10|11|CASE 11|8|OBL 12|2|PUNCT
+*A:	or . 880180_880390
+%mor:	cconj|or .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	yeah , he did tell me that when he called , yeah . 880240_882910
+%mor:	intj|yeah cm|cm pron|he-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3-irr verb|tell-Inf-S pron|I-Prs-Acc-S1 sconj|that adv|when pron|he-Prs-Nom-S3 verb|call-Fin-Ind-Past-S3 cm|cm intj|yeah .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|IOBJ 7|10|MARK 8|10|ADVMOD 9|10|NSUBJ 10|5|ADVCL 11|12|PUNCT 12|5|DISCOURSE 13|5|PUNCT
+*A:	he did he yeah . 881800_883560
+%mor:	pron|he-Prs-Nom-S3 verb|do-Fin-Ind-Past-S3-irr pron|he-Prs-Nom-S3 intj|yeah .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|2|DISCOURSE 5|2|PUNCT
+*A:	and um , for that celebration , which is going to be in March I guess for the ending of it , . 884430_889810
+%mor:	cconj|and intj|um cm|cm adp|for det|that-Def-Dem-Sing noun|celebration cm|cm pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to aux|be-Inf-S adp|in propn|March pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 adp|for det|the-Def-Art noun|ending-Ger adp|of pron|it-Prs-Acc-S3 cm|cm .
+%gra:	1|16|CC 2|16|DISCOURSE 3|2|PUNCT 4|6|CASE 5|6|DET 6|16|OBL 7|6|PUNCT 8|10|NSUBJ 9|10|AUX 10|6|ACL-RELCL 11|14|MARK 12|14|COP 13|14|CASE 14|10|XCOMP 15|16|NSUBJ 16|0|ROOT 17|19|CASE 18|19|DET 19|16|OBL 20|21|CASE 21|19|NMOD 22|16|PUNCT 23|16|PUNCT
+*A:	we're having a Sisters' choir sing . 890800_894030
+%mor:	pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 verb|have-Part-Pres-S det|a-Ind-Art propn|Sister-Plur~part|s noun|choir noun|sing-Acc-Ger .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|8|NMOD-POSS 6|5|CASE 7|8|COMPOUND 8|3|OBJ 9|3|PUNCT
+*A:	and I just came back from practice at Elm Grove . 895300_897680
+%mor:	cconj|and pron|I-Prs-Nom-S1 adv|just verb|come-Fin-Ind-Past-S1-irr adv|back adp|from noun|practice adp|at propn|Elm propn|Grove .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|4|ADVMOD 6|7|CASE 7|4|OBL 8|10|CASE 9|10|COMPOUND 10|4|OBL 11|4|PUNCT
+*A:	with Sister Anne Celine , oh Sister Anne Celine , Anne Celine Doan . 898390_902250
+%mor:	adp|with propn|Sister propn|Anne propn|Celine cm|cm intj|oh propn|Sister propn|Anne propn|Celine cm|cm propn|Anne propn|Celine propn|Doan .
+%gra:	1|2|CASE 2|0|ROOT 3|2|FLAT 4|2|FLAT 5|7|PUNCT 6|7|DISCOURSE 7|2|CONJ 8|7|FLAT 9|7|FLAT 10|11|PUNCT 11|2|CONJ 12|11|FLAT 13|11|FLAT 14|2|PUNCT
+*B:	yeah . 902690_903050
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	directing us . 903180_903890
+%mor:	verb|direct-Part-Pres-S pron|we-Prs-Acc-P1 .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*B:	oh . 904570_905100
+%mor:	intj|oh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	yeah , and we're doing about four songs from the Mount Mary hymnal . 905220_910190
+%mor:	intj|yeah cm|cm cconj|and pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 verb|do-Part-Pres-S adv|about num|four noun|song-Plur-Acc adp|from det|the-Def-Art propn|Mount propn|Mary noun|hymnal .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|CC 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|8|ADVMOD 8|9|NUMMOD 9|6|OBJ 10|14|CASE 11|14|DET 12|14|COMPOUND 13|12|FLAT 14|9|NMOD 15|6|PUNCT
+*A:	praise be to you oh Lord . 910520_912280
+%mor:	noun|praise aux|be-Fin-S adp|to pron|you-Prs-Acc-S2 intj|oh propn|Lord .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|0|ROOT 5|6|DISCOURSE 6|4|VOCATIVE 7|4|PUNCT
+*B:	oh+my+gosh &=breath . 911800_913680
+%mor:	propn|ohmygosh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	&=breath and ah Regina_Caeli and we're doing of course the Magnificat . 913170_919050
+%mor:	cconj|and intj|ah propn|ReginaCaeli cconj|and pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 verb|do-Part-Pres-S adp|of noun|course det|the-Def-Art propn|Magnificat-Acc .
+%gra:	1|7|CC 2|7|DISCOURSE 3|7|VOCATIVE 4|5|CC 5|3|CONJ 6|7|AUX 7|0|ROOT 8|11|ADVMOD 9|8|FIXED 10|11|DET 11|7|OBJ 12|7|PUNCT
+*A:	though it was really , &=breath . 920850_922950
+%mor:	sconj|though pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adv|really cm|cm .
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT 6|4|PUNCT
+*A:	so I think we're having maybe four or five practices and then we're supposed to . 925410_928900
+%mor:	adv|so pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 verb|have-Part-Pres-S adv|maybe num|four cconj|or num|five noun|practice-Plur-Acc cconj|and adv|then pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 verb|suppose-Part-Past-S part|to .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|6|NSUBJ 5|6|AUX 6|3|CCOMP 7|8|ADVMOD 8|11|NUMMOD 9|10|CC 10|8|CONJ 11|6|OBJ 12|16|CC 13|16|ADVMOD 14|16|NSUBJ-PASS 15|16|AUX-PASS 16|3|CONJ 17|16|XCOMP 18|3|PUNCT
+*A:	so I think there are about maybe thirty of us . 931770_933860
+%mor:	adv|so pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 adv|about adv|maybe num|thirty adp|of pron|we-Prs-Acc-P1 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|5|EXPL 5|3|CCOMP 6|8|ADVMOD 7|8|ADVMOD 8|5|NSUBJ 9|10|CASE 10|8|NMOD 11|3|PUNCT
+*A:	anyone who wanted to , could you know , join the group . 934830_938000
+%mor:	pron|anyone-Ind-S1 pron|who-Rel verb|want-Fin-Ind-Past-S3 part|to cm|cm aux|could-Fin-S pron|you-Prs-Nom-S2 verb|know-Inf-S cm|cm verb|join-Inf-S det|the-Def-Art noun|group-Acc .
+%gra:	1|8|DISLOCATED 2|3|NSUBJ 3|1|ACL-RELCL 4|3|XCOMP 5|1|PUNCT 6|8|AUX 7|8|NSUBJ 8|0|ROOT 9|10|PUNCT 10|8|PARATAXIS 11|12|DET 12|10|OBJ 13|8|PUNCT
+*A:	and I missed the first practice , so I thought , hm , I can make the second one &=laughs . 940210_944400
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|miss-Fin-Ind-Past-S1 det|the-Def-Art adj|first-S1 noun|practice-Acc cm|cm adv|so pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Past-S1-irr cm|cm intj|hm cm|cm pron|I-Prs-Nom-S1 aux|can-Fin-S verb|make-Inf-S det|the-Def-Art adj|second-S1 noun|one-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|10|PUNCT 8|10|ADVMOD 9|10|NSUBJ 10|3|PARATAXIS 11|12|PUNCT 12|16|DISCOURSE 13|12|PUNCT 14|16|NSUBJ 15|16|AUX 16|10|CCOMP 17|19|DET 18|19|AMOD 19|16|OBJ 20|3|PUNCT
+*B:	hm &=laughs . 943990_945520
+%mor:	intj|hm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*A:	&=breath . 945400_945750
+*B:	cushy is it . 945700_946500
+%mor:	adj|cushy-S1 aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|0|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*A:	yeah . 946500_947160
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	I sent a card to &~Vic . 949120_950590
+%mor:	pron|I-Prs-Nom-S1 verb|send-Fin-Ind-Past-S1-irr det|a-Ind-Art noun|card-Acc adp|to .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT 6|2|PUNCT
+*B:	I I think it just went out . 951660_953320
+%mor:	pron|I-Prs-Nom-S1 pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3 adv|just verb|go-Fin-Ind-Past-S3-irr adp|out .
+%gra:	1|3|NSUBJ 2|3|NSUBJ 3|0|ROOT 4|6|NSUBJ 5|6|ADVMOD 6|3|CCOMP 7|6|COMPOUND-PRT 8|3|PUNCT
+*B:	yesterday before I knew it I just got the idea I put Mayor &=breath Mayor &~Vic Declean &=breath . 953570_958540
+%mor:	noun|yesterday sconj|before pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Past-S1-irr pron|it-Prs-Acc-S3 pron|I-Prs-Nom-S1 adv|just verb|get-Fin-Ind-Past-S1-irr det|the-Def-Art noun|idea-Acc pron|I-Prs-Nom-S1 verb|put-Fin-Ind-Past-S1-irr propn|Mayor-Acc propn|Mayor propn|Declean .
+%gra:	1|8|OBL-UNMARKED 2|4|MARK 3|4|NSUBJ 4|8|ADVCL 5|4|OBJ 6|8|NSUBJ 7|8|ADVMOD 8|0|ROOT 9|10|DET 10|8|OBJ 11|12|NSUBJ 12|10|ACL-RELCL 13|12|OBJ 14|13|FLAT 15|13|FLAT 16|8|PUNCT
+*B:	and then underneath I put Mayoress Leona Declean [=! laughing] . 958660_961320
+%mor:	cconj|and adv|then sconj|underneath pron|I-Prs-Nom-S1 verb|put-Fin-Ind-Past-S1-irr propn|Mayoress-Acc propn|Leona propn|Declean .
+%gra:	1|5|CC 2|5|ADVMOD 3|5|MARK 4|5|NSUBJ 5|0|ROOT 6|5|OBJ 7|6|FLAT 8|6|FLAT 9|5|PUNCT
+*A:	how cute . 961650_962900
+%mor:	adv|how adj|cute-S1 .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|PUNCT
+*B:	&=laughs . 963000_963560
+*A:	&=breath . 963380_964000
+*B:	&=breath . 963880_964240
+*A:	oh , that is darling . 964130_965710
+%mor:	intj|oh cm|cm pron|that-Dem aux|be-Fin-Ind-Pres-S3 adj|darling-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+*B:	and I congratulated them both . 965630_967540
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|congratulate-Fin-Ind-Past-S1 pron|they-Prs-Acc-P3 det|both-Def-Tot .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|3|OBJ 6|3|PUNCT
+*A:	aw , that's nice . 968120_969760
+%mor:	intj|aw cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|nice-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+*B:	because I really think , you know . 969810_971370
+%mor:	sconj|because pron|I-Prs-Nom-S1 adv|really verb|think-Fin-Ind-Pres-S1 cm|cm pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 .
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|7|PUNCT 6|7|NSUBJ 7|4|PARATAXIS 8|4|PUNCT
+*A:	yeah . 970800_971360
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*B:	that's all a part of it . 971690_972840
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot det|a-Ind-Art noun|part adp|of pron|it-Prs-Acc-S3 .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET-PREDET 4|5|DET 5|0|ROOT 6|7|CASE 7|5|NMOD 8|5|PUNCT
+*A:	yes , and Leona is really . 973440_975240
+%mor:	intj|yes cm|cm cconj|and propn|Leona aux|be-Fin-Ind-Pres-S3 adv|really .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|CC 4|6|NSUBJ 5|6|COP 6|0|ROOT 7|6|PUNCT
+*B:	mhm . 975570_976180
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End
