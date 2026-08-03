@@ -18,6 +18,12 @@ The script declined 3 of the 176 files due to unique formatting likely due to a 
 This loss in data will be considered adaquate due to the large sample size provided.
 Columns include: file_id, turn_index, speaker_encounded, text, start_ms, end_ms, and word_count.
 
+Created exploratory_analysis.ipynb to look deep into cleaned data
+
+Created machine_learning.ipynb to compare machine learning models
+
+.\.venv\Scripts\Activate.ps1 to run .venv
+
 [![Workflow Guide](https://img.shields.io/badge/Pro--Guide-pro--analytics--02-green)](https://denisecase.github.io/pro-analytics-02/workflow-b-apply-example-project/)
 [![Python 3.14](https://img.shields.io/badge/python-3.14%2B-blue?logo=python)](./pyproject.toml)
 [![MIT](https://img.shields.io/badge/license-see%20LICENSE-yellow.svg)](./LICENSE)
