@@ -22,6 +22,10 @@ Created exploratory_analysis.ipynb to look deep into cleaned data
 
 Created machine_learning.ipynb to compare machine learning models
 
+Created Gottman_classifier.py
+
+Created visualize_gottman_report.py
+
 .\.venv\Scripts\Activate.ps1 to run .venv
 
 [![Workflow Guide](https://img.shields.io/badge/Pro--Guide-pro--analytics--02-green)](https://denisecase.github.io/pro-analytics-02/workflow-b-apply-example-project/)
